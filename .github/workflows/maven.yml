@@ -32,7 +32,7 @@ jobs:
     - name: Commit files
       run: |
          git config --local user.email "niumoo@126.com"
-         git config --local user.name "niumoo<bot>"
+         git config --local user.name "niumoo"
          git add README.md
          git commit -m "update readme.md"
     - name: Push changes
