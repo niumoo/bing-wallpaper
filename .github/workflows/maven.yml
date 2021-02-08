@@ -4,8 +4,10 @@
 name: Java CI with Maven
 
 on:
+  #push:
+  #  branches: [ main ]
   schedule:
-    - cron: '59 16 * * *' # 定时任务，每天0点10分执行
+    - cron: '11 09 * * *' # 定时任务，每天0点10分执行
   #push:
   #  branches: [ main ]
   #pull_request:
