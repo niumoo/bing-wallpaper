@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-12 | [Flowering almond trees in California's Central Valley (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CentralCaliBlossoms_EN-US0148484264_UHD.jpg) 
+
 2021-02-11 | [Nieve penitente ice formations seen on Agua Negra Pass in the Coquimbo Region of the Andes, Chile (© Art Wolfe/Danita Delimont)](https://cn.bing.com/th?id=OHR.PenitentSnow_EN-US0047515629_UHD.jpg) 
 
 2021-02-10 | [Moon dog photographed at Hug Point Falls on the Oregon coast (© Ben Coffman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MoonDogs_EN-US0007581724_UHD.jpg) 
