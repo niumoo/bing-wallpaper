@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-14 | [Eastern bluebirds in Charlotte, North Carolina (© Elizabeth W. Kearley/Getty Images)](https://cn.bing.com/th?id=OHR.BluebirdsEastern_EN-US5293227470_UHD.jpg) 
+
 2021-02-13 | [Muskox with newborn in the central Arctic coastal plain of Alaska (© Steven Kazlowski/Danita Delimont)](https://cn.bing.com/th?id=OHR.YearoftheOx_EN-US5106152536_UHD.jpg) 
 
 2021-02-12 | [Flowering almond trees in California's Central Valley (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CentralCaliBlossoms_EN-US0148484264_UHD.jpg) 
