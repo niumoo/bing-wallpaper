@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-20 | [Parrotfish off the coast of Negros Oriental province in the Philippines (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.Parrotfish_EN-US6474384190_UHD.jpg) 
+
 2021-02-19 | [Rocks in the Verzasca River near the hamlet of Lavertezzo in the Valle Verzasca of Switzerland (© Robert Seitz/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.VerzascaValley_EN-US6320380092_UHD.jpg) 
 
 2021-02-18 | [Perito Moreno Glacier in Patagonia's Los Glaciares National Park, Argentina (© Juergen Schonnop/Getty Images)](https://cn.bing.com/th?id=OHR.PeritoMorenoArgentina_EN-US6161367346_UHD.jpg) 
