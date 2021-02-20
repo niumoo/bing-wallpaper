@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-21 | [Clearing snowstorm, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AABday_EN-US6703996640_UHD.jpg) 
+
 2021-02-20 | [Parrotfish off the coast of Negros Oriental province in the Philippines (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.Parrotfish_EN-US6474384190_UHD.jpg) 
 
 2021-02-19 | [Rocks in the Verzasca River near the hamlet of Lavertezzo in the Valle Verzasca of Switzerland (© Robert Seitz/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.VerzascaValley_EN-US6320380092_UHD.jpg) 
