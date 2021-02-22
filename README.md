@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-23 | ['Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_UHD.jpg) 
+
 2021-02-22 | [Porto, Portugal (© Kanuman/Shutterstock)](https://cn.bing.com/th?id=OHR.Porto_EN-US6858177103_UHD.jpg) 
 
 2021-02-21 | [Clearing snowstorm, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AABday_EN-US6703996640_UHD.jpg) 
