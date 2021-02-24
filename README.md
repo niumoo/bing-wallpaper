@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-25 | [Le Morne Brabant, Mauritius (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_UHD.jpg) 
+
 2021-02-24 | [Dalmatian pelicans on ice, Lake Kerkini, Greece (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.DalmatianPelicans_EN-US7089551223_UHD.jpg) 
 
 2021-02-23 | ['Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_UHD.jpg) 
