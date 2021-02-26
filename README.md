@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-02-27 | [Red lanterns hanging in Jinli Street, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg) 
+
 2021-02-26 | [Almond blossoms overlooking Trevi, Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://cn.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg) 
 
 2021-02-25 | [Le Morne Brabant, Mauritius (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_UHD.jpg) 
