@@ -17,7 +17,7 @@ import java.net.URL;
 public class HttpUtls {
 
     /**
-     * 获取 HTTP 链接
+     * 获取 HTTP 连接
      *
      * @param url
      * @return
@@ -30,6 +30,13 @@ public class HttpUtls {
         return httpConnection;
     }
 
+    /**
+     * 请求指定 URL 返回内容
+     *
+     * @param url
+     * @return
+     * @throws IOException
+     */
     public static String getHttpContent(String url) throws IOException {
         HttpURLConnection httpUrlConnection = getHttpUrlConnection(url);
         StringBuilder stringBuilder = new StringBuilder();
