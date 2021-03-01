@@ -25,8 +25,8 @@ jobs:
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
     - name: Commit files
       run: |
-         git config --local user.email "niumoo@126.com"
-         git config --local user.name "niumoo"
+         git config --local user.email "553527481@qq.com"
+         git config --local user.name "hf-hf"
          git add README.md
          git commit -m "update readme.md"
     - name: Push changes
