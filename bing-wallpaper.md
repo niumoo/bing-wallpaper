@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-03-03 | [Volcano Llaima with Araucaria trees in the foreground, Conguillío National Park, Chile (© Fotografías Jorge León Cabello/Getty Images)](https://cn.bing.com/th?id=OHR.VolcanoLlaima_EN-US0109967122_UHD.jpg) 
+
 2021-02-28 | [Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)](https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg) 
 
 2021-02-27 | [Red lanterns hanging in Jinli Street, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg) 
