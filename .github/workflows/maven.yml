@@ -28,6 +28,7 @@ jobs:
          git config --local user.email "niumoo@126.com"
          git config --local user.name "niumoo"
          git add README.md
+         git add bing-wallpaper.md
          git commit -m "update readme.md"
     - name: Push changes
       uses:  ad-m/github-push-action@master
