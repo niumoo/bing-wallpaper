@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-03-16 | [Screech owl resting in a tree cavity, Massapequa Preserve, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MassapequaOwl_EN-US8469635086_UHD.jpg) 
+
 2021-03-15 | [Astronomical clock, Lyon, France (© kyolshin/Alamy)](https://cn.bing.com/th?id=OHR.LyonAstronomical_EN-US8367377789_UHD.jpg) 
 
 2021-03-14 | [Common rhododendrons in Semper Forest Park, Rügen, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.Rhododendron_EN-US8246366006_UHD.jpg) 
