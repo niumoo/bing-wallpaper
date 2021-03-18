@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-03-19 | [Mount Etna erupting in 2013, Sicily, Italy (© Wead/Alamy Live News)](https://cn.bing.com/th?id=OHR.MtEtna_EN-US8761813954_UHD.jpg) 
+
 2021-03-18 | [Inisheer, the smallest of the three Aran Islands, in Galway Bay, Ireland (© Chris Hill/Minden Pictures)](https://cn.bing.com/th?id=OHR.Inisheer_EN-US8680602205_UHD.jpg) 
 
 2021-03-17 | [Giant panda cub at Bifengxia Panda Base, Sichuan, China (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BifengxiaPanda_EN-US8585443782_UHD.jpg) 
