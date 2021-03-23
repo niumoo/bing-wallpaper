@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-03-24 | [Satellite image of the Mania River in Madagascar (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)](https://cn.bing.com/th?id=OHR.LoftedMadagascar_EN-US9720623596_UHD.jpg) 
+
 2021-03-23 | [Tuskegee Airmen reading a map (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.TuskegeeAirmen_EN-US9643365119_UHD.jpg) 
 
 2021-03-22 | [Bluebell flowers carpet the Hallerbos forest floor, Flanders, Belgium (© Jason Langley/plainpicture)](https://cn.bing.com/th?id=OHR.HallesWood_EN-US9545891830_UHD.jpg) 
