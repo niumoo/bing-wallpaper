@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-04-02 | [Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShyGuy_EN-US7880739914_UHD.jpg) 
+
 2021-04-01 | [Raja Ampat, an archipelago in Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RajaAmpat_EN-US7737563013_UHD.jpg) 
 
 2021-03-31 | [Detail of an ostrich fern in spring, Washington state (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SwordFern_EN-US7523587413_UHD.jpg) 
