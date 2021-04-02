@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-04-03 | [Lençóis Maranhenses National Park in the state of Maranhão, Brazil (© WIN-Initiative/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilSandDunes_EN-US8030598740_UHD.jpg) 
+
 2021-04-02 | [Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShyGuy_EN-US7880739914_UHD.jpg) 
 
 2021-04-01 | [Raja Ampat, an archipelago in Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RajaAmpat_EN-US7737563013_UHD.jpg) 
