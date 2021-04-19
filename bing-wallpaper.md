@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-04-20 | [Large school of Munk's devil rays seen from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)](https://cn.bing.com/th?id=OHR.Mobula_EN-US7757384682_UHD.jpg) 
+
 2021-04-19 | [Montalbano Elicona, Messina, Sicily, Italy (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MontalbanoElicona_EN-US7629651237_UHD.jpg) 
 
 2021-04-18 | [New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia (© Entropy Workshop/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.NewRiverGorge_EN-US7524399883_UHD.jpg) 
