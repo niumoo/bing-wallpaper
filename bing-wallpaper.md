@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-04-22 | [The north coast of Madeira, Portugal (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.SaoJorgeMadeira_EN-US8002002726_UHD.jpg) 
+
 2021-04-21 | [Tegallalang Rice Terraces, Ubud, Bali, Indonesia (© Michele Falzone/Alamy)](https://cn.bing.com/th?id=OHR.Ceking_EN-US7899895685_UHD.jpg) 
 
 2021-04-20 | [Large school of Munk's devil rays seen from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)](https://cn.bing.com/th?id=OHR.Mobula_EN-US7757384682_UHD.jpg) 
