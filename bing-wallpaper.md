@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-04-24 | [Casa Batlló in Barcelona, Catalonia, Spain (© Marco Arduino/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.BatlloJordi_EN-US0619227174_UHD.jpg) 
+
 2021-04-23 | [Mississippi River on the border between Arkansas and Mississippi (© NASA)](https://cn.bing.com/th?id=OHR.MississippiRiver_EN-US2192534174_UHD.jpg) 
 
 2021-04-22 | [The north coast of Madeira, Portugal (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.SaoJorgeMadeira_EN-US8002002726_UHD.jpg) 
