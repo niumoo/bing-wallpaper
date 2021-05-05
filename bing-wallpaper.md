@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-05-06 | [The Great Pyramid of Cholula, in Cholula, Puebla, Mexico (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.Cholula_EN-US2015612893_UHD.jpg) 
+
 2021-05-05 | [Grey seal hitching itself over the beach at Donna Nook, North Lincolnshire, England (© Frederic Desmette/Minden Pictures)](https://cn.bing.com/th?id=OHR.StarWarsSeal_EN-US1938844381_UHD.jpg) 
 
 2021-05-04 | [Poster for Teacher Appreciation Week by 12-year-old Caroline Holt, 7th-grade student at the Bush School, Seattle, Washington (© Caroline Holt/Eugenia Chang)](https://cn.bing.com/th?id=OHR.TeacherHeart_EN-US1874465116_UHD.jpg) 
