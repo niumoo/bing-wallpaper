@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-05-10 | [Sea otter mother and newborn pup, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.OtterMom_EN-US8059433484_UHD.jpg) 
+
 2021-05-09 | [Black-tailed godwits, Netherlands (© Edward van Altena/Minden Pictures)](https://cn.bing.com/th?id=OHR.LimosaLimosa_EN-US4076563094_UHD.jpg) 
 
 2021-05-08 | [Norcross Brook and wetlands near Moosehead Lake in Piscataquis County, Maine (© Aaron Black-Schmidt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MaineWetland_EN-US3940841989_UHD.jpg) 
