@@ -29,6 +29,9 @@ public class FileUtils {
      * @throws IOException
      */
     public static List<Images> readBing() throws IOException {
+        if (!Files.exists(bingPath)) {
+            Files.createFile(bingPath);
+        }
         List<String> allLines = Files.readAllLines(bingPath);
         allLines = allLines.stream().filter(s -> !s.isEmpty()).collect(Collectors.toList());
         List<Images> imgList = new ArrayList<>();
@@ -72,6 +75,9 @@ public class FileUtils {
      * @throws IOException
      */
     public static List<Images> readReadme() throws IOException {
+        if (!Files.exists(readmePath)) {
+            Files.createFile(readmePath);
+        }
         List<String> allLines = Files.readAllLines(readmePath);
         List<Images> imgList = new ArrayList<>();
         for (int i = 3; i < allLines.size(); i++) {
