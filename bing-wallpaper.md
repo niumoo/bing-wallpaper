@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-05-16 | [Telescopes and star trails at Paranal Observatory, Atacama Desert, Chile (© Matteo Omied/Alamy)](https://cn.bing.com/th?id=OHR.ParanalStars_EN-US4851647464_UHD.jpg) 
+
 2021-05-15 | [Amazon rainforest with morning fog near Alta Floresta, Mato Grosso, Brazil (© Pulsar Imagens/Alamy)](https://cn.bing.com/th?id=OHR.AltaFloresta_EN-US4736416258_UHD.jpg) 
 
 2021-05-14 | [Shikisai no Oka flower gardens in Biei, Japan (© Tanya Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.ShikisaiBiei_EN-US4615475287_UHD.jpg) 
