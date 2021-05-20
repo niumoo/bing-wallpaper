@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-05-21 | [A bee dives into a lotus flower at Kenilworth Park and Aquatic Gardens in Washington, DC (© Linda Davidson/The Washington Post via Getty Images)](https://cn.bing.com/th?id=OHR.BeeLotus_EN-US7861856689_UHD.jpg) 
+
 2021-05-20 | [Fallen rhododendron petals line a trail through Pisgah National Forest, North Carolina (© aheflin/Getty Images Plus)](https://cn.bing.com/th?id=OHR.RoanRhododendron_EN-US8777664012_UHD.jpg) 
 
 2021-05-19 | [Centre Pompidou Málaga in Málaga, Spain (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PompidouMalaga_EN-US7695811401_UHD.jpg) 
