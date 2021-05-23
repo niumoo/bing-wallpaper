@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-05-24 | [The renovated Rose Main Reading Room, New York Public Library Main Branch, New York City (© Sascha Kilmer/Getty Images)](https://cn.bing.com/th?id=OHR.RoseRoom_EN-US7194472524_UHD.jpg) 
+
 2021-05-23 | [The medieval walled town in Tossa de Mar, Catalonia, Spain (© dleiva/Alamy)](https://cn.bing.com/th?id=OHR.CapeofTossa_EN-US6969132211_UHD.jpg) 
 
 2021-05-22 | [Whooping cranes taking off during spring migration in South Dakota (© Gerrit Vyn/Minden Pictures)](https://cn.bing.com/th?id=OHR.WhoopingCranes_EN-US5576295451_UHD.jpg) 
