@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-06-01 | [Military Women's Memorial, located at the gateway to Arlington National Cemetery, Virginia (© Brycia James/Getty Images)](https://cn.bing.com/th?id=OHR.WomensMemorial_EN-US8561851319_UHD.jpg) 
+
 2021-05-31 | [California sea lion in a forest of giant kelp near the Channel Islands of California (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.SeaDog_EN-US8346901369_UHD.jpg) 
 
 2021-05-30 | [Alley and bamboo grove in Wuhou Temple, Chengdu, Sichuan province, China (© Eastimages/Getty Images)](https://cn.bing.com/th?id=OHR.RedAlley_EN-US8215991251_UHD.jpg) 
