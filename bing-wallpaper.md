@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-06-08 | [An indigo bunting on a sunflower (© William Krumpelman/Getty Images)](https://cn.bing.com/th?id=OHR.BuntingBird_EN-US8373607335_UHD.jpg) 
+
 2021-06-07 | [Mulberry harbour at Arromanches-les-Bains, Normandy, France (© agefotostock/Alamy)](https://cn.bing.com/th?id=OHR.ArromanchesLesBains_EN-US8268306845_UHD.jpg) 
 
 2021-06-06 | [Black-mandibled toucan in the rainforest canopy of La Selva Biological Station in Costa Rica (© Greg Basco/Minden Pictures)](https://cn.bing.com/th?id=OHR.ToucanRainforest_EN-US8174584515_UHD.jpg) 
