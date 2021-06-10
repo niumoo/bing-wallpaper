@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-06-11 | [Nossa Senhora da Graça Fort near Elvas, Portugal (© Luis Pina Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.ForteNossa_EN-US8946379841_UHD.jpg) 
+
 2021-06-10 | [Annular eclipse over New Mexico, May 20, 2012 (© ssucsy/Getty Images)](https://cn.bing.com/th?id=OHR.AnnularEclipse_EN-US8858263866_UHD.jpg) 
 
 2021-06-09 | [Thousands of jack fish swimming together at Cabo Pulmo National Park, Sea of Cortez, Baja California, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CortezJacks_EN-US4025428525_UHD.jpg) 
