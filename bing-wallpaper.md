@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-06-24 | [Fireflies in Nichinan, Tottori, Japan (© north-tail/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Nichinan_EN-US5055695100_UHD.jpg) 
+
 2021-06-23 | [Seljalandsfoss waterfall in the South Region of Iceland (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.SouthCoast_EN-US4824290612_UHD.jpg) 
 
 2021-06-22 | [Rothschild's giraffe in Lake Nakuru National Park, Kenya (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.RothschildGiraffe_EN-US4621962761_UHD.jpg) 
