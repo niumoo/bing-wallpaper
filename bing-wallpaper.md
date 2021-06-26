@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-06-27 | [Glass sightseeing platform in Shilinxia Scenic Area, Pinggu District of Beijing, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.Shilinxia_EN-US5445196689_UHD.jpg) 
+
 2021-06-26 | [Empress brilliant hummingbird and a bee in Colombia (© Jiri Hrebicek/Alamy)](https://cn.bing.com/th?id=OHR.Heliodoxa_EN-US5338295561_UHD.jpg) 
 
 2021-06-25 | [Caribou in Denali National Park and Preserve, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg) 
