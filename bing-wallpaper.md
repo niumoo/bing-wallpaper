@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-06-30 | [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg) 
+
 2021-06-29 | [The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)](https://cn.bing.com/th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg) 
 
 2021-06-28 | [Lincoln Center for the Performing Arts lit in Pride colors on June 18, 2020 in New York City (© Alexi Rosenfeld/Getty Images)](https://cn.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_UHD.jpg) 
