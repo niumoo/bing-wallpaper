@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-01 | [Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Manicouagan_EN-US7701393606_UHD.jpg) 
+
 2021-06-30 | [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg) 
 
 2021-06-29 | [The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)](https://cn.bing.com/th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg) 
