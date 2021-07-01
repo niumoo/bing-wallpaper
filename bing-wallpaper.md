@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-02 | ['Passage migratoire' ('Migratory Passage'), an art installation by Giorgia Volpe in Old Québec City, Québec, Canada (© Lucbouch/Getty Images)](https://cn.bing.com/th?id=OHR.HangingCanoes_EN-US0235160370_UHD.jpg) 
+
 2021-07-01 | [Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Manicouagan_EN-US7701393606_UHD.jpg) 
 
 2021-06-30 | [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg) 
