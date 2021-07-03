@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-04 | [Wakatobi National Park, Indonesia (© Fabio Lamanna/Alamy)](https://cn.bing.com/th?id=OHR.WakatobiNP_EN-US4475854788_UHD.jpg) 
+
 2021-07-03 | [A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg) 
 
 2021-07-02 | ['Passage migratoire' ('Migratory Passage'), an art installation by Giorgia Volpe in Old Québec City, Québec, Canada (© Lucbouch/Getty Images)](https://cn.bing.com/th?id=OHR.HangingCanoes_EN-US0235160370_UHD.jpg) 
