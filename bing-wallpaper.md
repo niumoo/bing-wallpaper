@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-05 | [Fireworks in San Francisco, California (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.SFFireworks_EN-US4561699680_UHD.jpg) 
+
 2021-07-04 | [Wakatobi National Park, Indonesia (© Fabio Lamanna/Alamy)](https://cn.bing.com/th?id=OHR.WakatobiNP_EN-US4475854788_UHD.jpg) 
 
 2021-07-03 | [A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg) 
