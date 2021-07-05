@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-06 | [Serra da Malagueta mountains on Santiago Island, Cabo Verde (© Samuel Borges Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SerraMalagueta_EN-US4627693270_UHD.jpg) 
+
 2021-07-05 | [Fireworks in San Francisco, California (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.SFFireworks_EN-US4561699680_UHD.jpg) 
 
 2021-07-04 | [Wakatobi National Park, Indonesia (© Fabio Lamanna/Alamy)](https://cn.bing.com/th?id=OHR.WakatobiNP_EN-US4475854788_UHD.jpg) 
