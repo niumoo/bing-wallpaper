@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-08 | [Kazem Dashi rock formation in Lake Urmia, Iran (© Ali/Adobe Stock)](https://cn.bing.com/th?id=OHR.LakeUrmia_EN-US4986086287_UHD.jpg) 
+
 2021-07-07 | [Tawny frogmouth chick, Australia (© SnapRapid/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.TawnyFrogmouth_EN-US4707407967_UHD.jpg) 
 
 2021-07-06 | [Serra da Malagueta mountains on Santiago Island, Cabo Verde (© Samuel Borges Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SerraMalagueta_EN-US4627693270_UHD.jpg) 
