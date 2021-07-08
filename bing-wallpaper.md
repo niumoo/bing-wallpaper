@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-09 | [The Appalachian Trail in Stokes State Forest, New Jersey (© Frank DeBonis/Getty Images)](https://cn.bing.com/th?id=OHR.AppalachianTrail_EN-US5662298732_UHD.jpg) 
+
 2021-07-08 | [Kazem Dashi rock formation in Lake Urmia, Iran (© Ali/Adobe Stock)](https://cn.bing.com/th?id=OHR.LakeUrmia_EN-US4986086287_UHD.jpg) 
 
 2021-07-07 | [Tawny frogmouth chick, Australia (© SnapRapid/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.TawnyFrogmouth_EN-US4707407967_UHD.jpg) 
