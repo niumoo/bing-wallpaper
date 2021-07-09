@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-10 | [Ortygia, a small island off the coast of Syracuse, Sicily, Italy (© DaLiu/Shutterstock)](https://cn.bing.com/th?id=OHR.Ortygia_EN-US5940165843_UHD.jpg) 
+
 2021-07-09 | [The Appalachian Trail in Stokes State Forest, New Jersey (© Frank DeBonis/Getty Images)](https://cn.bing.com/th?id=OHR.AppalachianTrail_EN-US5662298732_UHD.jpg) 
 
 2021-07-08 | [Kazem Dashi rock formation in Lake Urmia, Iran (© Ali/Adobe Stock)](https://cn.bing.com/th?id=OHR.LakeUrmia_EN-US4986086287_UHD.jpg) 
