@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-12 | [Spiral aloe (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.SpiralAloe_EN-US6880291357_UHD.jpg) 
+
 2021-07-11 | [Milky Way over the Tagus River in Monfragüe National Park, Spain (© Miguel Angel Muñoz Ruiz/Cavan Images)](https://cn.bing.com/th?id=OHR.MonfragueNationalPark_EN-US6445504463_UHD.jpg) 
 
 2021-07-10 | [Ortygia, a small island off the coast of Syracuse, Sicily, Italy (© DaLiu/Shutterstock)](https://cn.bing.com/th?id=OHR.Ortygia_EN-US5940165843_UHD.jpg) 
