@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-18 | [A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://cn.bing.com/th?id=OHR.LoepaOberthuri_EN-US7208560265_UHD.jpg) 
+
 2021-07-17 | [Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MontChoisy_EN-US7121697055_UHD.jpg) 
 
 2021-07-16 | [Boats float by rice fields on the Ngo Dong River in Ninh Bình province, Vietnam (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.NgoDong_EN-US7569222084_UHD.jpg) 
