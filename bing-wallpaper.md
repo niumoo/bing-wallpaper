@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-22 | [Wachsenburg Castle near Erfurt, Germany (© Radius Images/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.WachsenburgCastle_EN-US8953512968_UHD.jpg) 
+
 2021-07-21 | [Composite image of the moon (© Prathamesh Jaju)](https://cn.bing.com/th?id=OHR.PrathameshJaju_EN-US8876008160_UHD.jpg) 
 
 2021-07-20 | [Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)](https://cn.bing.com/th?id=OHR.Tetouan_EN-US7379560261_UHD.jpg) 
