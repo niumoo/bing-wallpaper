@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-24 | [Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoMetropolis_EN-US9112375652_UHD.jpg) 
+
 2021-07-23 | [The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg) 
 
 2021-07-22 | [Wachsenburg Castle near Erfurt, Germany (© Radius Images/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.WachsenburgCastle_EN-US8953512968_UHD.jpg) 
