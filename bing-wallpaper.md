@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-07-27 | [Mangrove trees, Walakiri Beach, Sumba Island, Indonesia (© Tengguo Wu/Getty Images)](https://cn.bing.com/th?id=OHR.DancingTrees_EN-US9480266344_UHD.jpg) 
+
 2021-07-26 | ['Field of Light' by artist Bruce Munro at Uluru, Australia (© Sheralee Stoll/Alamy)](https://cn.bing.com/th?id=OHR.BruceMunroUluru_EN-US9286495835_UHD.jpg) 
 
 2021-07-25 | [Javan tree frogs sitting together on a stalk in Indonesia (© SnapRapid/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.JavanCousins_EN-US9214957907_UHD.jpg) 
