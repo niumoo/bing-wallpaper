@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-02 | [Barley field in East Lothian, Scotland (© Scott Masterton/plainpicture)](https://cn.bing.com/th?id=OHR.LammasDay_EN-US7320561829_UHD.jpg) 
+
 2021-08-01 | [Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)](https://cn.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_UHD.jpg) 
 
 2021-07-31 | [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg) 
