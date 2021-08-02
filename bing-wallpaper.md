@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-03 | [Mesas, Upper Cathedral Valley, Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.UpperCathedral_EN-US7580471789_UHD.jpg) 
+
 2021-08-02 | [Barley field in East Lothian, Scotland (© Scott Masterton/plainpicture)](https://cn.bing.com/th?id=OHR.LammasDay_EN-US7320561829_UHD.jpg) 
 
 2021-08-01 | [Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)](https://cn.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_UHD.jpg) 
