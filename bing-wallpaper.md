@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-07 | [Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com/th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg) 
+
 2021-08-06 | [The Sky Pool at Embassy Gardens in London, England (© Xinhua News Agency/Getty Images)](https://cn.bing.com/th?id=OHR.SkyPool_EN-US8327769804_UHD.jpg) 
 
 2021-08-05 | [Clouded leopard (© Dhritiman Mukherjee/Alamy)](https://cn.bing.com/th?id=OHR.Neofelis_EN-US8038280591_UHD.jpg) 
