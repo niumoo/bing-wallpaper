@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-09 | [Elizabeth Quay Bridge in Perth, Australia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.QuayBridge_EN-US9006727077_UHD.jpg) 
+
 2021-08-08 | [Salt cones on Salar de Uyuni, Bolivia (© John Shaw/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltCones_EN-US8727302779_UHD.jpg) 
 
 2021-08-07 | [Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com/th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg) 
