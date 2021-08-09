@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-10 | [Māori rock carving by Matahi Whakataka-Brightwell, Lake Taupo, North Island, New Zealand (© Evgueni Zverev/Alamy)](https://cn.bing.com/th?id=OHR.MineBay_EN-US9163715590_UHD.jpg) 
+
 2021-08-09 | [Elizabeth Quay Bridge in Perth, Australia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.QuayBridge_EN-US9006727077_UHD.jpg) 
 
 2021-08-08 | [Salt cones on Salar de Uyuni, Bolivia (© John Shaw/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltCones_EN-US8727302779_UHD.jpg) 
