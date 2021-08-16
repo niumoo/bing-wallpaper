@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-17 | [Silhouette of Shambhala roller coaster at sunset in PortAventura Park, Salou, Tarragona, Spain (© Joaquim F. P./Getty Images)](https://cn.bing.com/th?id=OHR.PortAventura_EN-US7476980187_UHD.jpg) 
+
 2021-08-16 | [Strandbad Tiefenbrunnen, a public pool on the shore of Lake Zürich, Switzerland (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.StrandbadTiefenbrunnen_EN-US6967556801_UHD.jpg) 
 
 2021-08-15 | [Ubehebe Crater in Death Valley National Park, California (© Albert Knapp/Alamy)](https://cn.bing.com/th?id=OHR.UbehebeCrater_EN-US6244876287_UHD.jpg) 
