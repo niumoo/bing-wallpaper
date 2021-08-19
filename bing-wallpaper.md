@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-20 | [Giant manta ray and a photographer off the Ningaloo Coast, Australia (© Shutterstock Premier)](https://cn.bing.com/th?id=OHR.GiantManta_EN-US0573503252_UHD.jpg) 
+
 2021-08-19 | [The Old Town of Dubrovnik, Croatia (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.RedRoofTile_EN-US7950086465_UHD.jpg) 
 
 2021-08-18 | [Stairway to Heaven trail in Wawayanda State Park, New Jersey (© Leembe/Getty Images)](https://cn.bing.com/th?id=OHR.PochuckValley_EN-US7792130272_UHD.jpg) 
