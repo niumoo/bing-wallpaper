@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-22 | [Petit Minou Lighthouse in the roadstead of Brest, Finistère, France (© Mathieu Rivrin/Getty Images)](https://cn.bing.com/th?id=OHR.PetitMinou_EN-US0740676794_UHD.jpg) 
+
 2021-08-21 | [Rub' al Khali desert on the border of Oman and the Emirate of Dubai (© Daniel Schoenen/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.EmptyQuarter_EN-US0636903975_UHD.jpg) 
 
 2021-08-20 | [Giant manta ray and a photographer off the Ningaloo Coast, Australia (© Shutterstock Premier)](https://cn.bing.com/th?id=OHR.GiantManta_EN-US0573503252_UHD.jpg) 
