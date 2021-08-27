@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-28 | [Casa do Penedo (House of the Rock) in Portugal (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.FlintstoneHouse_EN-US2289408745_UHD.jpg) 
+
 2021-08-27 | [A sea swallow feeding on the tentacles of a blue button in Coffs Harbour, New South Wales, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.SeaSwallow_EN-US1134590280_UHD.jpg) 
 
 2021-08-26 | [Peekaboo view of Angels Window on the North Rim of the Grand Canyon, Arizona (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WalhallaOverlook_EN-US3794328028_UHD.jpg) 
