@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-30 | [Underground lake in Ruskeala Mountain Park, Karelia, Russia (© Konstantin Trubavin/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Ruskeala_EN-US2421855092_UHD.jpg) 
+
 2021-08-29 | [Red-billed oxpeckers on an impala in Mpumalanga, South Africa (© Heini Wehrle/Minden Pictures)](https://cn.bing.com/th?id=OHR.Mpumalanga_EN-US2361653913_UHD.jpg) 
 
 2021-08-28 | [Casa do Penedo (House of the Rock) in Portugal (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.FlintstoneHouse_EN-US2289408745_UHD.jpg) 
