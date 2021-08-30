@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-08-31 | [Crater glow from Mount Mayon in the Philippines (© Per-Andre Hoffmann/Cavan)](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg) 
+
 2021-08-30 | [Underground lake in Ruskeala Mountain Park, Karelia, Russia (© Konstantin Trubavin/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Ruskeala_EN-US2421855092_UHD.jpg) 
 
 2021-08-29 | [Red-billed oxpeckers on an impala in Mpumalanga, South Africa (© Heini Wehrle/Minden Pictures)](https://cn.bing.com/th?id=OHR.Mpumalanga_EN-US2361653913_UHD.jpg) 
