@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-02 | [A porcini mushroom (© vnosokin/Getty Images)](https://cn.bing.com/th?id=OHR.Porcini_EN-US2729999043_UHD.jpg) 
+
 2021-09-01 | [Đurđevića Tara Bridge in Montenegro (© Hike The World/Shutterstock)](https://cn.bing.com/th?id=OHR.DjurdjevicaBridge_EN-US2627065806_UHD.jpg) 
 
 2021-08-31 | [Crater glow from Mount Mayon in the Philippines (© Per-Andre Hoffmann/Cavan)](https://cn.bing.com/th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg) 
