@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-06 | [The Regata Storica on the Grand Canal in Venice, Italy (© Alexander Duffner/Alamy)](https://cn.bing.com/th?id=OHR.GCVenice_EN-US3101866960_UHD.jpg) 
+
 2021-09-05 | [Anna's hummingbird (© Dee/Getty Images)](https://cn.bing.com/th?id=OHR.AnnasHummingbird_EN-US3031304085_UHD.jpg) 
 
 2021-09-04 | [The 'Alien Egg Hatchery' in the Bisti/De-Na-Zin Wilderness, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlienEggs_EN-US2920727413_UHD.jpg) 
