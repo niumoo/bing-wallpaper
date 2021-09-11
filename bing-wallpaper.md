@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-12 | [US flag on part of a 9/11 memorial overlooking the New York skyline from Exchange Place, Jersey City, New Jersey (© Gary Hershorn/Getty Images)](https://cn.bing.com/th?id=OHR.TwistedSteel_EN-US8897329336_UHD.jpg) 
+
 2021-09-11 | [River Avon in Bath, England (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.JaneAusten_EN-US8712835547_UHD.jpg) 
 
 2021-09-10 | [San Juan Islands, Washington (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SanJuanIslands_EN-US3886717227_UHD.jpg) 
