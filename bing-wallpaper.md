@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-18 | [Benagil Cave in the Algarve, Portugal (© Michael Malorny/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.BenagilCave_EN-US2996856855_UHD.jpg) 
+
 2021-09-17 | [Palacio de Bellas Artes, Mexico City, Mexico (© Lukas Bischoff Photograph/Shutterstock)](https://cn.bing.com/th?id=OHR.PalacioArtes_EN-US2524377333_UHD.jpg) 
 
 2021-09-16 | [Artist Jesus 'CIMI' Alvarado painting his mural 'Fronterizos' on a wall of the El Paso Museum of Art, El Paso, Texas (© Paul Ratje/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.Fronterizos_EN-US7668377030_UHD.jpg) 
