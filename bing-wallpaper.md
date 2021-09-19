@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-20 | [Le Castella at Capo Rizzuto, Italy (© mRGB/Shutterstock)](https://cn.bing.com/th?id=OHR.LeCastella_EN-US3410369495_UHD.jpg) 
+
 2021-09-19 | [Red panda at the Chengdu Panda Base in Sichuan province, China (© Biosphoto/Alamy)](https://cn.bing.com/th?id=OHR.Firefox_EN-US3200029768_UHD.jpg) 
 
 2021-09-18 | [Benagil Cave in the Algarve, Portugal (© Michael Malorny/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.BenagilCave_EN-US2996856855_UHD.jpg) 
