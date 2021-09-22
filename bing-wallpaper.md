@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-23 | [Baby white rhinoceros and mother in Hluhluwe–iMfolozi Park, South Africa (© Martin Harvey/Alamy)](https://cn.bing.com/th?id=OHR.BabyRhino_EN-US4289854732_UHD.jpg) 
+
 2021-09-22 | ['Rising Moon' lantern to celebrate the Mid-Autumn Festival in Hong Kong's Victoria Park (© Bobby Yip/Reuters)](https://cn.bing.com/th?id=OHR.RisingMoon_EN-US3728383001_UHD.jpg) 
 
 2021-09-21 | [Starlings in the wetlands between Denmark and Germany (© Viking/Alamy)](https://cn.bing.com/th?id=OHR.BlackSun_EN-US3611441755_UHD.jpg) 
