@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-09-27 | [The Mackenzie River in Canada emptying into the Beaufort Sea (© Norman Kuring, GSFC/NASA/USGS Landsat)](https://cn.bing.com/th?id=OHR.MackenzieRiver_EN-US1123729809_UHD.jpg) 
+
 2021-09-26 | [Escarpment Trail in Porcupine Mountains Wilderness State Park, Michigan (© Pat & Chuck Blackley/Alamy)](https://cn.bing.com/th?id=OHR.PorkiesTrail_EN-US1052871697_UHD.jpg) 
 
 2021-09-25 | [Cusco Cathedral on the Plaza de Armas, Cusco, Peru (© sharptoyou/Shutterstock)](https://cn.bing.com/th?id=OHR.CuscoCathedral_EN-US0974073247_UHD.jpg) 
