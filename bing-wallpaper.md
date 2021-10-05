@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-06 | [Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.Kindergarteners_EN-US1789862407_UHD.jpg) 
+
 2021-10-05 | [Andromeda galaxy (© NASA/JPL-Caltech)](https://cn.bing.com/th?id=OHR.Andromeda_EN-US1720805317_UHD.jpg) 
 
 2021-10-04 | [The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Italica_EN-US1640838317_UHD.jpg) 
