@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-08 | [Huay Mae Khamin Waterfall in Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)](https://cn.bing.com/th?id=OHR.HuayMaeKhamin_EN-US1949606808_UHD.jpg) 
+
 2021-10-07 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](https://cn.bing.com/th?id=OHR.SWColorado_EN-US1870553135_UHD.jpg) 
 
 2021-10-06 | [Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.Kindergarteners_EN-US1789862407_UHD.jpg) 
