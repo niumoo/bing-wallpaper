@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-11 | [Rainbow abalone shell, New Zealand (© Lynda Harper/Minden Pictures)](https://cn.bing.com/th?id=OHR.AbaloneShell_EN-US7461837233_UHD.jpg) 
+
 2021-10-10 | [Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.SandhillApache_EN-US7367797025_UHD.jpg) 
 
 2021-10-09 | [Common octopus off the coast of France in the Mediterranean Sea (© BIOSPHOTO/Alamy)](https://cn.bing.com/th?id=OHR.FriendlyOctopus_EN-US7209624602_UHD.jpg) 
