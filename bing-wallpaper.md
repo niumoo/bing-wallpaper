@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-13 | [Saint-Malo in Brittany, France (© Mathieu Rivrin/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.StMalo_EN-US7686440014_UHD.jpg) 
+
 2021-10-12 | [The Clan House at Totem Bight State Historical Park near Ketchikan, Alaska (© Ron Niebrugge/Alamy)](https://cn.bing.com/th?id=OHR.ClanHouse_EN-US7625745016_UHD.jpg) 
 
 2021-10-11 | [Rainbow abalone shell, New Zealand (© Lynda Harper/Minden Pictures)](https://cn.bing.com/th?id=OHR.AbaloneShell_EN-US7461837233_UHD.jpg) 
