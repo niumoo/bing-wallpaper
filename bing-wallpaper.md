@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-16 | [Farra di Soligo in the Prosecco Hills of Veneto, Italy (© Olimpio Fantuz/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.ProseccoHills_EN-US8117168542_UHD.jpg) 
+
 2021-10-15 | [Saguaro 'family' and Milky Way, Saguaro National Park, Arizona (© Christian Foto Az/Shutterstock)](https://cn.bing.com/th?id=OHR.SaguaroFamily_EN-US8027040926_UHD.jpg) 
 
 2021-10-14 | [An ichthyosaur fossil of the Jurassic period, Dinosaurland Fossil Museum, Lyme Regis, Dorset, England (© Christopher Jones/Alamy)](https://cn.bing.com/th?id=OHR.IchthyosaurFossil_EN-US7828457812_UHD.jpg) 
