@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-20 | [The Fanal Forest on Madeira Island, Portugal (© Val Thoermer/Alamy)](https://cn.bing.com/th?id=OHR.FanalMadeira_EN-US8481108715_UHD.jpg) 
+
 2021-10-19 | [Capel Curig in Snowdonia National Park, Wales, United Kingdom (© Sebastian Wasek/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.CapelCurig_EN-US8402685568_UHD.jpg) 
 
 2021-10-18 | [Redwood Memorial Grove in Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)](https://cn.bing.com/th?id=OHR.Whakarewarewa_EN-US8308750685_UHD.jpg) 
