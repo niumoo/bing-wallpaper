@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-22 | [Bald cypress and Spanish moss in the Atchafalaya Basin, Louisiana (© Chris Moore/Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AtchafalayaMoss_EN-US8649119304_UHD.jpg) 
+
 2021-10-21 | [Brown-throated three-toed sloth in Manuel Antonio National Park, Costa Rica (© Lukas Kovarik/Shutterstock)](https://cn.bing.com/th?id=OHR.SmileySloth_EN-US8588687884_UHD.jpg) 
 
 2021-10-20 | [The Fanal Forest on Madeira Island, Portugal (© Val Thoermer/Alamy)](https://cn.bing.com/th?id=OHR.FanalMadeira_EN-US8481108715_UHD.jpg) 
