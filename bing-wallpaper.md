@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-10-23 | [Comet NEOWISE streaks across the sky over Sunwapta Lake in Jasper National Park, Alberta, Canada (© Stocktrek Images, Inc./Alamy)](https://cn.bing.com/th?id=OHR.Neowise_EN-US4428390515_UHD.jpg) 
+
 2021-10-22 | [Bald cypress and Spanish moss in the Atchafalaya Basin, Louisiana (© Chris Moore/Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AtchafalayaMoss_EN-US8649119304_UHD.jpg) 
 
 2021-10-21 | [Brown-throated three-toed sloth in Manuel Antonio National Park, Costa Rica (© Lukas Kovarik/Shutterstock)](https://cn.bing.com/th?id=OHR.SmileySloth_EN-US8588687884_UHD.jpg) 
