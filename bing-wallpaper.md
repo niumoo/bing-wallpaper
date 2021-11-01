@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-02 | [The sculpture 'Kindred Spirits' by Alex Pentek in Bailick Park, Midleton, County Cork, Ireland (© David Creedon/Alamy Live News/Alamy)](https://cn.bing.com/th?id=OHR.KindredSpirits_EN-US5529252474_UHD.jpg) 
+
 2021-11-01 | [Grotesques at York Minster, North Yorkshire, England (© John Potter/Alamy)](https://cn.bing.com/th?id=OHR.YorkMinster_EN-US5465804030_UHD.jpg) 
 
 2021-10-31 | [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MistyForest_EN-US5261676101_UHD.jpg) 
