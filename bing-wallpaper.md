@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-03 | [Marigolds decorate a cemetery in Patzcuaro, Michoacan, Mexico, for a Day of the Dead ceremony (© Daniel Elizalde S/Shutterstock)](https://cn.bing.com/th?id=OHR.MarigoldsLosMuertos_EN-US5597948262_UHD.jpg) 
+
 2021-11-02 | [The sculpture 'Kindred Spirits' by Alex Pentek in Bailick Park, Midleton, County Cork, Ireland (© David Creedon/Alamy Live News/Alamy)](https://cn.bing.com/th?id=OHR.KindredSpirits_EN-US5529252474_UHD.jpg) 
 
 2021-11-01 | [Grotesques at York Minster, North Yorkshire, England (© John Potter/Alamy)](https://cn.bing.com/th?id=OHR.YorkMinster_EN-US5465804030_UHD.jpg) 
