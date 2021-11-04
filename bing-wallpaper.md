@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-05 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](https://cn.bing.com/th?id=OHR.DiwaliLights_EN-US5962582715_UHD.jpg) 
+
 2021-11-04 | [Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.MoonJellyDay_EN-US5774626244_UHD.jpg) 
 
 2021-11-03 | [Marigolds decorate a cemetery in Patzcuaro, Michoacan, Mexico, for a Day of the Dead ceremony (© Daniel Elizalde S/Shutterstock)](https://cn.bing.com/th?id=OHR.MarigoldsLosMuertos_EN-US5597948262_UHD.jpg) 
