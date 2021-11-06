@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-07 | [Female numbat in Brookton, Western Australia (© Martin Willis/Minden Pictures)](https://cn.bing.com/th?id=OHR.WANumbat_EN-US8626889228_UHD.jpg) 
+
 2021-11-06 | [Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)](https://cn.bing.com/th?id=OHR.PontRouge_EN-US8216026982_UHD.jpg) 
 
 2021-11-05 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](https://cn.bing.com/th?id=OHR.DiwaliLights_EN-US5962582715_UHD.jpg) 
