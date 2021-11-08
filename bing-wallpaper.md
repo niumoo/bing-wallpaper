@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-09 | [Polar bear investigating a camera, Churchill, Manitoba, Canada (© Matthias Breiter/Minden Pictures)](https://cn.bing.com/th?id=OHR.ChurchillBears_EN-US8757524982_UHD.jpg) 
+
 2021-11-08 | [Mack Arch Rock at sunrise on the southern Oregon coast (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.MackArch_EN-US8686224394_UHD.jpg) 
 
 2021-11-07 | [Female numbat in Brookton, Western Australia (© Martin Willis/Minden Pictures)](https://cn.bing.com/th?id=OHR.WANumbat_EN-US8626889228_UHD.jpg) 
