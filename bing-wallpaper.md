@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-11 | [Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](https://cn.bing.com/th?id=OHR.CumberlandSeashore_EN-US8862017440_UHD.jpg) 
+
 2021-11-10 | [Ancient rock tombs carved into the cliff near Dalyan, Turkey (© Reinhard Schmid/eStock Photo)](https://cn.bing.com/th?id=OHR.DalyanTombs_EN-US8809333529_UHD.jpg) 
 
 2021-11-09 | [Polar bear investigating a camera, Churchill, Manitoba, Canada (© Matthias Breiter/Minden Pictures)](https://cn.bing.com/th?id=OHR.ChurchillBears_EN-US8757524982_UHD.jpg) 
