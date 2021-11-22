@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-23 | [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaRoad_EN-US5310275011_UHD.jpg) 
+
 2021-11-22 | [Forest near the village of Invergarry, Scotland (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Invergarry_EN-US5187949443_UHD.jpg) 
 
 2021-11-21 | ['A New Breath' by artist Saype in Moléson-sur-Gruyères, Switzerland (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.NewBreath_EN-US9754279186_UHD.jpg) 
