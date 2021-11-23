@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-24 | [Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteShell_EN-US5528406530_UHD.jpg) 
+
 2021-11-23 | [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaRoad_EN-US5310275011_UHD.jpg) 
 
 2021-11-22 | [Forest near the village of Invergarry, Scotland (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Invergarry_EN-US5187949443_UHD.jpg) 
