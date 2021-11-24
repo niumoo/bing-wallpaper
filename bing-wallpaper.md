@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-25 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ChocoHillBohol_EN-US5790786094_UHD.jpg) 
+
 2021-11-24 | [Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteShell_EN-US5528406530_UHD.jpg) 
 
 2021-11-23 | [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaRoad_EN-US5310275011_UHD.jpg) 
