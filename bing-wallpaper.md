@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-27 | [Zuni Olla Maidens at the annual Inter-Tribal Ceremonial in Gallup, New Mexico (© Julien McRoberts/Danita Delimont)](https://cn.bing.com/th?id=OHR.ZuniOlla_EN-US6008756986_UHD.jpg) 
+
 2021-11-26 | [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelsCairngorms_EN-US5854811896_UHD.jpg) 
 
 2021-11-25 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ChocoHillBohol_EN-US5790786094_UHD.jpg) 
