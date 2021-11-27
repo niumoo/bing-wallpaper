@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-28 | [Aerial view of Penn Station and the New York City skyline at night in the 1950s (© R. Gates -Staff/Getty Images)](https://cn.bing.com/th?id=OHR.PennStation_EN-US6091764013_UHD.jpg) 
+
 2021-11-27 | [Zuni Olla Maidens at the annual Inter-Tribal Ceremonial in Gallup, New Mexico (© Julien McRoberts/Danita Delimont)](https://cn.bing.com/th?id=OHR.ZuniOlla_EN-US6008756986_UHD.jpg) 
 
 2021-11-26 | [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelsCairngorms_EN-US5854811896_UHD.jpg) 
