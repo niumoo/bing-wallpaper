@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-30 | [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg) 
+
 2021-11-29 | [Centennial Bridge towering above Soberanía National Park, Panama (© David Tipling/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.CentennialBridge_EN-US6155436919_UHD.jpg) 
 
 2021-11-28 | [Aerial view of Penn Station and the New York City skyline at night in the 1950s (© R. Gates -Staff/Getty Images)](https://cn.bing.com/th?id=OHR.PennStation_EN-US6091764013_UHD.jpg) 
