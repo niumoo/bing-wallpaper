@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-04 | [Autumn leaves coated with frost (© sagarmanis/Getty Images)](https://cn.bing.com/th?id=OHR.FrostLeaves_EN-US1373620502_UHD.jpg) 
+
 2021-12-03 | [Dall sheep rams at Polychrome Pass, Denali National Park, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.DenaliDall_EN-US6468096657_UHD.jpg) 
 
 2021-12-02 | [Blue icebergs near Cuverville Island, Antarctica (© Mike Hill/Getty Images)](https://cn.bing.com/th?id=OHR.CuvervilleIsland_EN-US6408758499_UHD.jpg) 
