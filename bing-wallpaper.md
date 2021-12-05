@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-06 | [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](https://cn.bing.com/th?id=OHR.SalzburgKrampus_EN-US9186815435_UHD.jpg) 
+
 2021-12-05 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](https://cn.bing.com/th?id=OHR.MotherCheetah_EN-US8957244847_UHD.jpg) 
 
 2021-12-04 | [Autumn leaves coated with frost (© sagarmanis/Getty Images)](https://cn.bing.com/th?id=OHR.FrostLeaves_EN-US1373620502_UHD.jpg) 
