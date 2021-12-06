@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-07 | [An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg) 
+
 2021-12-06 | [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](https://cn.bing.com/th?id=OHR.SalzburgKrampus_EN-US9186815435_UHD.jpg) 
 
 2021-12-05 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](https://cn.bing.com/th?id=OHR.MotherCheetah_EN-US8957244847_UHD.jpg) 
