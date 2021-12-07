@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-08 | [US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](https://cn.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg) 
+
 2021-12-07 | [An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg) 
 
 2021-12-06 | [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](https://cn.bing.com/th?id=OHR.SalzburgKrampus_EN-US9186815435_UHD.jpg) 
