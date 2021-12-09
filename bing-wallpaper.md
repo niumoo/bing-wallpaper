@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-10 | [Glowworms in Blue Mountains National Park, Australia (© Leelakajonkij/Getty Images)](https://cn.bing.com/th?id=OHR.GlowWormBMNP_EN-US9968994144_UHD.jpg) 
+
 2021-12-09 | [Petrified Forest National Park, Arizona (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PFNPAZ_EN-US9883303055_UHD.jpg) 
 
 2021-12-08 | [US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](https://cn.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg) 
