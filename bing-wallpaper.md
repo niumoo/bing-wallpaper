@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-12 | [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg) 
+
 2021-12-11 | [Arctic fox in Dovrefjell-Sunndalsfjella National Park, Norway (© Andy Trowbridge/Minden Pictures)](https://cn.bing.com/th?id=OHR.FoxDovrefjell_EN-US0110441003_UHD.jpg) 
 
 2021-12-10 | [Glowworms in Blue Mountains National Park, Australia (© Leelakajonkij/Getty Images)](https://cn.bing.com/th?id=OHR.GlowWormBMNP_EN-US9968994144_UHD.jpg) 
