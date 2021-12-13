@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-14 | [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](https://cn.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg) 
+
 2021-12-13 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](https://cn.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg) 
 
 2021-12-12 | [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg) 
