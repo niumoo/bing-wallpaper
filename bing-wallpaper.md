@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-15 | [American robin perched on a branch in Canada (© marcophotos/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanRobin_EN-US0648462541_UHD.jpg) 
+
 2021-12-14 | [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](https://cn.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg) 
 
 2021-12-13 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](https://cn.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg) 
