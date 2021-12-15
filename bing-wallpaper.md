@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-16 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Luis Miguel Martin/Getty Images)](https://cn.bing.com/th?id=OHR.SantaJusta_EN-US0729688469_UHD.jpg) 
+
 2021-12-15 | [American robin perched on a branch in Canada (© marcophotos/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanRobin_EN-US0648462541_UHD.jpg) 
 
 2021-12-14 | [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](https://cn.bing.com/th?id=OHR.ElPanecilloHill_EN-US0550689224_UHD.jpg) 
