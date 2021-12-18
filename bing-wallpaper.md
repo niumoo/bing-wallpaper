@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-19 | [The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](https://cn.bing.com/th?id=OHR.MoonBeforeYule_EN-US1324527438_UHD.jpg) 
+
 2021-12-18 | [Christmas-themed beach huts in Bournemouth, England (© Allouphoto/Alamy)](https://cn.bing.com/th?id=OHR.XmasBeachHuts_EN-US1205413660_UHD.jpg) 
 
 2021-12-17 | [The English National Ballet's 2016 production of 'The Nutcracker' at the London Coliseum in London, England (© Robbie Jack/Corbis via Getty Images)](https://cn.bing.com/th?id=OHR.ENBNutcracker_EN-US0826373363_UHD.jpg) 
