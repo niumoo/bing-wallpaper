@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-23 | [Winter scene illuminated on the Palais de l'Isle in Annecy, Haute Savoie, France (© blickwinkel/Alamy)](https://cn.bing.com/th?id=OHR.AnnecyFrance_EN-US1633083371_UHD.jpg) 
+
 2021-12-22 | [Sunlight in the forest of Western Siberia, near the city of Raduzhny, Russia (© Leonid Ikan/Shutterstock)](https://cn.bing.com/th?id=OHR.SiberianSunset_EN-US1546434644_UHD.jpg) 
 
 2021-12-21 | [Performers from the Ministry of Fun Santa School in London, England (© Matt Dunham/AP Photo)](https://cn.bing.com/th?id=OHR.MinistryofFun_EN-US1476020471_UHD.jpg) 
