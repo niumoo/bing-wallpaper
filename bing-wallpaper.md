@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-25 | [Christmas tree at Weissensee, a small lake near Ehrwald in Tyrol, Austria (© nagelestock/Alamy)](https://cn.bing.com/th?id=OHR.Rauchnachte_EN-US1813952832_UHD.jpg) 
+
 2021-12-24 | [Two young male polar bears, Churchill, Manitoba, Canada (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.ManitobaBears_EN-US1696173596_UHD.jpg) 
 
 2021-12-23 | [Winter scene illuminated on the Palais de l'Isle in Annecy, Haute Savoie, France (© blickwinkel/Alamy)](https://cn.bing.com/th?id=OHR.AnnecyFrance_EN-US1633083371_UHD.jpg) 
