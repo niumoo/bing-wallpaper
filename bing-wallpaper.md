@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-01 | [Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](https://cn.bing.com/th?id=OHR.IcelandBonfire_EN-US0626821282_UHD.jpg) 
+
 2021-12-31 | [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesterheverLight_EN-US2289133174_UHD.jpg) 
 
 2021-12-30 | [Mountain goats in the Yukon, Canada (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.OreamnosAmericanus_EN-US2195826157_UHD.jpg) 
