@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-05 | [Borrego Badlands in Anza-Borrego Desert State Park, California (© Tom Hogan/plainpicture)](https://cn.bing.com/th?id=OHR.BorregoBadlands_EN-US1149642347_UHD.jpg) 
+
 2022-01-04 | [The Lick Observatory on Mount Hamilton, near San Jose, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LickObservatory_EN-US1062377366_UHD.jpg) 
 
 2022-01-03 | [Skyline of Prague, Czech Republic (© benkrut/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyPrague_EN-US0983025054_UHD.jpg) 
