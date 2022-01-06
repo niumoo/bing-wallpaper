@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-07 | [Kochelsee and Heimgarten Mountain in Bavaria, Germany (© Reinhard Schmid/eStock Photo)](https://cn.bing.com/th?id=OHR.LakeKochelsee_EN-US1286605700_UHD.jpg) 
+
 2022-01-06 | [Plate-billed mountain toucan in Bellavista Cloud Forest Reserve, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucan_EN-US7120632569_UHD.jpg) 
 
 2022-01-05 | [Borrego Badlands in Anza-Borrego Desert State Park, California (© Tom Hogan/plainpicture)](https://cn.bing.com/th?id=OHR.BorregoBadlands_EN-US1149642347_UHD.jpg) 
