@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-09 | [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](https://cn.bing.com/th?id=OHR.WinterBison_EN-US1438810655_UHD.jpg) 
+
 2022-01-08 | [Nazaré Lighthouse atop Forte de São Miguel Arcanjo, Nazaré, Portugal (© Richard A Lock/Getty Images)](https://cn.bing.com/th?id=OHR.FortedeSao_EN-US1357701666_UHD.jpg) 
 
 2022-01-07 | [Kochelsee and Heimgarten Mountain in Bavaria, Germany (© Reinhard Schmid/eStock Photo)](https://cn.bing.com/th?id=OHR.LakeKochelsee_EN-US1286605700_UHD.jpg) 
