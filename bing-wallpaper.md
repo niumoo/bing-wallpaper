@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-13 | [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](https://cn.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg) 
+
 2022-01-12 | [A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.PorcupineWillow_EN-US1683070352_UHD.jpg) 
 
 2022-01-11 | [Ski touring in the High Tauern mountain range near Bad Gastein, Austria (© RooM the Agency/Alamy)](https://cn.bing.com/th?id=OHR.SkiTouring_EN-US1605895803_UHD.jpg) 
