@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-19 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](https://cn.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg) 
+
 2022-01-18 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg) 
 
 2022-01-17 | [Sorting chili peppers at a farm in Bogra, Bangladesh (© Amazing Aerial Agency/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.BoguraChili_EN-US0800461661_UHD.jpg) 
