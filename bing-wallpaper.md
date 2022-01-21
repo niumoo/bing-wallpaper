@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-22 | [A lion cub and mother in Sabi Sabi Game Reserve, South Africa (© Andrew Coleman/Getty Images)](https://cn.bing.com/th?id=OHR.HuggingDay_EN-US1567289484_UHD.jpg) 
+
 2022-01-21 | [Adélie penguin in Graham Passage, Antarctic Peninsula, Antarctica (© Nick Garbutt/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrahamAdelie_EN-US1408856353_UHD.jpg) 
 
 2022-01-20 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](https://cn.bing.com/th?id=OHR.SaintElias_EN-US1325738273_UHD.jpg) 
