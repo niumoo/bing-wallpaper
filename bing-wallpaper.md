@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-24 | [Meoto Iwa (Wedded Rocks) off the coast of Futami, Mie Prefecture, Honshu, Japan (© Marco Gaiotti/plainpicture)](https://cn.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg) 
+
 2022-01-23 | [Martinique, Lesser Antilles, Caribbean Sea (© Airpano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.LesserAntilles_EN-US1658249198_UHD.jpg) 
 
 2022-01-22 | [A lion cub and mother in Sabi Sabi Game Reserve, South Africa (© Andrew Coleman/Getty Images)](https://cn.bing.com/th?id=OHR.HuggingDay_EN-US1567289484_UHD.jpg) 
