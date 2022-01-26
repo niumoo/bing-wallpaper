@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-27 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](https://cn.bing.com/th?id=OHR.MehrangarhCourtyard_EN-US2129728794_UHD.jpg) 
+
 2022-01-26 | [Tŵr Mawr lighthouse on Llanddwyn Island, Anglesey, Wales (© Joe Daniel Price/Getty Images)](https://cn.bing.com/th?id=OHR.StDwynwensDay_EN-US2056417486_UHD.jpg) 
 
 2022-01-25 | [Lower Manhattan in New York City (© New York On Air/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.ManhattanView_EN-US1961282866_UHD.jpg) 
