@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-29 | [Short-eared owl hunting at dusk in Worlaby Carrs, Lincolnshire, England (© Ben Hall/Minden Pictures)](https://cn.bing.com/th?id=OHR.WinteringFowl_EN-US1541559315_UHD.jpg) 
+
 2022-01-28 | [Bluespotted ribbontail ray near Perth, Australia (© Jeff Rotman/Minden Pictures)](https://cn.bing.com/th?id=OHR.RibbontailStingray_EN-US2193500448_UHD.jpg) 
 
 2022-01-27 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](https://cn.bing.com/th?id=OHR.MehrangarhCourtyard_EN-US2129728794_UHD.jpg) 
