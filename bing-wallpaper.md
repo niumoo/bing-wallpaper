@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-31 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg) 
+
 2022-01-30 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg) 
 
 2022-01-29 | [Short-eared owl hunting at dusk in Worlaby Carrs, Lincolnshire, England (© Ben Hall/Minden Pictures)](https://cn.bing.com/th?id=OHR.WinteringFowl_EN-US1541559315_UHD.jpg) 
