@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-02 | [The 369th Infantry returns to New York City, 1919 (© Science History Images/Alamy)](https://cn.bing.com/th?id=OHR.HarlemHellfighters_EN-US2009292254_UHD.jpg) 
+
 2022-02-01 | [Workers sorting incense in the Huyện Ứng Hòa district of Hanoi, Vietnam (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IncenseFieldVietnam_EN-US1945575858_UHD.jpg) 
 
 2022-01-31 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg) 
