@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-07 | [Winter in Oymyakon, Russia (© Alexandr Berdicevschi/Getty Images)](https://cn.bing.com/th?id=OHR.Oymyakon_EN-US2605911531_UHD.jpg) 
+
 2022-02-06 | [Monarch butterflies in the Monarch Butterfly Biosphere Reserve, Angangueo, Mexico (© Sylvain Cordier/Minden Pictures)](https://cn.bing.com/th?id=OHR.MexicoMonarchs_EN-US2528130763_UHD.jpg) 
 
 2022-02-05 | [Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.BigAir_EN-US2270839035_UHD.jpg) 
