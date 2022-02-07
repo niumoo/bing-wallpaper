@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-08 | [Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](https://cn.bing.com/th?id=OHR.RideauSkating_EN-US2750684316_UHD.jpg) 
+
 2022-02-07 | [Winter in Oymyakon, Russia (© Alexandr Berdicevschi/Getty Images)](https://cn.bing.com/th?id=OHR.Oymyakon_EN-US2605911531_UHD.jpg) 
 
 2022-02-06 | [Monarch butterflies in the Monarch Butterfly Biosphere Reserve, Angangueo, Mexico (© Sylvain Cordier/Minden Pictures)](https://cn.bing.com/th?id=OHR.MexicoMonarchs_EN-US2528130763_UHD.jpg) 
