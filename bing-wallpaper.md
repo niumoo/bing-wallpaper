@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-15 | [Heart-shaped island with sandy beach, offshore coral reef, Indian Ocean, Maldives (© Willyam Bradberry/Shutterstock)](https://cn.bing.com/th?id=OHR.MaldivesHeart_EN-US7219773610_UHD.jpg) 
+
 2022-02-14 | [American bison in Yellowstone National Park, Wyoming (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.FaceOff_EN-US7097284176_UHD.jpg) 
 
 2022-02-13 | [Darwin's Arch with Darwin Island in background, Galápagos, Ecuador (© miralex/Getty Images)](https://cn.bing.com/th?id=OHR.DarwinsArch_EN-US6875224451_UHD.jpg) 
