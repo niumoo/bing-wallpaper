@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-20 | [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg) 
+
 2022-02-19 | [Great tits on a branch during winter in France (© Eric Ferry/Alamy)](https://cn.bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg) 
 
 2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](https://cn.bing.com/th?id=OHR.FlamencoDance_EN-US9399847343_UHD.jpg) 
