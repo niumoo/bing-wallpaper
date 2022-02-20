@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-21 | [Humpback whales and dolphins, Hawaii (© drewsulockcreations/Getty Images)](https://cn.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg) 
+
 2022-02-20 | [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg) 
 
 2022-02-19 | [Great tits on a branch during winter in France (© Eric Ferry/Alamy)](https://cn.bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg) 
