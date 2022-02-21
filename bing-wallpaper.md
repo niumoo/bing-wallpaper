@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-22 | [The Washington Monument seen from the Lincoln Memorial in Washington, DC (© lucky-photographer/Getty Images)](https://cn.bing.com/th?id=OHR.PrezMonument_EN-US6640683728_UHD.jpg) 
+
 2022-02-21 | [Humpback whales and dolphins, Hawaii (© drewsulockcreations/Getty Images)](https://cn.bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg) 
 
 2022-02-20 | [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](https://cn.bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg) 
