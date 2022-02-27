@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-28 | [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg) 
+
 2022-02-27 | [Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg) 
 
 2022-02-26 | ['Legacy' mural painted by Josh Sarantitis and Eric Okdeh within the Mural Arts Program in Philadelphia, Pennsylvania (© Vespasian/Alamy)](https://cn.bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg) 
