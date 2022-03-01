@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-02 | [US Army Nurse Corps personnel, 1944 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.USArmyNurse_EN-US6247095196_UHD.jpg) 
+
 2022-03-01 | [Hoarfrost and snow in the Cotswolds, England (© Peter Adams/Getty Images)](https://cn.bing.com/th?id=OHR.WinterCotswolds_EN-US6070178452_UHD.jpg) 
 
 2022-02-28 | [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg) 
