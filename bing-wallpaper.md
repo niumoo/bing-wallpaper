@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-05 | [The National Aquatics Center in Beijing, China (© Han Haidan/China News Service via Getty Images)](https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg) 
+
 2022-03-04 | [Greater one-horned rhinoceroses in Kaziranga National Park, Assam, India (© Robert Harding World Imagery/Shutterstock)](https://cn.bing.com/th?id=OHR.RhinocerosUnicornis_EN-US6415146430_UHD.jpg) 
 
 2022-03-03 | [Moonlight and the Milky Way over Mount Rainier in Mount Rainier National Park, Washington (© Brad Goldpaint/Cavan)](https://cn.bing.com/th?id=OHR.MoonlightRainier_EN-US6336057354_UHD.jpg) 
