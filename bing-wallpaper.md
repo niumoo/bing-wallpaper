@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-08 | [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg) 
+
 2022-03-07 | [Great cormorants gliding through a snowstorm in Hesse, Germany (© Wilfried Martin/Getty Images)](https://cn.bing.com/th?id=OHR.GreatCormorants_EN-US6757700805_UHD.jpg) 
 
 2022-03-06 | [The island of Mont-Saint-Michel in Normandy, France (© DaLiu/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyMont_EN-US8981907834_UHD.jpg) 
