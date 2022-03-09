@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-10 | [The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany (© Patrick Pleul/picture alliance via Getty Images)](https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg) 
+
 2022-03-09 | [The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg) 
 
 2022-03-08 | [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg) 
