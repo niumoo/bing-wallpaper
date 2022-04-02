@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-03 | [Whangārei Falls near the city of Whangārei, North Island, New Zealand (© Nathan Kavumbura/Getty Images)](https://cn.bing.com/th?id=OHR.WhangareiFalls_EN-US0789271044_UHD.jpg) 
+
 2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg) 
 
 2022-04-01 | [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg) 
