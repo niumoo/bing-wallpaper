@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-05 | [The Kjeragbolten boulder on the mountain Kjerag in Rogaland county, Norway (© Angel FAyE/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBoulder_EN-US1049217849_UHD.jpg) 
+
 2022-04-04 | [Cherry blossoms at Lake Tai at Wuxi, China (© Eric Yang/Getty Images)](https://cn.bing.com/th?id=OHR.TaihuCherry_EN-US0871129862_UHD.jpg) 
 
 2022-04-03 | [Whangārei Falls near the city of Whangārei, North Island, New Zealand (© Nathan Kavumbura/Getty Images)](https://cn.bing.com/th?id=OHR.WhangareiFalls_EN-US0789271044_UHD.jpg) 
