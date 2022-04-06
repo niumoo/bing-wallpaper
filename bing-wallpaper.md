@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-07 | [Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg) 
+
 2022-04-06 | [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg) 
 
 2022-04-05 | [The Kjeragbolten boulder on the mountain Kjerag in Rogaland county, Norway (© Angel FAyE/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBoulder_EN-US1049217849_UHD.jpg) 
