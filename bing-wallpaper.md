@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-13 | [Waning gibbous moon above the Earth's horizon, photographed from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.WaningGibbous_EN-US4639615556_UHD.jpg) 
+
 2022-04-12 | [Fiddlehead fern fronds in Quebec, Canada (© Marianna Armata/Getty Images)](https://cn.bing.com/th?id=OHR.FernFronds_EN-US4495822186_UHD.jpg) 
 
 2022-04-11 | [Caracal cubs (© Marion Vollborn/Minden Pictures)](https://cn.bing.com/th?id=OHR.Caracal_EN-US4384489380_UHD.jpg) 
