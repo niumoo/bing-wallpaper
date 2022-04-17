@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-18 | [The blue eggs of an American robin in New Jersey (© Mira/Alamy)](https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg) 
+
 2022-04-17 | [Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg) 
 
 2022-04-16 | ['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg) 
