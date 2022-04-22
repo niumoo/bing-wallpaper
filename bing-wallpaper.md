@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-23 | [Small lake in Karula National Park, Valgamaa County, Estonia (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.EarthDay2022_EN-US1806321261_UHD.jpg) 
+
 2022-04-22 | [Sheep graze along a road, Iceland (© Matthew Kuhns/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.IcelandicSummer_EN-US6680616324_UHD.jpg) 
 
 2022-04-21 | [Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg) 
