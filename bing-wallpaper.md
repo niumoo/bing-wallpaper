@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-25 | [Milky Way rising above Half Dome in Yosemite National Park, California (© Cory Marshall/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg) 
+
 2022-04-24 | [Tianjin Binhai New Area Library in Tianjin, China (© Imaginechina Limited/Alamy)](https://cn.bing.com/th?id=OHR.TheEye_EN-US1955504804_UHD.jpg) 
 
 2022-04-23 | [Small lake in Karula National Park, Valgamaa County, Estonia (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.EarthDay2022_EN-US1806321261_UHD.jpg) 
