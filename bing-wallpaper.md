@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-26 | [Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg) 
+
 2022-04-25 | [Milky Way rising above Half Dome in Yosemite National Park, California (© Cory Marshall/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg) 
 
 2022-04-24 | [Tianjin Binhai New Area Library in Tianjin, China (© Imaginechina Limited/Alamy)](https://cn.bing.com/th?id=OHR.TheEye_EN-US1955504804_UHD.jpg) 
