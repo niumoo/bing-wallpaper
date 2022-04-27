@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-28 | [Midnight sun in Svalbard, Norway (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg) 
+
 2022-04-27 | [Central Park, New York City (© Tony Shi Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg) 
 
 2022-04-26 | [Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg) 
