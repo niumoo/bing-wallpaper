@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-30 | [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg) 
+
 2022-04-29 | [Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock)](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg) 
 
 2022-04-28 | [Midnight sun in Svalbard, Norway (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg) 
