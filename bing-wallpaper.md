@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-04 | [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg) 
+
 2022-05-03 | [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg) 
 
 2022-05-02 | [Dancers on the site of a lele (altar) on Mount Maunaloa, Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg) 
