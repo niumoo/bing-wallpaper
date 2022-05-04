@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-05 | [Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg) 
+
 2022-05-04 | [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg) 
 
 2022-05-03 | [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg) 
