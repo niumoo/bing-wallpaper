@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-16 | [Panoramic view of the Bernina Range with blood moon, Eastern Alps, Engadin, Switzerland (© Bernd Zoller/Shutterstock)](https://cn.bing.com/th?id=OHR.BerninaBloodMoon_EN-US5538561384_UHD.jpg) 
+
 2022-05-15 | [Windmills, Kinderdijk, Netherlands (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.WindmillDay_EN-US5180406924_UHD.jpg) 
 
 2022-05-14 | [Masai giraffe in Maasai Mara, Kenya (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.MaasaiGiraffe_EN-US4914727610_UHD.jpg) 
