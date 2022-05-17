@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-18 | [Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SaltPondsMaras_EN-US5922073798_UHD.jpg) 
+
 2022-05-17 | [Burrowing owl chicks gaze out from among flowers near the Pawnee National Grassland in Colorado (© Roberta Olenick/Alamy)](https://cn.bing.com/th?id=OHR.PawneeOwls_EN-US5086668928_UHD.jpg) 
 
 2022-05-16 | [Panoramic view of the Bernina Range with blood moon, Eastern Alps, Engadin, Switzerland (© Bernd Zoller/Shutterstock)](https://cn.bing.com/th?id=OHR.BerninaBloodMoon_EN-US5538561384_UHD.jpg) 
