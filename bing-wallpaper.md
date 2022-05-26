@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-27 | [Hanging bridge in the Monteverde Cloud Forest Reserve, Costa Rica (© Dmitriy Burlakov/Getty Images)](https://cn.bing.com/th?id=OHR.Monteverde_EN-US9503031199_UHD.jpg) 
+
 2022-05-26 | [Alhambra in Granada, Andalusia, Spain (© Armand Tamboly/Getty Images)](https://cn.bing.com/th?id=OHR.Alhambra_EN-US9442124079_UHD.jpg) 
 
 2022-05-25 | [Kornati National Park, Croatia (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.KornatiNP_EN-US0453245326_UHD.jpg) 
