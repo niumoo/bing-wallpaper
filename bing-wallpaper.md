@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-29 | [Bungle Bungle Range in Purnululu National Park, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg) 
+
 2022-05-28 | [Golden Gate Bridge and Marin Headlands photographed from Golden Gate Overlook in San Francisco, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MarinHeadlands_EN-US9564309974_UHD.jpg) 
 
 2022-05-27 | [Hanging bridge in the Monteverde Cloud Forest Reserve, Costa Rica (© Dmitriy Burlakov/Getty Images)](https://cn.bing.com/th?id=OHR.Monteverde_EN-US9503031199_UHD.jpg) 
