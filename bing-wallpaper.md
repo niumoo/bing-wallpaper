@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-08 | [Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg) 
+
 2022-06-07 | [An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg) 
 
 2022-06-06 | [Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg) 
