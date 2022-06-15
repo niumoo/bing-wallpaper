@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-16 | [Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](https://cn.bing.com/th?id=OHR.ClingmansDome_EN-US8094094597_UHD.jpg) 
+
 2022-06-15 | [The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg) 
 
 2022-06-14 | [Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg) 
