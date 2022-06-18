@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-19 | [Surfers catching waves at Palm Beach on the Gold Coast, Queensland, Australia (© Darren Tierney/Getty Images)](https://cn.bing.com/th?id=OHR.CelebratingSurfing_EN-US8732112733_UHD.jpg) 
+
 2022-06-18 | [Balsamroot wildflowers bloom below the Teton Mountains in Grand Teton National Park, Wyoming (© Mike Cavaroc/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Balsamroot_EN-US8641268598_UHD.jpg) 
 
 2022-06-17 | [Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg) 
