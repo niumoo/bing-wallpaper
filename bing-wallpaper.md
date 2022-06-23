@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-24 | [Stari Most in Mostar, Bosnia and Herzegovina (© Ayhan Altun/Getty Images)](https://cn.bing.com/th?id=OHR.MostarBridge_EN-US7365620237_UHD.jpg) 
+
 2022-06-23 | [Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures)](https://cn.bing.com/th?id=OHR.AmazonianEcuador_EN-US0278717095_UHD.jpg) 
 
 2022-06-22 | [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlastonburySolstice_EN-US7196057692_UHD.jpg) 
