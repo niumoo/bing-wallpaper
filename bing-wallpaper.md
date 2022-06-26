@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-27 | [Rainbow flag (© Matt Jeacock/Getty Images)](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg) 
+
 2022-06-26 | [Brown bear mother and cub in Katmai National Park and Preserve, Alaska (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BBMomCub_EN-US7553314922_UHD.jpg) 
 
 2022-06-25 | [Scuba diver exploring the underwater cenotes near Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)](https://cn.bing.com/th?id=OHR.CenoteDiver_EN-US7458460864_UHD.jpg) 
