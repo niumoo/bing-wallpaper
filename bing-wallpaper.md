@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-29 | [An old kasbah in the Tafilalet region, Morocco (© José Antonio Moreno/agefotostock)](https://cn.bing.com/th?id=OHR.TafilaletOasis_EN-US7798050717_UHD.jpg) 
+
 2022-06-28 | [Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)](https://cn.bing.com/th?id=OHR.ValensoleLavender_EN-US7717234716_UHD.jpg) 
 
 2022-06-27 | [Rainbow flag (© Matt Jeacock/Getty Images)](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg) 
