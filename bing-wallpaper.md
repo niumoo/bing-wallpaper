@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](https://cn.bing.com/th?id=OHR.SummerDogs_EN-US7055120050_UHD.jpg) 
+
 2022-07-03 | [Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg) 
 
 2022-07-02 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg) 
