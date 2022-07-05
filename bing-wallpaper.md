@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-06 | [Fannette Island surrounded by Emerald Bay, Lake Tahoe, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FannetteIsland_EN-US7369656560_UHD.jpg) 
+
 2022-07-05 | [Fireworks explode during Independence Day celebrations on July 4, 2021, in Washington, DC (© White House Photo/Alamy)](https://cn.bing.com/th?id=OHR.WHFireworks_EN-US7107173560_UHD.jpg) 
 
 2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](https://cn.bing.com/th?id=OHR.SummerDogs_EN-US7055120050_UHD.jpg) 
