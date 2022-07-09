@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-10 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg) 
+
 2022-07-09 | [Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg) 
 
 2022-07-08 | [Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg) 
