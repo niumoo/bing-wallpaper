@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](https://cn.bing.com/th?id=OHR.BabyLemons_EN-US8232804860_UHD.jpg) 
+
 2022-07-14 | [Basalt columns of Giant's Causeway, Northern Ireland (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.BasaltGiants_EN-US8165410401_UHD.jpg) 
 
 2022-07-13 | [Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images)](https://cn.bing.com/th?id=OHR.SpiralHill_EN-US8098037208_UHD.jpg) 
