@@ -122,9 +122,14 @@ public class FileUtils {
             .map(date -> date.substring(0, 7))
             .distinct()
             .collect(Collectors.toList());
+        int i = 0;
         for (String date : dateList) {
             String link = String.format("[%s](https://github.com/niumoo/bing-wallpaper/picture/%s/README.md) | ", date, date);
             Files.write(README_PATH, link.getBytes(), StandardOpenOption.APPEND);
+            i++;
+            if (i % 8 == 0) {
+                Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+            }
         }
     }
 
