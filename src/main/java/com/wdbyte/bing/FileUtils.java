@@ -7,7 +7,9 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
@@ -19,8 +21,10 @@ import java.util.stream.Collectors;
  */
 public class FileUtils {
 
-    private static Path readmePath = Paths.get("README.md");
-    private static Path bingPath = Paths.get("bing-wallpaper.md");
+    private static Path README_PATH = Paths.get("README.md");
+    private static Path BING_PATH = Paths.get("bing-wallpaper.md");
+
+    private static Path MONTH_PATH = Paths.get("picture/");
 
     /**
      * 读取 bing-wallpaper.md
@@ -29,10 +33,10 @@ public class FileUtils {
      * @throws IOException
      */
     public static List<Images> readBing() throws IOException {
-        if (!Files.exists(bingPath)) {
-            Files.createFile(bingPath);
+        if (!Files.exists(BING_PATH)) {
+            Files.createFile(BING_PATH);
         }
-        List<String> allLines = Files.readAllLines(bingPath);
+        List<String> allLines = Files.readAllLines(BING_PATH);
         allLines = allLines.stream().filter(s -> !s.isEmpty()).collect(Collectors.toList());
         List<Images> imgList = new ArrayList<>();
         imgList.add(new Images());
@@ -56,15 +60,15 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeBing(List<Images> imgList) throws IOException {
-        if (!Files.exists(bingPath)) {
-            Files.createFile(bingPath);
+        if (!Files.exists(BING_PATH)) {
+            Files.createFile(BING_PATH);
         }
-        Files.write(bingPath, "## Bing Wallpaper".getBytes());
-        Files.write(bingPath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        Files.write(BING_PATH, "## Bing Wallpaper".getBytes());
+        Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         for (Images images : imgList) {
-            Files.write(bingPath, images.formatMarkdown().getBytes(), StandardOpenOption.APPEND);
-            Files.write(bingPath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-            Files.write(bingPath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+            Files.write(BING_PATH, images.formatMarkdown().getBytes(), StandardOpenOption.APPEND);
+            Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+            Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         }
     }
 
@@ -75,10 +79,10 @@ public class FileUtils {
      * @throws IOException
      */
     public static List<Images> readReadme() throws IOException {
-        if (!Files.exists(readmePath)) {
-            Files.createFile(readmePath);
+        if (!Files.exists(README_PATH)) {
+            Files.createFile(README_PATH);
         }
-        List<String> allLines = Files.readAllLines(readmePath);
+        List<String> allLines = Files.readAllLines(README_PATH);
         List<Images> imgList = new ArrayList<>();
         for (int i = 3; i < allLines.size(); i++) {
             String content = allLines.get(i);
@@ -103,30 +107,84 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeReadme(List<Images> imgList) throws IOException {
-        if (!Files.exists(readmePath)) {
-            Files.createFile(readmePath);
+        if (!Files.exists(README_PATH)) {
+            Files.createFile(README_PATH);
         }
-        //List<String> allLines = Files.readAllLines(path);
-        Files.write(readmePath, "## Bing Wallpaper".getBytes());
-        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, imgList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, "|      |      |      |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        //Files.write(readmePath, "| ---- | ---- | ---- |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, "| :----: | :----: | :----: |".getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        int i = 1;
+        List<Images> imagesList = imgList.subList(0, 30);
+        writeFile(README_PATH, imagesList, null);
+
+        Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        // 归档
+        Files.write(README_PATH, "### 历史归档：".getBytes(), StandardOpenOption.APPEND);
+        Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        List<String> dateList = imgList.stream()
+            .map(Images::getDate)
+            .map(date -> date.substring(0, 7))
+            .distinct()
+            .collect(Collectors.toList());
+        for (String date : dateList) {
+            String link = String.format("[%s](https://github.com/niumoo/bing-wallpaper/picture/%s/README.md) | ", date, date);
+            Files.write(README_PATH, link.getBytes(), StandardOpenOption.APPEND);
+        }
+    }
+
+
+    /**
+     * 按月份写入图片信息
+     *
+     * @param imgList
+     * @throws IOException
+     */
+    public static void writeMonthInfo(List<Images> imgList) throws IOException {
+        Map<String, List<Images>> monthMap = new LinkedHashMap<>();
         for (Images images : imgList) {
-            Files.write(readmePath, ("|" + images.toString()).getBytes(), StandardOpenOption.APPEND);
+            String key = images.getDate().substring(0, 7);
+            if (monthMap.containsKey(key)) {
+                monthMap.get(key).add(images);
+            } else {
+                ArrayList<Images> list = new ArrayList<>();
+                list.add(images);
+                monthMap.put(key, list);
+            }
+        }
+
+        for (String key : monthMap.keySet()) {
+            Path path = MONTH_PATH.resolve(key);
+            if (!Files.exists(path)) {
+                Files.createDirectories(path);
+            }
+            path = path.resolve("README.md");
+            writeFile(path, monthMap.get(key), key);
+        }
+    }
+
+    private static void writeFile(Path path, List<Images> imagesList, String name) throws IOException {
+        if (!Files.exists(path)) {
+            Files.createFile(path);
+        }
+        String title = "## Bing Wallpaper";
+        if (name != null) {
+            title = "## Bing Wallpaper (" + name + ")";
+        }
+        Files.write(path, title.getBytes());
+        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, imagesList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, "|      |      |      |".getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, "| :----: | :----: | :----: |".getBytes(), StandardOpenOption.APPEND);
+        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        int i = 1;
+        for (Images images : imagesList) {
+            Files.write(path, ("|" + images.toString()).getBytes(), StandardOpenOption.APPEND);
             if (i % 3 == 0) {
-                Files.write(readmePath, "|".getBytes(), StandardOpenOption.APPEND);
-                Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+                Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
+                Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
             }
             i++;
         }
         if (i % 3 != 1) {
-            Files.write(readmePath, "|".getBytes(), StandardOpenOption.APPEND);
+            Files.write(path, "|".getBytes(), StandardOpenOption.APPEND);
         }
     }
 

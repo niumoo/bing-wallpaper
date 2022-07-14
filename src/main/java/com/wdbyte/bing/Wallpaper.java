@@ -45,7 +45,7 @@ public class Wallpaper {
         imagesList = imagesList.stream().distinct().collect(Collectors.toList());
         FileUtils.writeBing(imagesList);
         FileUtils.writeReadme(imagesList);
-
+        FileUtils.writeMonthInfo(imagesList);
     }
 
 }
