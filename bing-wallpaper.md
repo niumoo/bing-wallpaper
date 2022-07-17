@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-18 | [The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg) 
+
 2022-07-17 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg) 
 
 2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg) 
