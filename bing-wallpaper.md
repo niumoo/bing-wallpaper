@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-19 | [Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_UHD.jpg) 
+
 2022-07-18 | [The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg) 
 
 2022-07-17 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg) 
