@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-25 | [Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg) 
+
 2022-07-24 | [Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg) 
 
 2022-07-23 | [Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock)](https://cn.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg) 
