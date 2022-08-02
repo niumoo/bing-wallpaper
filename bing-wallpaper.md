@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-03 | [The Hickman Bridge at Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg) 
+
 2022-08-02 | [An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg) 
 
 2022-08-01 | [Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](https://cn.bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg) 
