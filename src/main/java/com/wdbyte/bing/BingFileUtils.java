@@ -19,12 +19,13 @@ import java.util.stream.Collectors;
  * @date 2021/02/08
  * @link https://github.com/niumoo
  */
-public class FileUtils {
+public class BingFileUtils {
 
     private static Path README_PATH = Paths.get("README.md");
     private static Path BING_PATH = Paths.get("bing-wallpaper.md");
 
     private static Path MONTH_PATH = Paths.get("picture/");
+
 
     /**
      * 读取 bing-wallpaper.md
@@ -141,18 +142,7 @@ public class FileUtils {
      * @throws IOException
      */
     public static void writeMonthInfo(List<Images> imgList) throws IOException {
-        Map<String, List<Images>> monthMap = new LinkedHashMap<>();
-        for (Images images : imgList) {
-            String key = images.getDate().substring(0, 7);
-            if (monthMap.containsKey(key)) {
-                monthMap.get(key).add(images);
-            } else {
-                ArrayList<Images> list = new ArrayList<>();
-                list.add(images);
-                monthMap.put(key, list);
-            }
-        }
-
+        Map<String, List<Images>> monthMap = convertImgListToMonthMap(imgList);
         for (String key : monthMap.keySet()) {
             Path path = MONTH_PATH.resolve(key);
             if (!Files.exists(path)) {
@@ -163,6 +153,38 @@ public class FileUtils {
         }
     }
 
+    /**
+     * 转换图片列表为月度 Map
+     *
+     * @param imagesList
+     * @return
+     */
+    public static Map<String, List<Images>> convertImgListToMonthMap( List<Images> imagesList){
+        Map<String, List<Images>> monthMap = new LinkedHashMap<>();
+        for (Images images : imagesList) {
+            if (images.getUrl() == null){
+                continue;
+            }
+            String key = images.getDate().substring(0, 7);
+            if (monthMap.containsKey(key)) {
+                monthMap.get(key).add(images);
+            } else {
+                ArrayList<Images> list = new ArrayList<>();
+                list.add(images);
+                monthMap.put(key, list);
+            }
+        }
+        return monthMap;
+    }
+
+    /**
+     * 写入图片列表到指定位置
+     *
+     * @param path
+     * @param imagesList
+     * @param name
+     * @throws IOException
+     */
     private static void writeFile(Path path, List<Images> imagesList, String name) throws IOException {
         if (!Files.exists(path)) {
             Files.createFile(path);
