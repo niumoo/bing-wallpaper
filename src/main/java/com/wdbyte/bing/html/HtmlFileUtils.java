@@ -5,7 +5,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
 
 /**
  * @author niulang
@@ -13,8 +12,8 @@ import java.nio.file.StandardOpenOption;
  */
 public class HtmlFileUtils {
 
-    private static Path BING_HTML_ROOT = Paths.get("html/");
-    private static Path BING_HTML_INDEX_TEMPLATE = Paths.get("html/bing-template.html");
+    private static Path BING_HTML_ROOT = Paths.get("docs/");
+    private static Path BING_HTML_INDEX_TEMPLATE = Paths.get("docs/bing-template.html");
 
     public static String readIndexTemplateFile() throws IOException {
         byte[] bytes = Files.readAllBytes(BING_HTML_INDEX_TEMPLATE);
