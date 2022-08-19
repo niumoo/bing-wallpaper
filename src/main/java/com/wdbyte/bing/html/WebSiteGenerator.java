@@ -27,6 +27,14 @@ public class WebSiteGenerator {
         generator.htmlGeneratorMonth(monthMap);
     }
 
+    public void htmlGenerator() throws IOException {
+        List<Images> bingImages = BingFileUtils.readBing();
+        bingImages = bingImages.stream().filter(img -> img.getUrl() != null).collect(Collectors.toList());
+        Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
+        htmlGeneratorIndex(bingImages, monthMap);
+        htmlGeneratorMonth(monthMap);
+    }
+
     public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
         String templateFile = HtmlFileUtils.readIndexTemplateFile();
         // 替换头部图片和描述

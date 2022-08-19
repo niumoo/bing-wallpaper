@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>必应壁纸 | Bing Wallpaper</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="每日必应壁纸">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="keywords" content="bing wallpaper, 必应壁纸">
+    <link rel="stylesheet" href="/css/w3.css">
+    <link rel="icon" href="/img/fav.jpg">
+    <style>
+        .bigImg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+        }
+        .smallImg{
+            filter: blur(20px);
+        }
+    </style>
+</head>
+<script>
+    function imgloading(oImg) {
+        var n = 0;
+        var timer = setInterval(function () {
+            n++;
+            oImg.style.opacity = n / 100;
+            if (n >= 100) {
+                clearInterval(timer);
+            }
+            ;
+        }, 30);
+    };
+</script>
+<body>
+
+<!-- Sidebar (hidden by default) -->
+<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;max-width:200px;min-width:100px" id="mySidebar">
+    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">收起</a>
+    <a href="2022-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-08</a><a href="2022-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-07</a><a href="2022-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-06</a><a href="2022-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-05</a><a href="2022-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-04</a><a href="2022-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-03</a><a href="2022-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-02</a><a href="2022-01.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2022-01</a><a href="2021-12.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-12</a><a href="2021-11.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-11</a><a href="2021-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-10</a><a href="2021-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-09</a><a href="2021-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-08</a><a href="2021-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-07</a><a href="2021-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-06</a><a href="2021-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-05</a><a href="2021-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-04</a><a href="2021-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2021-03</a><a href="2021-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-green w3-large">2021-02</a>
+</nav>
+
+<!-- !PAGE CONTENT! -->
+<!-- Header -->
+<header class="w3-display-container w3-content w3-center" style="max-width:100%" height="600">
+    <img class="w3-image smallImg" src="https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&pid=hp&w=100" width="100%" >
+    <img class="w3-image bigImg" onload="imgloading(this)" src="https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&pid=hp&w=2000" width="100%">
+    <div class="w3-display-middle w3-padding-large w3-wide w3-text-light-grey w3-center">
+        <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Bing Wallpaper(2021-02)</h1>
+        <div class=" w3-padding-large w3-text-light-grey" style="width: 800px">
+            <p>Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)</p>
+        </div>
+        <h5 class="w3-hide-large" style="white-space:nowrap">Bing Wallpaper</h5>
+    </div>
+
+
+
+    <!-- Navbar (placed at the bottom of the header image) -->
+    <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle" style="bottom:-16px">
+        <a href="/" class="w3-bar-item w3-button">首页</a>
+        <a href="#portfolio" class="w3-bar-item w3-button w3-hover-text-green"  onclick="w3_open()">归档</a>
+        <a href="https://www.wdbyte.com/bing-wallpaper-400.html" target="_blank" class="w3-bar-item w3-button w3-hover-text-green">关于</a>
+        <a href="https://github.com/niumoo/bing-wallpaper" target="_blank" class="w3-bar-item w3-button w3-hover-text-green  w3-hide-small">GitHub</a>
+    </div>
+</header>
+
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:50px">
+
+    <!-- First Photo Grid-->
+    <div class="w3-row-padding w3-padding-16 w3-center">
+        <div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-28 <a href="https://cn.bing.com/th?id=OHR.TwinsDenning_EN-US9910127756_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-27 <a href="https://cn.bing.com/th?id=OHR.JinliStreet_EN-US9813774321_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-26 <a href="https://cn.bing.com/th?id=OHR.Trevi_EN-US7298856463_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-25 <a href="https://cn.bing.com/th?id=OHR.LeMorneBrabant_EN-US7199520186_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.DalmatianPelicans_EN-US7089551223_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.DalmatianPelicans_EN-US7089551223_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-24 <a href="https://cn.bing.com/th?id=OHR.DalmatianPelicans_EN-US7089551223_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-23 <a href="https://cn.bing.com/th?id=OHR.InvisibleMan_EN-US6967873703_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.Porto_EN-US6858177103_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.Porto_EN-US6858177103_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-22 <a href="https://cn.bing.com/th?id=OHR.Porto_EN-US6858177103_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.AABday_EN-US6703996640_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.AABday_EN-US6703996640_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-21 <a href="https://cn.bing.com/th?id=OHR.AABday_EN-US6703996640_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.Parrotfish_EN-US6474384190_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.Parrotfish_EN-US6474384190_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-20 <a href="https://cn.bing.com/th?id=OHR.Parrotfish_EN-US6474384190_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.VerzascaValley_EN-US6320380092_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.VerzascaValley_EN-US6320380092_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-19 <a href="https://cn.bing.com/th?id=OHR.VerzascaValley_EN-US6320380092_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.PeritoMorenoArgentina_EN-US6161367346_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.PeritoMorenoArgentina_EN-US6161367346_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-18 <a href="https://cn.bing.com/th?id=OHR.PeritoMorenoArgentina_EN-US6161367346_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.PurpleFlowers_EN-US5664268733_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.PurpleFlowers_EN-US5664268733_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-17 <a href="https://cn.bing.com/th?id=OHR.PurpleFlowers_EN-US5664268733_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.Lincoln50MoWA_EN-US4174714087_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.Lincoln50MoWA_EN-US4174714087_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-16 <a href="https://cn.bing.com/th?id=OHR.Lincoln50MoWA_EN-US4174714087_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.OceanHeart_EN-US5478049854_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.OceanHeart_EN-US5478049854_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-15 <a href="https://cn.bing.com/th?id=OHR.OceanHeart_EN-US5478049854_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.BluebirdsEastern_EN-US5293227470_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.BluebirdsEastern_EN-US5293227470_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-14 <a href="https://cn.bing.com/th?id=OHR.BluebirdsEastern_EN-US5293227470_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.YearoftheOx_EN-US5106152536_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.YearoftheOx_EN-US5106152536_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-13 <a href="https://cn.bing.com/th?id=OHR.YearoftheOx_EN-US5106152536_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.CentralCaliBlossoms_EN-US0148484264_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.CentralCaliBlossoms_EN-US0148484264_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-12 <a href="https://cn.bing.com/th?id=OHR.CentralCaliBlossoms_EN-US0148484264_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.PenitentSnow_EN-US0047515629_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.PenitentSnow_EN-US0047515629_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-11 <a href="https://cn.bing.com/th?id=OHR.PenitentSnow_EN-US0047515629_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.MoonDogs_EN-US0007581724_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.MoonDogs_EN-US0007581724_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-10 <a href="https://cn.bing.com/th?id=OHR.MoonDogs_EN-US0007581724_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.HeroMural_EN-US9967459324_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.HeroMural_EN-US9967459324_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-09 <a href="https://cn.bing.com/th?id=OHR.HeroMural_EN-US9967459324_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.IceWalking_ZH-CN5122217505_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.IceWalking_ZH-CN5122217505_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-08 <a href="https://cn.bing.com/th?id=OHR.IceWalking_ZH-CN5122217505_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.SuperbOwl_ZH-CN5028336455_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.SuperbOwl_ZH-CN5028336455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-07 <a href="https://cn.bing.com/th?id=OHR.SuperbOwl_ZH-CN5028336455_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.MountSefton_ZH-CN4956097627_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.MountSefton_ZH-CN4956097627_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-06 <a href="https://cn.bing.com/th?id=OHR.MountSefton_ZH-CN4956097627_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.TheWave_ZH-CN4856809836_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.TheWave_ZH-CN4856809836_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-05 <a href="https://cn.bing.com/th?id=OHR.TheWave_ZH-CN4856809836_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.VosgesBioReserve_ZH-CN4762694302_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.VosgesBioReserve_ZH-CN4762694302_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-04 <a href="https://cn.bing.com/th?id=OHR.VosgesBioReserve_ZH-CN4762694302_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.MountNemrut_ZH-CN4681788604_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.MountNemrut_ZH-CN4681788604_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-03 <a href="https://cn.bing.com/th?id=OHR.MountNemrut_ZH-CN4681788604_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.RainbowMarmot_ZH-CN4605973404_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.RainbowMarmot_ZH-CN4605973404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-02 <a href="https://cn.bing.com/th?id=OHR.RainbowMarmot_ZH-CN4605973404_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div><div class="w3-third " style="position: relative;">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.ToledoIldefonso_ZH-CN4507206651_UHD.jpg&pid=hp&w=50"  style="width:98%;" /> <img class="bigImg" src="https://cn.bing.com/th?id=OHR.ToledoIldefonso_ZH-CN4507206651_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+ <p>2021-02-01 <a href="https://cn.bing.com/th?id=OHR.ToledoIldefonso_ZH-CN4507206651_UHD.jpg" target="_blank">Download 4k</a> </p>
+</div>
+    </div>
+    <div class=" w3-margin">
+        <div class="w3-container">
+            <h4>按月份查看</h4>
+        </div>
+        <div class="w3-container w3-white">
+            <p>
+                <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-08.html">2022-08</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-07.html">2022-07</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-06.html">2022-06</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-05.html">2022-05</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-04.html">2022-04</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-03.html">2022-03</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-02.html">2022-02</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2022-01.html">2022-01</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-12.html">2021-12</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-11.html">2021-11</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-10.html">2021-10</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-09.html">2021-09</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-08.html">2021-08</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-07.html">2021-07</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-06.html">2021-06</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-05.html">2021-05</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-04.html">2021-04</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2021-03.html">2021-03</a> <a class="w3-tag w3-button w3-hover-green w3-green w3-margin-bottom" href="2021-02.html">2021-02</a> 
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+    <p>Powered by <a href="https://github.com/niumoo/bing-wallpaper" title="W3.CSS" target="_blank" class="w3-hover-text-green">Github.com/niumoo</a></p>
+</footer>
+<script>
+    // Script to open and close sidebar
+    function w3_open() {
+        document.getElementById("mySidebar").style.display = "block";
+    }
+
+    function w3_close() {
+        document.getElementById("mySidebar").style.display = "none";
+    }
+
+</script>
+
+</body>
+</html>
