@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-22 | [Faro de Playa Lago, Costa da Morte, Muxia, Galicia, Spain (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.CostadaMorte_EN-US3132736041_UHD.jpg) 
+
 2022-08-21 | [Beehives in the Muniellos Nature Reserve, Asturias province, Spain (© ABB Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.BearProof_EN-US2982363241_UHD.jpg) 
 
 2022-08-20 | [Solar Impulse 2 flying over the pyramids in Giza, Egypt (© Jean Revillard/Solar Impulse2 via Getty Images)](https://cn.bing.com/th?id=OHR.SolarImpulse2_EN-US2864472613_UHD.jpg) 
