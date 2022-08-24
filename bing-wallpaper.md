@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-25 | [Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg) 
+
 2022-08-24 | [Menton, France (© Flavio Foglietta/Getty Images)](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg) 
 
 2022-08-23 | [A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg) 
