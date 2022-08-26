@@ -17,7 +17,8 @@
             opacity: 0;
         }
         .smallImg{
-            filter: blur(20px);
+            filter: blur(15px);
+            -webkit-filter: blur(15px);
         }
     </style>
     <script>
@@ -36,12 +37,12 @@
         var n = 0;
         var timer = setInterval(function () {
             n++;
-            oImg.style.opacity = n / 100;
-            if (n >= 100) {
+            oImg.style.opacity = n * n / 50;
+            if (n * n >= 50) {
                 clearInterval(timer);
             }
             ;
-        }, 30);
+        }, 50);
     };
 </script>
 <body>
