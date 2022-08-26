@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-27 | [Kiteboarders and windsurfers off the Pelješac Peninsula, Croatia (© helivideo/Getty Images)](https://cn.bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg) 
+
 2022-08-26 | [North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg) 
 
 2022-08-25 | [Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg) 
