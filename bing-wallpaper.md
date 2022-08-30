@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-31 | [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg) 
+
 2022-08-30 | [Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg) 
 
 2022-08-29 | [Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg) 
