@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-01 | [Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg) 
+
 2022-08-31 | [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg) 
 
 2022-08-30 | [Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg) 
