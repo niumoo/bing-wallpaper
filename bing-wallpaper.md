@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-05 | [Arambol Beach in Goa, India (© Ben Pipe/Alamy)](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg) 
+
 2022-09-04 | [Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg) 
 
 2022-09-03 | [Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg) 
