@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-06 | [Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg) 
+
 2022-09-05 | [Arambol Beach in Goa, India (© Ben Pipe/Alamy)](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg) 
 
 2022-09-04 | [Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg) 
