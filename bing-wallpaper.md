@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-10 | [Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg) 
+
 2022-09-09 | [View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](https://cn.bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg) 
 
 2022-09-08 | [Museu do Amanhã (Museum of Tomorrow) in Rio de Janeiro, Brazil (© Nido Huebl/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseudoAmanha_EN-US9576177041_UHD.jpg) 
