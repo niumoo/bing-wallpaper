@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-11 | [Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg) 
+
 2022-09-10 | [Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg) 
 
 2022-09-09 | [View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](https://cn.bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg) 
