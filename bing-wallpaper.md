@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-12 | [Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](https://cn.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg) 
+
 2022-09-11 | [Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg) 
 
 2022-09-10 | [Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg) 
