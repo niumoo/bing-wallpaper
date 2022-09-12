@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-13 | [Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock)](https://cn.bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg) 
+
 2022-09-12 | [Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](https://cn.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg) 
 
 2022-09-11 | [Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg) 
