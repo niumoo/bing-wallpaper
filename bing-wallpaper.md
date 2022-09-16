@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-17 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg) 
+
 2022-09-16 | [Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg) 
 
 2022-09-15 | [Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg) 
