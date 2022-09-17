@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-18 | [Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg) 
+
 2022-09-17 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg) 
 
 2022-09-16 | [Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg) 
