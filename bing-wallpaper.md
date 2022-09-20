@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-21 | [Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg) 
+
 2022-09-20 | [Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg) 
 
 2022-09-19 | [Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](https://cn.bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg) 
