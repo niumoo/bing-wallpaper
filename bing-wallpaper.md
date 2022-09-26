@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg) 
+
 2022-09-26 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg) 
 
 2022-09-25 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg) 
