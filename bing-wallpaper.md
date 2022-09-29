@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-30 | [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg) 
+
 2022-09-29 | [A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg) 
 
 2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg) 
