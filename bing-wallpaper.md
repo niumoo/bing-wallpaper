@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-02 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg) 
+
 2022-10-01 | [Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](https://cn.bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg) 
 
 2022-09-30 | [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://cn.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg) 
