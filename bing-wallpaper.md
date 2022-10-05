@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg) 
+
 2022-10-05 | [Cosmic Cliffs in the Carina Nebula (© NASA, ESA, CSA, and STScI)](https://cn.bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg) 
 
 2022-10-04 | [The Port House, designed by Zaha Hadid Architects, Antwerp, Belgium (© Dmitry Rukhlenko/Alamy)](https://cn.bing.com/th?id=OHR.Porthuis_EN-US8462686696_UHD.jpg) 
