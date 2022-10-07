@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg) 
+
 2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg) 
 
 2022-10-05 | [Cosmic Cliffs in the Carina Nebula (© NASA, ESA, CSA, and STScI)](https://cn.bing.com/th?id=OHR.CosmicCliffs_EN-US8727581889_UHD.jpg) 
