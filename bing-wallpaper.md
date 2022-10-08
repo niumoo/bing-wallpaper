@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg) 
+
 2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg) 
 
 2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg) 
