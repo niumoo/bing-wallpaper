@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg) 
+
 2022-10-13 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg) 
 
 2022-10-12 | [Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg) 
