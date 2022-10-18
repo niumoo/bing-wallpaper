@@ -125,7 +125,7 @@ public class BingFileUtils {
             .collect(Collectors.toList());
         int i = 0;
         for (String date : dateList) {
-            String link = String.format("[%s](https://github.com/niumoo/bing-wallpaper/tree/main/picture/%s/) | ", date, date);
+            String link = String.format("[%s](/picture/%s/) | ", date, date);
             Files.write(README_PATH, link.getBytes(), StandardOpenOption.APPEND);
             i++;
             if (i % 8 == 0) {
