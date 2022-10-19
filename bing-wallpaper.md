@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-20 | [Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg) 
+
 2022-10-19 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg) 
 
 2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg) 
