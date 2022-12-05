@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-06 | [Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg) 
+
 2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg) 
 
 2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg) 
