@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-12 | [Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg) 
+
 2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg) 
 
 2022-12-10 | [Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg) 
