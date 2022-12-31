@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-01 | [New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg) 
+
 2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg) 
 
 2022-12-30 | [A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)](https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg) 
