@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-09 | [Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg) 
+
 2023-01-08 | [Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg) 
 
 2023-01-07 | [Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg) 
