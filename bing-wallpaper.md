@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-15 | [Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg) 
+
 2023-01-14 | [Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg) 
 
 2023-01-13 | [Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg) 
