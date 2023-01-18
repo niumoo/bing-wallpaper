@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-19 | [White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg) 
+
 2023-01-18 | [Muniellos Nature Reserve in Asturias, Spain (© Andres M. Dominguez/Minden Pictures)](https://cn.bing.com/th?id=OHR.SessileOaks_EN-US1487454928_UHD.jpg) 
 
 2023-01-17 | [Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC (© Ken Howard/Alamy)](https://cn.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg) 
