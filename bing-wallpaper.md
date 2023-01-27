@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-28 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg) 
+
 2023-01-27 | [Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg) 
 
 2023-01-25 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg) 
