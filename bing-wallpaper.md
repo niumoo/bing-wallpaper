@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-07 | [Fiordland National Park in South Island, New Zealand (© WitR/Adobe Stock)](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg) 
+
 2023-02-06 | [Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg) 
 
 2023-02-05 | [Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg) 
