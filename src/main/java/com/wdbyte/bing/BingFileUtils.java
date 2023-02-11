@@ -21,11 +21,10 @@ import java.util.stream.Collectors;
  */
 public class BingFileUtils {
 
-    private static Path README_PATH = Paths.get("README.md");
-    private static Path BING_PATH = Paths.get("bing-wallpaper.md");
+    public static Path README_PATH = Paths.get("README.md");
+    public static Path BING_PATH = Paths.get("bing-wallpaper.md");
 
-    private static Path MONTH_PATH = Paths.get("picture/");
-
+    public static Path MONTH_PATH = Paths.get("picture/");
 
     /**
      * 读取 bing-wallpaper.md
@@ -35,6 +34,10 @@ public class BingFileUtils {
      */
     public static List<Images> readBing() throws IOException {
         if (!Files.exists(BING_PATH)) {
+            Path parent = BING_PATH.getParent();
+            if (!Files.exists(parent)) {
+                Files.createDirectory(parent);
+            }
             Files.createFile(BING_PATH);
         }
         List<String> allLines = Files.readAllLines(BING_PATH);
@@ -51,6 +54,7 @@ public class BingFileUtils {
             String url = s.substring(urlStart, s.length() - 1);
             imgList.add(new Images(desc, date, url));
         }
+        LogUtils.log("read bing wallpaper,path:%s,size:%d", BING_PATH.toString(), imgList.size());
         return imgList;
     }
 
@@ -71,6 +75,7 @@ public class BingFileUtils {
             Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
             Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         }
+        LogUtils.log("write bing wallpaper,path:%s,size:%d", BING_PATH.toString(), imgList.size());
     }
 
     /**
@@ -111,7 +116,12 @@ public class BingFileUtils {
         if (!Files.exists(README_PATH)) {
             Files.createFile(README_PATH);
         }
-        List<Images> imagesList = imgList.subList(0, 30);
+        List<Images> imagesList = new ArrayList<>(0);
+        if (imgList.size() > 30) {
+            imagesList = imgList.subList(0, 30);
+        } else {
+            imagesList = imgList;
+        }
         writeFile(README_PATH, imagesList, null);
 
         Files.write(README_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);

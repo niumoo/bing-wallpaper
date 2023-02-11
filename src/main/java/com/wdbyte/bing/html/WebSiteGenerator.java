@@ -42,7 +42,7 @@ public class WebSiteGenerator {
         // 替换侧边目录
         indexHtml = replaceSidebar(indexHtml, monthMap, null);
         // 替换图片列表
-        indexHtml = replaceImgList(indexHtml, bingImages.subList(0, 30));
+        indexHtml = replaceImgList(indexHtml, bingImages.size() > 30 ? bingImages.subList(0, 30) : bingImages);
         // 替换底部月度历史
         indexHtml = replaceMonthHistory(indexHtml, monthMap, null);
         // 写到文件
