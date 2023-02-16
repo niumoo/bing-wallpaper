@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-17 | ['Firefall' on Horsetail Fall, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg) 
+
 2023-02-16 | [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg) 
 
 2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg) 
