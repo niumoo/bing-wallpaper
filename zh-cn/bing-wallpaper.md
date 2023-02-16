@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-17 | [栖息在红袋鼠爪枝干上的艾氏煌蜂鸟 (© GypsyPictureShow/Shutterstock)](https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg) 
+
 2023-02-16 | [“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg) 
 
 2023-02-15 | [河马妈妈和宝宝，乔贝国家公园，博茨瓦纳 (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg) 
