@@ -1,7 +1,7 @@
 ## Bing Wallpaper
-2023-02-19 | [毛伊岛附近的座头鲸，美国夏��夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
-
 2023-02-19 | [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
+
+2023-02-19 | [毛伊岛附近的座头鲸，美国夏��夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
 
 2023-02-18 | [埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg) 
 

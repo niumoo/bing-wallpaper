@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&w=1000)Today: [毛伊岛附近的座头鲸，美国夏��夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)
+![](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&w=1000)Today: [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-19 [download 4k](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-19 [download 4k](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg)|![](https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-18 [download 4k](https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg)|
