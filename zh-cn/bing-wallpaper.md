@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-20 | [Itaimbezinho峡谷，巴西 (© NidoHuebl/Getty Images)](https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg) 
+
 2023-02-19 | [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
 
 2023-02-19 | [毛伊岛附近的座头鲸，美国夏��夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
