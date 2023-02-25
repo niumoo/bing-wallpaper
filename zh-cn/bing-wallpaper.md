@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-26 | [亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg) 
+
 2023-02-25 | [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg) 
 
 2023-02-25 | [��莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg) 
