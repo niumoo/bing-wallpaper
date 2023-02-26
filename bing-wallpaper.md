@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-27 | [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg) 
+
 2023-02-26 | [Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg) 
 
 2023-02-25 | [Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg) 
