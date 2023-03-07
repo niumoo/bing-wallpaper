@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-08 | [极光展示，怀特霍斯，育空地区，加拿大 (© John Hyde/plainpicture/Design Pics)](https://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-03-07 | [梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-03-06 | [站在自己领域的冰岛马，冰岛 (© Rodrigo Lourezini/Shutterstock)](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg) 
