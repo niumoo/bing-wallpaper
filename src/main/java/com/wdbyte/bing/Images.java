@@ -56,6 +56,13 @@ public class Images {
         return url;
     }
 
+    public String getSimpleUrl() {
+        if (url.contains("&")) {
+            return url.substring(0, url.indexOf("&"));
+        }
+        return url;
+    }
+
     public void setUrl(String url) {
         this.url = url;
     }

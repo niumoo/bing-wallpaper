@@ -87,7 +87,7 @@ public class WebSiteGenerator {
      * @return
      */
     public String replaceHead(String html, Images images, String month) {
-        html = html.replace(Head.HEAD_IMG_URL, images.getUrl());
+        html = html.replace(Head.HEAD_IMG_URL, images.getSimpleUrl());
         html = html.replace(Head.HEAD_IMG_DESC, images.getDesc());
         if (month != null) {
             html = html.replace(Head.HEAD_TITLE, "Bing Wallpaper(" + month + ")");
@@ -100,7 +100,7 @@ public class WebSiteGenerator {
     public String replaceImgList(String html, List<Images> bingImages) {
         StringBuilder imgList = new StringBuilder();
         for (Images bingImage : bingImages) {
-            imgList.append(ImgCard.getImgCard(bingImage.getUrl(), bingImage.getDate()));
+            imgList.append(ImgCard.getImgCard(bingImage));
         }
         return html.replace(ImgCard.VAR_IMG_CARD_LIST, imgList.toString());
     }
