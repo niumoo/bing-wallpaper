@@ -43,7 +43,6 @@ public class Wallpaper {
             jsonObject = (JSONObject)jsonArray.get(0);
             // 图片地址
             String url = BING_URL + (String)jsonObject.get("url");
-            url = url.substring(0, url.indexOf("&"));
 
             // 图片时间
             String enddate = (String)jsonObject.get("enddate");

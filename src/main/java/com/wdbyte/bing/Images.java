@@ -14,7 +14,11 @@ public class Images {
 
     @Override
     public String toString() {
-        String smallUrl = url + "&pid=hp&w=384&h=216&rs=1&c=4";
+        String smallUrl = "";
+        if (url.contains("&")) {
+            smallUrl = url.substring(0, url.indexOf("&"));
+        }
+        smallUrl = url + "&pid=hp&w=384&h=216&rs=1&c=4";
         //return String.format("![](%s)[%s\\| %s](%s)", smallUrl, date, desc, url);
         return String.format("![](%s)%s [download 4k](%s)", smallUrl, date, url);
     }
@@ -24,7 +28,11 @@ public class Images {
     }
 
     public String toLarge() {
-        String smallUrl = url + "&w=1000";
+        String smallUrl = "";
+        if (url.contains("&")) {
+            smallUrl = url.substring(0, url.indexOf("&"));
+        }
+        smallUrl = url + "&w=1000";
         return String.format("![](%s)Today: [%s](%s)", smallUrl, desc, url);
     }
 
