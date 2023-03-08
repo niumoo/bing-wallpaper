@@ -3,61 +3,61 @@
 
 2023-03-07 | [梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)](https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-06 | [站在自己领域的冰岛马，冰岛 (© Rodrigo Lourezini/Shutterstock)](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg) 
+2023-03-06 | [站在自己领域的冰岛马，冰岛 (© Rodrigo Lourezini/Shutterstock)](https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-05 | [袋鼠妈妈和宝宝 (© Belle Ciezak/Shutterstock)](https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg) 
+2023-03-05 | [袋鼠妈妈和宝宝 (© Belle Ciezak/Shutterstock)](https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-04 | [通往皮库山的道路，葡萄牙 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_UHD.jpg) 
+2023-03-04 | [通往皮库山的道路，葡萄牙 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-03 | [斯皮尔德拉的虎鲸，挪威 (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg) 
+2023-03-03 | [斯皮尔德拉的虎鲸，挪威 (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-03 | [斯皮尔德拉的虎���，挪威 (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg) 
+2023-03-03 | [斯皮尔德拉的虎���，挪威 (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-02 | [内格拉廷湖，格拉纳达，西班牙 (© Andres Martinez Olmedo/Getty Images)](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_UHD.jpg) 
+2023-03-02 | [内格拉廷湖，格拉纳达，西班牙 (© Andres Martinez Olmedo/Getty Images)](https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-01 | [吕贝克的霍尔斯滕门，德国 (© Harald Nachtmann/Getty Images)](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg) 
+2023-03-01 | [吕贝克的霍尔斯滕门，德国 (© Harald Nachtmann/Getty Images)](https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-28 | [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg) 
+2023-02-28 | [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-27 | [北极熊在加拿大沉睡 (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg) 
+2023-02-27 | [北极熊在加拿大沉睡 (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-26 | [亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg) 
+2023-02-26 | [亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-25 | [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg) 
+2023-02-25 | [布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-25 | [��莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg) 
+2023-02-25 | [��莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-24 | [里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg) 
+2023-02-24 | [里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-23 | [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士 (© Matthew Williams Ellis/Plainpicture)](https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg) 
+2023-02-23 | [克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士 (© Matthew Williams Ellis/Plainpicture)](https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-22 | [菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)](https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg) 
+2023-02-22 | [菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)](https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-21 | [新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg) 
+2023-02-21 | [新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-20 | [Itaimbezinho峡谷，巴西 (© NidoHuebl/Getty Images)](https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg) 
+2023-02-20 | [Itaimbezinho峡谷，巴西 (© NidoHuebl/Getty Images)](https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-19 | [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
+2023-02-19 | [毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-19 | [毛伊岛附近的座头鲸，美国夏��夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg) 
+2023-02-19 | [毛伊岛附近的座头鲸，美国夏��夷 (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-18 | [埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg) 
+2023-02-18 | [埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-17 | [栖息在红袋鼠爪枝干上的艾氏煌蜂鸟 (© GypsyPictureShow/Shutterstock)](https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg) 
+2023-02-17 | [栖息在红袋鼠爪枝干上的艾氏煌蜂鸟 (© GypsyPictureShow/Shutterstock)](https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-16 | [“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg) 
+2023-02-16 | [“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-15 | [河马妈妈和宝宝，乔贝国家公园，博茨瓦纳 (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg) 
+2023-02-15 | [河马妈妈和宝宝，乔贝国家公园，博茨瓦纳 (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-14 | [日本北海道小樽雪灯之路的冰屋 (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg) 
+2023-02-14 | [日本北海道小樽雪灯之路的冰屋 (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-13 | [阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg) 
+2023-02-13 | [阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-12 | [一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg) 
+2023-02-12 | [一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-11 | [死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg) 
+2023-02-11 | [死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-10 | [埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg) 
+2023-02-10 | [埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-02-09 | [下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_UHD.jpg) 
 

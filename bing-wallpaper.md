@@ -1,57 +1,57 @@
 ## Bing Wallpaper
 2023-03-08 | [Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)](https://cn.bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-07 | [Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)](https://cn.bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg) 
+2023-03-07 | [Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)](https://cn.bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-06 | [Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan (© Jon Arnold/Danita Delimont)](https://cn.bing.com/th?id=OHR.TokyoMoat_EN-US9901957262_UHD.jpg) 
+2023-03-06 | [Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan (© Jon Arnold/Danita Delimont)](https://cn.bing.com/th?id=OHR.TokyoMoat_EN-US9901957262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-05 | [Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg) 
+2023-03-05 | [Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-04 | [Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg) 
+2023-03-04 | [Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-03 | [Negratín Reservoir, Granada, Spain (© Andres Martinez Olmedo/Getty Images)](https://cn.bing.com/th?id=OHR.NegratinSpain_EN-US0285047102_UHD.jpg) 
+2023-03-03 | [Negratín Reservoir, Granada, Spain (© Andres Martinez Olmedo/Getty Images)](https://cn.bing.com/th?id=OHR.NegratinSpain_EN-US0285047102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-02 | [Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)](https://cn.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg) 
+2023-03-02 | [Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)](https://cn.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-03-01 | [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg) 
+2023-03-01 | [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg) 
+2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-27 | [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg) 
+2023-02-27 | [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-26 | [Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg) 
+2023-02-26 | [Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-25 | [Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg) 
+2023-02-25 | [Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-24 | [Paris, France (© somchaij/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg) 
+2023-02-24 | [Paris, France (© somchaij/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-23 | [Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg) 
+2023-02-23 | [Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg) 
+2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-21 | [Washington Monument and Capitol Building on the National Mall, Washington, DC (© AevanStock/Shutterstock)](https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg) 
+2023-02-21 | [Washington Monument and Capitol Building on the National Mall, Washington, DC (© AevanStock/Shutterstock)](https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-20 | [Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg) 
+2023-02-20 | [Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-19 | [Eben Ice Caves, Upper Peninsula, Michigan (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg) 
+2023-02-19 | [Eben Ice Caves, Upper Peninsula, Michigan (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-18 | [Allen's hummingbird perched on a red kangaroo paw plant (© GypsyPictureShow/Shutterstock)](https://cn.bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg) 
+2023-02-18 | [Allen's hummingbird perched on a red kangaroo paw plant (© GypsyPictureShow/Shutterstock)](https://cn.bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-17 | ['Firefall' on Horsetail Fall, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg) 
+2023-02-17 | ['Firefall' on Horsetail Fall, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-16 | [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg) 
+2023-02-16 | [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg) 
+2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-14 | [Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg) 
+2023-02-14 | [Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg) 
+2023-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-12 | [The Milky Way over Zabriskie Point, Death Valley, California (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg) 
+2023-02-12 | [The Milky Way over Zabriskie Point, Death Valley, California (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-11 | [Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg) 
+2023-02-11 | [Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
-2023-02-10 | [Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg) 
+2023-02-10 | [Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-02-09 | [Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg) 
 
