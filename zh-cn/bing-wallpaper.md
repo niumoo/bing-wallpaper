@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-10 | [埃代尔，峰区，英国 (© John Finney/Getty Images)](https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-03-09 | [威美亚峡谷和怀波奥瀑布上空的彩虹,考艾岛，夏威夷，美国 (© Beverley Van Praagh/Getty Images)](https://cn.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-03-08 | [极光展示，怀特霍斯，育空地区，加拿大 (© John Hyde/plainpicture/Design Pics)](https://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
