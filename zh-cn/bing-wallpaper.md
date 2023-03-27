@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-28 | [意大利三峰山上空的银河 (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-03-27 | [云层中的纽约市天际线 (© Orbon Alija/Getty Images)](https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-03-26 | [安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国 (© Ron and Patty Thomas/Getty Images)](https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
