@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-02 | [爪哇岛东部的婆罗摩火山，印度尼西亚 (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-04-01 | [爪哇树蛙 (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-03-31 | [斯太尔河, 奥地利 (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
