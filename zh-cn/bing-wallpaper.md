@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-09 | [复活节彩蛋 (© fotomem/Getty Images)](https://cn.bing.com/th?id=OHR.LithuanianEggs_ZH-CN6609820454_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-04-08 | [巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-04-07 | [欧亚河狸宝宝，芬兰 (© Danny Green/Minden Pictures)](https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
