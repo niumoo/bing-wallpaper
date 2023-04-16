@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-17 | [Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-04-16 | ['Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-04-15 | [Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
