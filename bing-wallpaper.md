@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-23 | [Island fox in Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-04-22 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-04-21 | [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
