@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-27 | [南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)](https://cn.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-04-26 | [大雕鸮幼崽 (© Michael Morse/Getty Images)](https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-04-25 | [阿德利企鹅 (© David Merron Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
