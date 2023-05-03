@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-04 | [蒂卡尔的玛雅遗址，危地马拉 (© THP Creative/Getty Images)](https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-05-03 | [马赛马拉的角马，肯尼亚 (© Matt Polski/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-05-02 | [阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士 (© Florin Baumann/Getty Images)](https://cn.bing.com/th?id=OHR.KlostersSerneus_ZH-CN9821473046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
