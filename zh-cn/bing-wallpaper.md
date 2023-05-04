@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-05 | [普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥 (© Radius Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-05-04 | [蒂卡尔的玛雅遗址，危地马拉 (© THP Creative/Getty Images)](https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-05-03 | [马赛马拉的角马，肯尼亚 (© Matt Polski/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
