@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-14 | [白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州 (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-05-13 | [曼海姆水塔，德国 (© tichr/Getty Images)](https://cn.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-05-12 | [紫色和蓝色的野生羽扇豆 (© silverjohn/Getty Images Plus)](https://cn.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
