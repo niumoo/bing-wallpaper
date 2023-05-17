@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-18 | [拉曼加，穆尔西亚，西班牙 (© SOMATUSCANI/Getty Images)](https://cn.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-05-17 | [加利福尼亚州圣克鲁斯的天然桥州立公园 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-05-16 | [在奥克弗诺基国家野生动物保护区划独木舟 (© Brad Beck/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmericanWetlands_ZH-CN7534567518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
