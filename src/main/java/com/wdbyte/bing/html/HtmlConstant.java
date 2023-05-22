@@ -42,17 +42,19 @@ public class HtmlConstant {
         public static final String VAR_IMG_CARD_LIST = "${img_card_list}";
         private static final String VAR_IMG_CARD_URL = "${img_card_url}";
 
+        private static final String VAR_IMG_CARD_DOWNLOAD_URL_PREVIEW = "${img_card_download_url_preview}";
         private static final String VAR_IMG_CARD_DOWNLOAD_URL = "${img_card_download_url}";
         private static final String VAR_IMG_CARD_DATE = "${img_card_date}";
         private static final String IMG_CARD = ""
-            + "<div class=\"w3-third \" style=\"position: relative;\">\n"
+            + "<div class=\"w3-third \" style=\"position: relative;height:249px\">\n"
             +"  <img class=\"smallImg\" src=\"${img_card_url}&pid=hp&w=50\"  style=\"width:95%;\" />"
-            + " <img class=\"bigImg\" src=\"${img_card_download_url}&pid=hp&w=384&h=216&rs=1&c=4\" style=\"width:95%\" onload=\"imgloading(this)\">\n"
+            + " <img class=\"bigImg\" src=\"${img_card_download_url_preview}&pid=hp&w=384&h=216&rs=1&c=4\" style=\"width:95%\" onload=\"imgloading(this)\">\n"
             + " <p>${img_card_date} <a href=\"${img_card_download_url}\" target=\"_blank\">Download 4k</a> </p>\n"
             + "</div>";
 
         public static String getImgCard(Images bingImage) {
             String result = IMG_CARD.replace(VAR_IMG_CARD_URL, bingImage.getSimpleUrl());
+            result = result.replace(VAR_IMG_CARD_DOWNLOAD_URL_PREVIEW, bingImage.getSimpleUrl());
             result = result.replace(VAR_IMG_CARD_DOWNLOAD_URL, bingImage.getUrl());
             return result.replace(VAR_IMG_CARD_DATE, bingImage.getDate());
         }
