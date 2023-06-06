@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-06 | [埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-06-06 | [The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-06-05 | [辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
