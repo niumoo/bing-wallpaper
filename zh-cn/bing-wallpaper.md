@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-23 | [帝王蝶在野花中取食 (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-06-22 | [中国传统节日端午节 (© timekeep/Shutterstock)](https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-06-21 | [夏日盛开的荷花 (© pandemin/Getty Images)](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
