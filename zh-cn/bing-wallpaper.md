@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-25 | [佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-06-24 | [芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-06-23 | [帝王蝶在野花中取食 (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
