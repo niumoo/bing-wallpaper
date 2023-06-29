@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-30 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-06-29 | [Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](https://cn.bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-06-28 | [Sedona, Arizona (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
