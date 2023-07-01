@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-02 | [费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-07-01 | [从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-06-30 | [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
