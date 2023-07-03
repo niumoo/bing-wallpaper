@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-03 | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-07-03 | [班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-07-02 | [费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
