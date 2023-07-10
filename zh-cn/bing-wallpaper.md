@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-11 | [Hong Kong SAR (© leungchopan/Getty Images)](https://cn.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-07-10 | [萨默塞特郡的薰衣草田，英国 (© Doug Chinnery/Getty Images)](https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-07-09 | [克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
