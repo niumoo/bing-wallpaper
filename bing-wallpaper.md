@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-31 | [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-07-30 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-07-29 | [San Blas Islands, Panama (© bgremler/Shutterstock)](https://cn.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
