@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-03 | [Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-08-02 | [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-08-01 | [Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
