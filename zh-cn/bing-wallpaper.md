@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-04 | [廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-08-03 | [泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)](https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-08-02 | [圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
