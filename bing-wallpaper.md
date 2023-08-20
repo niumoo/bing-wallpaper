@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-21 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-08-20 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-08-19 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
