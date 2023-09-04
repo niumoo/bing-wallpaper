@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-05 | [Construction workers on scaffolding (© Bits and Splits/Shutterstock)](https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-04 | [Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)](https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-03 | [Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
