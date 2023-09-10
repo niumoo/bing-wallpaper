@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-11 | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-10 | [斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-09 | [大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
