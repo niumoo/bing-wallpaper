@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-13 | [赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-12 | [北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)](https://cn.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-11 | [波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
