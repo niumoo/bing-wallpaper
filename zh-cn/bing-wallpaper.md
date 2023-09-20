@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-21 | [诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-20 | [罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-19 | [哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
