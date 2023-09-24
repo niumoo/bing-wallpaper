@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-25 | [The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](https://cn.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-09-24 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-09-23 | [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
