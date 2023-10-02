@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-03 | [白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-02 | [韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-01 | [雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
