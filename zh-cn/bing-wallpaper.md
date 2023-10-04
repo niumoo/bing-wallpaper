@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-05 | [巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-04 | [狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜 (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-03 | [白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
