@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-07 | [灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-06 | [杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-05 | [巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
