@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-10 | [索普里斯山，科罗拉多州，美国 (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-09 | [弗里蒙特岩画，恐龙国家纪念碑，詹森，犹他州，美国 (© Dan Leeth/Alamy)](https://cn.bing.com/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-08 | [巨型蛤壳中的条纹蛸，苏拉威西海，印度尼西亚 (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_ZH-CN5427646548_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
