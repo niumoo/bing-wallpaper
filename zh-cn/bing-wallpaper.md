@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-13 | [加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images)](https://cn.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-12 | [帕卢斯地区的老谷仓和油菜田，爱达荷州，美国 (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-11 | [约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国 (© Ben Herndon/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
