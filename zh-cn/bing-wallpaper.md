@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-17 | [帕拉塔塔,阿雅克肖,科西嘉岛,法国 (© Jon Ingall/Alamy)](https://cn.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-16 | [金色落叶松和普鲁西克峰，魔力地带，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-15 | [躲在树皮中欧洲刺猬，苏塞克斯，英国 (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
