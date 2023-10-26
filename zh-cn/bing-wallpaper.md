@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-27 | [斯利加坎老桥，苏格兰斯凯岛 (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-26 | [美泉宫公园的秋叶，维也纳，奥地利 (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_ZH-CN7011999199_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-25 | [大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_ZH-CN5928937512_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
