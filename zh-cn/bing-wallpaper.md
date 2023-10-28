@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-29 | [博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)](https://cn.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-28 | [卡斯蒂利亚-拉曼恰的风车，西班牙 (© Getty Images)](https://cn.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-27 | [斯利加坎老桥，苏格兰斯凯岛 (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
