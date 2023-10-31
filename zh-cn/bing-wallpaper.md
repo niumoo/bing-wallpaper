@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-01 | [上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)](https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-10-31 | [万圣节南瓜灯 (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-30 | [普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
