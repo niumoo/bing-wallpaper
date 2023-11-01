@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-02 | [恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-01 | [上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)](https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-10-31 | [万圣节南瓜灯 (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
