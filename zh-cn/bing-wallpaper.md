@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-05 | [石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-04 | [美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-03 | [卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
