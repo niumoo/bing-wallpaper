@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-06 | [佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-05 | [石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-04 | [美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
