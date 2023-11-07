@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-08 | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN5089092069_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-07 | [Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-06 | [佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
