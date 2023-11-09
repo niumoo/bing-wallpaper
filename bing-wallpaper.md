@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-10 | [Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-09 | [West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-08 | [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 

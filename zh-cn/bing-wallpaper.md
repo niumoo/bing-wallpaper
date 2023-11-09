@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-10 | [恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-09 | [秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-08 | [黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)](https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
