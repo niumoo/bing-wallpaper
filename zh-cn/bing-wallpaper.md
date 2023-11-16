@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-17 | [铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)](https://cn.bing.com/th?id=OHR.BadRiver_ZH-CN0416550169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-16 | [雅典和卫城，希腊 (© Mlenny/Getty Images)](https://cn.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-15 | [萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)](https://cn.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
