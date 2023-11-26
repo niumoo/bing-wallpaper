@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-27 | [内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)](https://cn.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-26 | [布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)](https://cn.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-25 | [托莱多，西班牙 (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
