@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-01 | [罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-11-30 | [斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-11-29 | [什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)](https://cn.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
