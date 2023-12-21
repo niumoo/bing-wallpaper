@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-22 | [天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)](https://cn.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2023-12-21 | [卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)](https://cn.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-12-20 | [圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利 (© Ingus Kruklitis/Getty Images)](https://cn.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
