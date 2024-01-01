@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-02 | [贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度 (© Twenty47studio/Getty images)](https://cn.bing.com/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-01 | [睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images)](https://cn.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2023-12-31 | [帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)](https://cn.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
