@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-06 | [冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)](https://cn.bing.com/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-05 | [巴伐利亚阿尔卑斯山脉，德国 (© JFL Photography/Adobe Stock)](https://cn.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-04 | [金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
