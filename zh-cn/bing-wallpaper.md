@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-14 | [屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-13 | [哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-12 | [北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)](https://cn.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
