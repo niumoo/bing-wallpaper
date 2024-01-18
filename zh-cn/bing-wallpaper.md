@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-19 | [十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceWinter_ZH-CN0407572344_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-18 | [黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.ParisBridge_ZH-CN0173421630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-17 | [巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
