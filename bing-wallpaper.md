@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-21 | [Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-20 | [Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-19 | [Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
