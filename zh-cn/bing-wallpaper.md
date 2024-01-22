@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-23 | [印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-22 | [冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-21 | [欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
