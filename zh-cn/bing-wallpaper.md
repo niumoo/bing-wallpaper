@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-27 | [点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-26 | [北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HawkOwl_ZH-CN3401920167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-25 | [圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
