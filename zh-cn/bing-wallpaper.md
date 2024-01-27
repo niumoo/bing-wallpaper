@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-28 | [昆士兰州内陆海峡地区，澳大利亚 (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-01-27 | [点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-01-26 | [北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HawkOwl_ZH-CN3401920167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
