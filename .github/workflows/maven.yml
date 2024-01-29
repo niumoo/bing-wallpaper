@@ -25,7 +25,7 @@ jobs:
       run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
     - name: Compare dates
       run: |
-        if [[ "$CURRENT_DATE" > "$NEXT_DATE" ]]; then
+        if [[ "$CURRENT_DATE" < "$NEXT_DATE" ]]; then
           echo "Current date is greater than NEXT_DATE. Ending workflow..."
           exit 1
         fi
