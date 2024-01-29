@@ -12,16 +12,24 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
-    - name: Set Date Variable
-      id: set_date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-    - name: Check Date Condition
-      run: echo "Checking date condition"
-      id: check_date
-      if: env.DATE == steps.set_date.outputs.date
+    - name: Read NEXT_DATE from file
+      id: read-date
+      run: |
+        echo "Reading NEXT_DATE from file..."
+        NEXT_DATE=$(cat ./NEXT_DATE.txt)
+        echo "NEXT_DATE=$NEXT_DATE" >> $GITHUB_ENV
+    - name: Get current date
+      id: current-date
+      run: echo "CURRENT_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+    - name: Compare dates
+      run: |
+        if [[ "$CURRENT_DATE" > "$NEXT_DATE" ]]; then
+          echo "Current date is greater than NEXT_DATE. Ending workflow..."
+          exit 1
+        fi
+      continue-on-error: true
     - name: Set up JDK 1.8
       uses: actions/setup-java@v1
       with:
@@ -43,9 +51,16 @@ jobs:
          git add docs/*
          git add zh-cn/*
          git commit -m "update readme.md"
-    - name: Update Date for Tomorrow
-      run: echo "::set-env name=DATE::$(date -d '+1 day' +'%Y-%m-%d')"
-      if: steps.check_date.outputs.result == 'success'
+    - name: Update NEXT_DATE to tomorrow
+      if: success()
+      run: |
+        TOMORROW_DATE=$(date -d "$CURRENT_DATE +1 day" +'%Y-%m-%d')
+        echo $TOMORROW_DATE > ./NEXT_DATE.txt
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add ./NEXT_DATE.txt
+        git commit -m "Update NEXT_DATE to $TOMORROW_DATE"
+        git push
     - name: Push changes
       uses:  ad-m/github-push-action@master
       with:
