@@ -4,6 +4,9 @@
 name: Java CI with Maven
 
 on:
+  push:
+    branches:
+     - main
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '2 4/8 * * *'
@@ -27,7 +30,7 @@ jobs:
       run: |
         if [[ "$CURRENT_DATE" < "$NEXT_DATE" ]]; then
           echo "Current date is greater than NEXT_DATE. Ending workflow..."
-          exit 1
+          exit 0
         fi
       continue-on-error: true
     - name: Set up JDK 1.8
