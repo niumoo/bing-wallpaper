@@ -56,8 +56,8 @@ jobs:
       run: |
         TOMORROW_DATE=$(date -d "$CURRENT_DATE +1 day" +'%Y-%m-%d')
         echo $TOMORROW_DATE > ./NEXT_DATE.txt
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
+        git config --global user.name "wanfen"
+        git config --global user.email "1083596145@qq.com"
         git add ./NEXT_DATE.txt
         git commit -m "Update NEXT_DATE to $TOMORROW_DATE"
         git push
