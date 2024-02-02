@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-03 | [大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-02-02 | [从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-02-01 | [吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)](https://cn.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
