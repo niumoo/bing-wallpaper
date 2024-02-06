@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-07 | [圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)](https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-02-06 | [盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-02-05 | [从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
