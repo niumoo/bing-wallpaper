@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-22 | [布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-02-21 | [火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)](https://cn.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-02-20 | [Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
