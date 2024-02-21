@@ -4,6 +4,7 @@
     <title>想要增加什么功能？ | Bing Wallpaper</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/fav.jpg">
     <link rel="stylesheet" href="/css/w3.css">
     <link href="https://cdn.staticfile.org/artalk/2.8.2/Artalk.css" rel="stylesheet">
     <script src="https://cdn.staticfile.org/artalk/2.8.2/Artalk.js"></script>
@@ -35,6 +36,15 @@
             border-radius: 5px
         }
     </style>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?b59b4b29843942e412b704c39cc7363a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 </head>
 <body>
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
@@ -50,6 +60,7 @@
 <div style="max-width: 800px; margin: 10px auto;padding-bottom: 50px">
     <div id="Comments"></div>
 </div>
+<div class="w3-hide"><span id="ArtalkPV"></span></div>
 <script>
     Artalk.init({
         el: '#Comments',
