@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-27 | [玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-02-26 | [大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)](https://cn.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-02-25 | [考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)](https://cn.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
