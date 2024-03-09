@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-10 | [圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-09 | [比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-08 | [伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)](https://cn.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
