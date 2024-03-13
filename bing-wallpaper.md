@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-14 | [Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-13 | [Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-12 | [A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
