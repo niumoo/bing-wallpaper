@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-22 | [Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-21 | [The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-20 | [Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
