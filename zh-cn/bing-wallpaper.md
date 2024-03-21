@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-22 | [蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-21 | [布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-20 | [鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)](https://cn.bing.com/th?id=OHR.Springequinox2024_ZH-CN5647214924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
