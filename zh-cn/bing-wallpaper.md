@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-25 | [弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)](https://cn.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-24 | [樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-23 | [巴西亚马逊上空巨大的砧状云 (© NASA)](https://cn.bing.com/th?id=OHR.AmazonClouds_ZH-CN0578911147_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
