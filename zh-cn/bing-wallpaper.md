@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-27 | [布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-26 | [海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-25 | [弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)](https://cn.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
