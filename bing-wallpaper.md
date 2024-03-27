@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-28 | [Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-27 | [Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-26 | [Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
