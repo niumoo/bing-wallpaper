@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-29 | [日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)](https://cn.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-28 | [上海的樱花，中国 (© Yaorusheng/Getty Images)](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-27 | [布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
