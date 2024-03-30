@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-30 | [睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-03-30 | [���在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-03-29 | [日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)](https://cn.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
