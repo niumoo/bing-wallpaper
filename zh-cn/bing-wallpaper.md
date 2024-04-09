@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-10 | [洞穴附近的穴小鸮雏鸟，怀俄明州，美国 (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.OwlSiblings_ZH-CN9441687518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-04-09 | [郁金香田，斯卡吉特山谷，华盛顿州，美国 (© Claudia Cooper/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitValleyTulips_ZH-CN9034120306_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-04-08 | [欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国 (© Oksana Schmidt/Getty Images)](https://cn.bing.com/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
