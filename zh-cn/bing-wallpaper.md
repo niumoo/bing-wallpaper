@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-12 | [拱门国家公园，犹他州，美国 (© Anthony Heflin/Shutterstock)](https://cn.bing.com/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-04-11 | [丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-04-10 | [洞穴附近的穴小鸮雏鸟，怀俄明州，美国 (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.OwlSiblings_ZH-CN9441687518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
