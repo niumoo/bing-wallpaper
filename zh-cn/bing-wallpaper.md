@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-16 | [暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-04-15 | [香波城堡，中央-卢瓦尔河谷大区，法国 (© Susanne Kremer/eStock Photo)](https://cn.bing.com/th?id=OHR.ChambordCastle_ZH-CN0930093515_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-04-14 | [保龄球海滩的日落，门多西诺县，加利福尼亚，美国 (© Melo Qiao/Getty Images)](https://cn.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
