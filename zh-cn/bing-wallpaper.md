@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-20 | [日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-04-19 | [布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-04-18 | [中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)](https://cn.bing.com/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
