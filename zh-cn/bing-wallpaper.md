@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-21 | [Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)](https://cn.bing.com/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-04-20 | [日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-04-19 | [布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
