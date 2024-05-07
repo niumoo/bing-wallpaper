@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-08 | [伊夫堡，马赛，法国 (© Sergii Figurnyi/Alamy)](https://cn.bing.com/th?id=OHR.PortMarseille_ZH-CN3194394496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-05-07 | [一只小鸭子在水草地上游泳，萨福克郡，英国 (© Nick Hurst/Getty Images)](https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-05-06 | [罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
