@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-17 | [塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-05-16 | [维戈的兰德大桥，西班牙 (© Julio Conde/Getty Images)](https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-05-15 | [焦特布尔蓝色之城，印度 (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
