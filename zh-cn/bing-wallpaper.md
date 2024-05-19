@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-20 | [蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-05-19 | [韦尔纳扎村，五渔村，利古里亚，意大利 (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-05-18 | [破碎群岛，环太平洋国家公园保护区，不列颠哥伦比亚省温哥华岛，加拿大 (© Ron Watts/Design Pics/Getty Images)](https://cn.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
