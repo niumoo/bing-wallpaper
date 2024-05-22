@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-23 | [印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IndianStarTortoise_ZH-CN7177478610_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-05-22 | [塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚 (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-05-21 | [卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
