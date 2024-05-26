@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-27 | [Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-05-26 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-05-25 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](https://cn.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
