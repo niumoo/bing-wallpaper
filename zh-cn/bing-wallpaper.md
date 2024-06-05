@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-06 | [蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.CamargueFlamingos_ZH-CN4176922228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-06-05 | [马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)](https://cn.bing.com/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-06-04 | [黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
