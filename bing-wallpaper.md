@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-08 | [Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-06-07 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://cn.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-06-06 | [Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
