@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-25 | [火浪岩层，火焰谷州立公园，内华达州，美国 (© Clint Losee/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-06-24 | [克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚 (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-06-23 | [达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
