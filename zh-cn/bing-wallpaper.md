@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-06 | [从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-07-05 | [丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)](https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-07-04 | [扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)](https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
