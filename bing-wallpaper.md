@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-14 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-07-13 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](https://cn.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-07-12 | [Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
