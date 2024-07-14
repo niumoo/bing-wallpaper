@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-15 | [立石公园，神奈川县，日本 (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_ZH-CN9903501398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-07-14 | [女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-07-13 | [卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)](https://cn.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
