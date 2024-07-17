@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-18 | [Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-07-17 | [德国中世纪城市罗滕堡 (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-07-16 | [斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰 (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_ZH-CN1110318653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
