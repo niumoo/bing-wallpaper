@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-02 | [象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)](https://cn.bing.com/th?id=OHR.TrunkBay_ZH-CN9268190655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-08-01 | [卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-07-31 | [石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.HoodoosBryce_ZH-CN8398575172_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
