@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-10 | [约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-08-09 | [库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)](https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-08-08 | [横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
