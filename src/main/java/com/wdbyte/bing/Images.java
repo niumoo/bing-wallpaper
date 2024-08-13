@@ -63,6 +63,12 @@ public class Images {
         return url;
     }
 
+    public String getDetailUrlPath() {
+        String yyyymm = date.replace("-", "").substring(0, 6);
+        String dd = date.substring(8);
+        return "day/" + yyyymm+"/" + dd+".html";
+    }
+
     public void setUrl(String url) {
         this.url = url;
     }

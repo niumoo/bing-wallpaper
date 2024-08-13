@@ -41,6 +41,7 @@ public class HtmlConstant {
     public static class ImgCard {
         public static final String VAR_IMG_CARD_LIST = "${img_card_list}";
         private static final String VAR_IMG_CARD_URL = "${img_card_url}";
+        private static final String VAR_IMG_DETAIL_URL = "${img_detail_url}";
 
         private static final String VAR_IMG_CARD_DOWNLOAD_URL_PREVIEW = "${img_card_download_url_preview}";
         private static final String VAR_IMG_CARD_DOWNLOAD_URL = "${img_card_download_url}";
@@ -48,7 +49,7 @@ public class HtmlConstant {
         private static final String IMG_CARD = ""
             + "<div class=\"w3-third \" style=\"position: relative;height:249px\">\n"
             +"  <img class=\"smallImg\" src=\"${img_card_url}&pid=hp&w=50\"  style=\"width:95%;\" />"
-            + " <img class=\"bigImg\" src=\"${img_card_download_url_preview}&pid=hp&w=384&h=216&rs=1&c=4\" style=\"width:95%\" onload=\"imgloading(this)\">\n"
+            + "<a href=\"${img_detail_url}\"  target=\"_blank\"> <img class=\"bigImg w3-hover-shadow\" src=\"${img_card_download_url_preview}&pid=hp&w=384&h=216&rs=1&c=4\" style=\"width:95%\" onload=\"imgloading(this)\"></a>\n"
             + " <p>${img_card_date} <a href=\"${img_card_download_url}\" target=\"_blank\">Download 4k</a> </p>\n"
             + "</div>";
 
@@ -56,6 +57,7 @@ public class HtmlConstant {
             String result = IMG_CARD.replace(VAR_IMG_CARD_URL, bingImage.getSimpleUrl());
             result = result.replace(VAR_IMG_CARD_DOWNLOAD_URL_PREVIEW, bingImage.getSimpleUrl());
             result = result.replace(VAR_IMG_CARD_DOWNLOAD_URL, bingImage.getUrl());
+            result = result.replace(VAR_IMG_DETAIL_URL, bingImage.getDetailUrlPath());
             return result.replace(VAR_IMG_CARD_DATE, bingImage.getDate());
         }
     }
@@ -74,5 +76,15 @@ public class HtmlConstant {
             String result = MONTH_HISTORY_HREF.replace(VAR_MONTH_HISTORY_HREF_URL, url);
             return result.replace(VAR_MONTH_HISTORY_HREF_TITLE, title);
         }
+    }
+
+    /**
+     * 头部图片
+     */
+    public static class ImgDetail{
+        public static final String HEAD_TITLE = "${TITLE}";
+        public static final String IMG_URL = "${IMG_URL}";
+        public static final String IMG_DATE = "${IMG_DATE}";
+        public static final String IMG_DESC = "${IMG_DESC}";
     }
 }
