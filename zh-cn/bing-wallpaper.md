@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-18 | [日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-08-17 | [阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-08-16 | [长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)](https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
