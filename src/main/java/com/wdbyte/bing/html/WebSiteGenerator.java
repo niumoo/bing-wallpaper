@@ -56,7 +56,7 @@ public class WebSiteGenerator {
         String templateFile = HtmlFileUtils.readDetailTemplateFile();
         for (Images bingImage : bingImages) {
             String detailHtml = templateFile.replace(ImgDetail.HEAD_TITLE, bingImage.getDesc());
-            detailHtml = detailHtml.replace(ImgDetail.IMG_URL, bingImage.getUrl());
+            detailHtml = detailHtml.replace(ImgDetail.IMG_URL, bingImage.getSimpleUrl());
             detailHtml = detailHtml.replace(ImgDetail.IMG_DATE, bingImage.getDate());
             detailHtml = detailHtml.replace(ImgDetail.IMG_DESC, bingImage.getDesc());
             // 写到文件
