@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-01 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-08-31 | [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-08-30 | [Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
