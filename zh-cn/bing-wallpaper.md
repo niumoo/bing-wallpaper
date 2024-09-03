@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-04 | [乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)](https://cn.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-03 | [迷人的水晶湖，高山湖泊，华盛顿州，美国 (© Mitch Pittman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-02 | [红绿金刚鹦鹉，南马托格罗索州，巴西 (© Ellen Goff/Danita Delimont)](https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
