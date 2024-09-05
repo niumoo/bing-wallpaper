@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-06 | [古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰 (© Dawid K Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-05 | [多伦多城市天际线,加拿大 (© Roberto Machado Noa/Getty Images)](https://cn.bing.com/th?id=OHR.TIFF2024_ZH-CN4896695918_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-04 | [乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images)](https://cn.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
