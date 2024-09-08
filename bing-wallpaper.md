@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-09 | [Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-08 | [Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-07 | [Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
