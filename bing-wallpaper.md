@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-12 | [National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-11 | [Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-10 | [Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
