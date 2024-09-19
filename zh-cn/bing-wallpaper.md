@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-20 | [奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国 (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-19 | [埃尔博河上空的银河，阿尔伯塔省，加拿大 (© Alan Dyer/Getty Images)](https://cn.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-18 | [郡上八幡城，岐阜县，日本 (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
