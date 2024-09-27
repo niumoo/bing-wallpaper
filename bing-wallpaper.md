@@ -1,4 +1,10 @@
 ## Bing Wallpaper
+2024-09-28 | [Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-09-27 | [Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-09-26 | [Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-25 | [Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-24 | [Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
