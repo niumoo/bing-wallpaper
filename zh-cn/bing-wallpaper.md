@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-08 | [莫托提两鳍蛸，蓝碧海峡，印度尼西亚 (© Howard Chew/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.MototiOctopus_ZH-CN5778894536_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-08 | [索拉诺，托斯卡纳，意大利 (© Luigi Vaccarella/eStock Photo)](https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN1190725201_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-07 | [法属波利尼西亚波拉波拉岛的鸟瞰图 (© GLF Media/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraPapeete_ZH-CN1991283465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
