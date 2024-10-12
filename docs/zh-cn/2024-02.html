@@ -9,6 +9,31 @@
     <link rel="stylesheet" href="/css/w3.css">
     <link rel="icon" href="/img/fav.jpg">
     <style>
+        body,
+        html {
+            height: 100%;
+            margin: 0;
+        }
+        .bgimg-header {
+            background-image: url("https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg&pid=hp&w=2000");
+            height: 103%;
+            position: relative;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: none; /* 最初隐藏大图 */
+        }
+        .smallImg-header {
+            background-image: url("https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg&pid=hp&w=480"); /* 使用小图 */
+            filter: blur(15px);
+            -webkit-filter: blur(15px);
+            position: relative;
+            height: 103%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            transition: opacity 5s; /* 平滑过渡效果 */
+        }
         .bigImg {
             position: absolute;
             top: 0;
@@ -32,6 +57,21 @@
 
 </head>
 <script>
+    function headerImgloading() {
+        var bgImg = document.querySelector('.bgimg-header');
+        var smallImg = document.querySelector('.smallImg-header');
+        // 创建一个新的图片对象以监控加载状态
+        var img = new Image();
+        img.src = 'https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg&pid=hp&w=2000'; // 从背景图中提取URL
+        // 小图逐渐变透明
+        smallImg.style.opacity = 0.3;
+        img.onload = function() {
+            // 当大图加载完成时，首先显示大图
+            bgImg.style.display = "block";
+            smallImg.style.display = "none";
+        };
+    }
+    window.onload = headerImgloading; // 页面加载时执行
     function imgloading(oImg) {
         var n = 0;
         var timer = setInterval(function () {
@@ -45,39 +85,34 @@
     };
 </script>
 <body>
-
-<!-- Sidebar (hidden by default) -->
-<nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;max-width:200px;min-width:100px" id="mySidebar">
-    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">收起</a>
-    <a href="2024-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-10</a><a href="2024-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-09</a><a href="2024-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-08</a><a href="2024-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-07</a><a href="2024-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-06</a><a href="2024-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-05</a><a href="2024-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-04</a><a href="2024-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-03</a><a href="2024-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-green w3-large">2024-02</a><a href="2024-01.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-01</a><a href="2023-12.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-12</a><a href="2023-11.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-11</a><a href="2023-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-10</a><a href="2023-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-09</a><a href="2023-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-08</a><a href="2023-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-07</a><a href="2023-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-06</a><a href="2023-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-05</a><a href="2023-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-04</a><a href="2023-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-03</a><a href="2023-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-02</a>
-</nav>
-
-<!-- !PAGE CONTENT! -->
-<!-- Header -->
-<header class="w3-display-container w3-content w3-center" style="max-width:100%" height="600">
-    <img class="w3-image smallImg" src="https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg&pid=hp&w=100" width="100%" >
-    <img class="w3-image bigImg" onload="imgloading(this)" src="https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg&pid=hp&w=1890" width="100%">
+<div class="smallImg-header"></div> <!-- 模糊的小图 -->
+<div class="bgimg-header">
     <div class="w3-display-middle w3-padding-large w3-wide w3-text-light-grey w3-center">
         <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Bing Wallpaper(2024-02)</h1>
         <div class=" w3-padding-large w3-text-light-grey" style="max-width: 800px">
-        <p>欧亚红松鼠 (© Westend61/Getty Images)</p>
+            <p>欧亚红松鼠 (© Westend61/Getty Images)</p>
         </div>
         <h5 class="w3-hide-large" style="white-space:nowrap">Bing Wallpaper</h5>
     </div>
-
-
-
-    <!-- Navbar (placed at the bottom of the header image) -->
-    <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle" style="bottom:-16px">
-        <a href="/" class="w3-bar-item w3-button">首页</a>
-        <a href="#portfolio" class="w3-bar-item w3-button w3-hover-text-green"  onclick="w3_open()">归档</a>
-        <a href="/zh-cn/" class="w3-bar-item w3-button w3-hover-text-green">中国</a>
-        <a href="https://github.com/niumoo/bing-wallpaper" target="_blank" class="w3-bar-item w3-button w3-hover-text-green  w3-hide-small">GitHub</a>
-        <a href="https://www.wdbyte.com/bing-wallpaper-400.html" target="_blank" class="w3-bar-item w3-button w3-hover-text-green w3-hide-small">关于</a>
+</div>
+<menu class="w3-display-container w3-content w3-center" style="max-width:100%; height: 10px">
+    <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-card">
+        <a href="/" class="w3-bar-item w3-button w3-hover-green">首页</a>
+        <a href="#portfolio" class="w3-bar-item w3-button w3-hover-green"  onclick="w3_open()">归档</a>
+        <a href="/zh-cn/" class="w3-bar-item w3-button w3-hover-green">中国</a>
+        <a href="https://github.com/niumoo/bing-wallpaper" target="_blank" class="w3-bar-item w3-button w3-hover-green  w3-hide-small">GitHub</a>
+        <a href="https://www.wdbyte.com/bing-wallpaper-400.html" target="_blank" class="w3-bar-item w3-button w3-hover-green w3-hide-small">关于</a>
     </div>
-</header>
+</menu>
 
-<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:50px">
+<!-- Sidebar (hidden by default) -->
+<sidebar class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;max-width:200px;min-width:100px" id="mySidebar">
+    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">收起</a>
+    <a href="2024-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-10</a><a href="2024-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-09</a><a href="2024-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-08</a><a href="2024-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-07</a><a href="2024-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-06</a><a href="2024-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-05</a><a href="2024-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-04</a><a href="2024-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-03</a><a href="2024-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-green w3-large">2024-02</a><a href="2024-01.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-01</a><a href="2023-12.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-12</a><a href="2023-11.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-11</a><a href="2023-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-10</a><a href="2023-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-09</a><a href="2023-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-08</a><a href="2023-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-07</a><a href="2023-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-06</a><a href="2023-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-05</a><a href="2023-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-04</a><a href="2023-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-03</a><a href="2023-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-02</a>
+</sidebar>
+
+
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;">
 
     <!-- First Photo Grid-->
     <div class="w3-row-padding w3-padding-16 w3-center">
@@ -186,7 +221,7 @@
 <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
     <p>本站所有图片均来源于必应搜索
         <br/>
-        Powered by <a href="https://github.com/niumoo/bing-wallpaper" title="W3.CSS" target="_blank" class="w3-hover-text-green">Github.com/niumoo</a>，<a href="/chat.html" target="_blank" class="w3-text-green">功能请求(Discuss)</a>
+        Powered by <a href="https://github.com/niumoo/bing-wallpaper" title="W3.CSS" target="_blank" class="w3-hover-text-green">Github.com/niumoo</a>
         <br/>
         本网站已经开源，采用 Apache License 2.0 许可协议，复制请注明来自 <a href="https://github.com/niumoo/bing-wallpaper">bing-wallpaper</a>！
     </p>
