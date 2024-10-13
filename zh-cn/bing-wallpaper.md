@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-14 | [可可海滩上的渔船，果阿邦，印度 (© Abhinav Sah/Shutterstock)](https://cn.bing.com/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-13 | [塞维利亚王宫少女庭院，西班牙 (© Danny Lehman/Getty Images)](https://cn.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-12 | [林鸳鸯，魁北克省，加拿大 (© Maxime Riendeau/Getty Images)](https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
