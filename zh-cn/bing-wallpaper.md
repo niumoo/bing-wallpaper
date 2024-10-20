@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-21 | [乔治·史密斯州立公园的柏树，佐治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-20 | [哥斯达黎加的三趾树懒 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-20 | [哥斯���黎加的三趾树懒 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
