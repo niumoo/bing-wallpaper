@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-27 | [北极熊与幼崽，丘吉尔，曼尼托巴，加拿大 (© Design Pics/plainpicture)](https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-26 | [幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国 (© mauritius images GmbH/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-25 | [沙莫尼的勃朗峰，法国 (© Simon Schöpf/Getty Images)](https://cn.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
