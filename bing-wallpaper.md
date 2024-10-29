@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-30 | [Great horned owl (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-29 | [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-28 | [Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)](https://cn.bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
