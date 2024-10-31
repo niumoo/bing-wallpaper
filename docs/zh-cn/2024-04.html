@@ -8,6 +8,8 @@
     <meta name="keywords" content="bing wallpaper, 必应壁纸, 必应4k壁纸, 必应超清壁纸, 壁纸">
     <link rel="stylesheet" href="/css/w3.css">
     <link rel="icon" href="/img/fav.jpg">
+    <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/fuse.js/6.5.3/fuse.min.js" async></script>
+    <script src="/js/w3.js" async></script>
     <style>
         body,
         html {
@@ -96,12 +98,13 @@
     </div>
 </div>
 <menu class="w3-display-container w3-content w3-center" style="max-width:100%; height: 10px">
-    <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-card">
+    <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-card  w3-round-xlarge">
         <a href="/" class="w3-bar-item w3-button w3-hover-green">首页</a>
         <a href="#portfolio" class="w3-bar-item w3-button w3-hover-green"  onclick="w3_open()">归档</a>
         <a href="/zh-cn/" class="w3-bar-item w3-button w3-hover-green">中国</a>
         <a href="https://github.com/niumoo/bing-wallpaper" target="_blank" class="w3-bar-item w3-button w3-hover-green  w3-hide-small">GitHub</a>
         <a href="https://www.wdbyte.com/bing-wallpaper-400.html" target="_blank" class="w3-bar-item w3-button w3-hover-green w3-hide-small">关于</a>
+        <input id="search" type="text" class="w3-bar-item w3-input w3-round-xlarge" placeholder="找壁纸" style="width: 150px">
     </div>
 </menu>
 
@@ -115,7 +118,7 @@
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;">
 
     <!-- First Photo Grid-->
-    <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-row-padding w3-padding-16 w3-center" id="img_list">
         <div class="w3-third " style="position: relative;height:249px">
   <img class="smallImg" src="https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&pid=hp&w=50"  style="width:95%;" /><a href="day/202404/30.html"  target="_blank"> <img class="bigImg w3-hover-shadow" src="https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)"></a>
  <p>2024-04-30 <a href="https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4" target="_blank">Download 4k</a> </p>
@@ -259,7 +262,64 @@
         }
     });
 
-</script>
+    // 获取输入框并添加键盘事件监听器
+    document.getElementById('search').addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            search();
+        }
+    });
 
+    function search(){
+        w3.getHttpObject("/images.json", myFunction);
+        function myFunction(myObject) {
+            // 1. List of items to search in
+            const jsonArray = myObject;
+            // 2. Set up the Fuse instance
+            const fuse = new Fuse(jsonArray, {
+                threshold: 0.5, // 匹配度
+                keys: ['desc','date'],
+                includeScore: true,
+                findAllMatches: true, // 返回所有匹配项
+                includeMatches: true // 包含匹配的信息
+            })
+            // 3. Now search!
+            const searchValue = document.getElementById("search").value;
+            const results = fuse.search(searchValue);
+            // const sortedResults = results.sort((a, b) => b.score - a.score);
+            // 限制返回的结果最多为 10 个
+            const limitedResults = results.slice(0, 30);
+            // alert(JSON.stringify(limitedResults));
+            console.log(generateHTML(limitedResults));
+            document.getElementById('img_list').innerHTML = generateHTML(limitedResults);
+        }
+    }
+
+    function generateHTML(data) {
+        let htmlOutput = '';
+        data.forEach(entry => {
+            const date = entry.item.date;
+            const formattedDate = date.substring(0, 7).replace('-',''); // 提取年-月
+            const day = date.substring(8, 10); // 提取日
+            const imgSrc = entry.item.url;
+            var region = entry.item.region;
+            if (region !== 'zh-cn'){
+                region = '/';
+            }else {
+                region = '/'+region+'/';
+            }
+
+            htmlOutput += `
+                <div class="w3-third" style="position: relative;height:249px">
+                    <img class="smallImg" src="${imgSrc}&pid=hp&w=50" style="width:95%;" />
+                    <a href="${region}day/${formattedDate}/${day}.html" target="_blank">
+                        <img class="bigImg w3-hover-shadow" src="${imgSrc}&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
+                    </a>
+                    <p>${date} <a href="${imgSrc}&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4" target="_blank">Download 4k</a></p>
+                </div>
+            `;
+        });
+        return htmlOutput;
+    }
+</script>
 </body>
 </html>
