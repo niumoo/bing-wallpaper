@@ -17,6 +17,16 @@ public class HtmlFileUtils {
     public static Path BING_HTML_ROOT = Paths.get("docs/");
     private static Path BING_HTML_INDEX_TEMPLATE = Paths.get("docs/bing-template.html");
     private static Path BING_HTML_DETAIL_TEMPLATE = Paths.get("docs/bing-detail.html");
+    private static Path BING_HTML_IMAGES_JSON = Paths.get("docs/images.json");
+
+    public static String readImagesJson() throws IOException {
+        byte[] bytes = Files.readAllBytes(BING_HTML_IMAGES_JSON);
+        return new String(bytes);
+    }
+    public static void writeImagesJson(String json) throws IOException {
+        Path path = BING_HTML_IMAGES_JSON;
+        write(path, json);
+    }
 
     public static String readIndexTemplateFile() throws IOException {
         byte[] bytes = Files.readAllBytes(BING_HTML_INDEX_TEMPLATE);

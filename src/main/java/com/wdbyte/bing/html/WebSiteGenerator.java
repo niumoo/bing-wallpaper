@@ -1,12 +1,17 @@
 package com.wdbyte.bing.html;
 
 import java.io.IOException;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+
 import com.wdbyte.bing.BingFileUtils;
 import com.wdbyte.bing.Images;
+import com.wdbyte.bing.Wallpaper;
 import com.wdbyte.bing.html.HtmlConstant.Head;
 import com.wdbyte.bing.html.HtmlConstant.ImgCard;
 import com.wdbyte.bing.html.HtmlConstant.ImgDetail;
@@ -20,13 +25,16 @@ import com.wdbyte.bing.html.HtmlConstant.Sidebar;
 public class WebSiteGenerator {
 
     public static void main(String[] args) throws IOException {
+        WebSiteGenerator generator = new WebSiteGenerator();
+
         List<Images> bingImages = BingFileUtils.readBing();
         bingImages = bingImages.stream().filter(img -> img.getUrl() != null).collect(Collectors.toList());
+
         Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
-        WebSiteGenerator generator = new WebSiteGenerator();
         generator.htmlGeneratorIndex(bingImages, monthMap);
         generator.htmlGeneratorMonth(monthMap);
         generator.htmlGeneratorImgDetail(bingImages);
+        generator.htmlGeneratorImgJson(bingImages);
     }
 
     public void htmlGenerator() throws IOException {
@@ -36,6 +44,7 @@ public class WebSiteGenerator {
         htmlGeneratorIndex(bingImages, monthMap);
         htmlGeneratorMonth(monthMap);
         htmlGeneratorImgDetail(bingImages);
+        htmlGeneratorImgJson(bingImages);
     }
 
     public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
@@ -62,6 +71,24 @@ public class WebSiteGenerator {
             // 写到文件
             HtmlFileUtils.writeDetailHtml(detailHtml, bingImage.getDetailUrlPath());
         }
+    }
+
+    public void htmlGeneratorImgJson(List<Images> imagesList) throws IOException {
+        String imagesJson = HtmlFileUtils.readImagesJson();
+        JSONArray imagesJsonArray = JSON.parseArray(imagesJson);
+        if (imagesJsonArray == null){
+            imagesJsonArray = new JSONArray();
+        }
+        for (Images images : imagesList) {
+            Map<String, String> imgMap = new HashMap<>(8);
+            imgMap.put("date", images.getDate());
+            imgMap.put("desc", images.getDesc());
+            imgMap.put("url", images.getSimpleUrl());
+            imgMap.put("region", Wallpaper.CURRENT_REGION);
+            imagesJsonArray.add(imgMap);
+        }
+        List<Object> json = imagesJsonArray.stream().distinct().collect(Collectors.toList());
+        HtmlFileUtils.writeImagesJson(JSON.toJSONString(json));
     }
 
     public void htmlGeneratorMonth(Map<String, List<Images>> monthMap) throws IOException {
