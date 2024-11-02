@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-03 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-02 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-01 | [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
