@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-04 | [Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-03 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-02 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
