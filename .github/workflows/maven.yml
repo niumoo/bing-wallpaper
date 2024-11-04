@@ -4,9 +4,14 @@
 name: Java CI with Maven
 
 on:
+  push:
+    branches: [ main ]
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '0 17 * * *'
+    - cron:  '2 7 * * *'
+    # 每天中国时间0点2分 (UTC时间前一天16点2分)
+    - cron:  '2 16 * * *'
+    # 每天UTC时间0点2分
+    - cron:  '2 0 * * *'
 
 jobs:
   build:
@@ -19,6 +24,8 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 1.8
+    - name: current date
+      run: date
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     - name: Run Java Application
@@ -28,6 +35,10 @@ jobs:
          git config --local user.email "553527481@qq.com"
          git config --local user.name "hf-hf"
          git add README.md
+         git add bing-wallpaper.md
+         git add picture/*
+         git add docs/*
+         git add zh-cn/*
          git commit -m "update readme.md"
     - name: Push changes
       uses:  ad-m/github-push-action@master

@@ -41,8 +41,7 @@ public class HttpUtls {
         HttpURLConnection httpUrlConnection = getHttpUrlConnection(url);
         StringBuilder stringBuilder = new StringBuilder();
         // 获得输入流
-        try (InputStream input = httpUrlConnection.getInputStream(); BufferedInputStream bis = new BufferedInputStream(
-            input);) {
+        try (InputStream input = httpUrlConnection.getInputStream(); BufferedInputStream bis = new BufferedInputStream(input);) {
             byte[] buffer = new byte[1024];
             int len = -1;
             // 读到文件末尾则返回-1

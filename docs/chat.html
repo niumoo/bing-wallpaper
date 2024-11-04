@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <title>想要增加什么功能？ | Bing Wallpaper</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/fav.jpg">
+    <link rel="stylesheet" href="/css/w3.css">
+    <link href="https://cdn.staticfile.org/artalk/2.8.2/Artalk.css" rel="stylesheet">
+    <script src="https://cdn.staticfile.org/artalk/2.8.2/Artalk.js"></script>
+    <style>
+        body,
+        h1 {
+            font-family:pingfang sc,microsoft yahei,sans-serif!important;
+        }
+        body,
+        html {
+            height: 90%
+        }
+        .bgimg {
+            background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+            min-height: 100%;
+            background-position: center;
+            background-size: cover;
+        }
+        .atk-main-editor {
+            border: 1px solid #ddd;
+            border-radius: 10px;
+        }
+        .atk-header{
+            border-bottom: 1px dashed #ddd !important;
+        }
+        .atk-main-editor>.atk-bottom .atk-send-btn {
+            background: var(--at-color-green);
+            min-width: 5em;
+            border-radius: 5px
+        }
+    </style>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?b59b4b29843942e412b704c39cc7363a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body>
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+    <div class="w3-display-topleft w3-padding-large w3-xlarge">
+        <a href="https://bing.wdbyte.com" style="text-decoration: none;">Bing Wallpaper</a>
+    </div>
+    <div class="w3-display-middle">
+        <h1 class="w3-jumbo w3-animate-top">想要增加什么功能？</h1>
+        <hr class="w3-border-grey" style="margin:auto;width:40%">
+        <p class="w3-large w3-center">What features would you like to add?</p>
+    </div>
+</div>
+<div style="max-width: 800px; margin: 10px auto;padding-bottom: 50px">
+    <div id="Comments"></div>
+</div>
+<div class="w3-hide"><span id="ArtalkPV"></span></div>
+<script>
+    Artalk.init({
+        el: '#Comments',
+        locale: "auto",
+        server: 'https://debug.group:8398',
+        site: 'Bing Wallpaper',
+    })
+</script>
+</body>
+</html>
