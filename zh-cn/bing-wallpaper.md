@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-05 | [马拉赫塞斯国家公园，马拉尼昂州,巴西 (© thanosquest/Shutterstock)](https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-04 | [坎布里亚湖区，格拉斯米尔，英格兰 (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-03 | [巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥 (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
