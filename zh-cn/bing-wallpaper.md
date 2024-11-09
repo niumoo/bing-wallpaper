@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-10 | [加勒比火烈鸟，尤卡坦半岛，墨西哥 (© Claudio Contreras/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-09 | [银河，阿伊特本哈杜杜，摩洛哥 (© Cavan Images/Getty Images)](https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-08 | [冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock)](https://cn.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
