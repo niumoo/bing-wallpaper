@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-15 | [��蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-15 | [义蓬灯节 ，清迈，泰国 (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-14 | [马纳罗拉，五渔村国家公园，利古里亚，意大利 (© John_Silver/Shutterstock)](https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
