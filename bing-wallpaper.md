@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-19 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-18 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](https://cn.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
