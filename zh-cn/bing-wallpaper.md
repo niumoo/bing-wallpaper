@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-22 | [萨夫拉城堡，瓜达拉哈拉省，西班牙 (© Eduard Gene/Getty Images)](https://cn.bing.com/th?id=OHR.ZafraCastle_ZH-CN8791148758_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-21 | [日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images)](https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-20 | [皮埃尔桥，波尔多，法国 (© SergiyN/Getty Images)](https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
