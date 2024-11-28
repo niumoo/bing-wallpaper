@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-29 | [圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-28 | [日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-27 | [秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
