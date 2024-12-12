@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-12 | [一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-12 | [一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-11 | [拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
