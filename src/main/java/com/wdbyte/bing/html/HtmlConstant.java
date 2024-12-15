@@ -1,6 +1,7 @@
 package com.wdbyte.bing.html;
 
 import com.wdbyte.bing.Images;
+import com.wdbyte.bing.Wallpaper;
 
 /**
  * @author niulang
@@ -42,6 +43,7 @@ public class HtmlConstant {
         public static final String VAR_IMG_CARD_LIST = "${img_card_list}";
         private static final String VAR_IMG_CARD_URL = "${img_card_url}";
         private static final String VAR_IMG_DETAIL_URL = "${img_detail_url}";
+        private static final String VAR_IMG_CRARD_REGION = "${img_card_region}";
 
         private static final String VAR_IMG_CARD_DOWNLOAD_URL_PREVIEW = "${img_card_download_url_preview}";
         private static final String VAR_IMG_CARD_DOWNLOAD_URL = "${img_card_download_url}";
@@ -50,7 +52,9 @@ public class HtmlConstant {
             + "<div class=\"w3-third \" style=\"position: relative;height:249px\">\n"
             +"  <img class=\"smallImg\" src=\"${img_card_url}&pid=hp&w=50\"  style=\"width:95%;\" />"
             + "<a href=\"${img_detail_url}\"  target=\"_blank\"> <img class=\"bigImg w3-hover-shadow\" src=\"${img_card_download_url_preview}&pid=hp&w=384&h=216&rs=1&c=4\" style=\"width:95%\" onload=\"imgloading(this)\"></a>\n"
-            + " <p>${img_card_date} <a href=\"${img_card_download_url}\" target=\"_blank\">Download 4k</a> </p>\n"
+            + " <p>${img_card_date} <a href=\"${img_card_download_url}\" target=\"_blank\">Download 4k</a> "
+            + "<button class=\"like-button img-btn\" onclick=\"updateLove('${img_card_region}','${img_card_date}')\">喜欢</button>"
+            + "</p>\n"
             + "</div>";
 
         public static String getImgCard(Images bingImage) {
@@ -58,6 +62,8 @@ public class HtmlConstant {
             result = result.replace(VAR_IMG_CARD_DOWNLOAD_URL_PREVIEW, bingImage.getSimpleUrl());
             result = result.replace(VAR_IMG_CARD_DOWNLOAD_URL, bingImage.getUrl());
             result = result.replace(VAR_IMG_DETAIL_URL, bingImage.getDetailUrlPath());
+            result = result.replace(VAR_IMG_DETAIL_URL, bingImage.getDetailUrlPath());
+            result = result.replace(VAR_IMG_CRARD_REGION, Wallpaper.CURRENT_REGION.toLowerCase());
             return result.replace(VAR_IMG_CARD_DATE, bingImage.getDate());
         }
     }
