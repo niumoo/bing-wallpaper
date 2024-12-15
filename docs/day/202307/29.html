@@ -133,7 +133,8 @@
             }
 
             const newDateStr = `${year.toString().padStart(4, '0')}${month.toString().padStart(2, '0')}/${day.toString().padStart(2, '0')}.html`;
-            const newUrl = new URL(currentUrl.origin + '/day/' + newDateStr);
+            const region = currentUrl.pathname.includes("zh-cn")? "/zh-cn" : "";
+            const newUrl = new URL(currentUrl.origin + region+ '/day/' + newDateStr);
             window.location.href = newUrl.toString();
         });
     });
