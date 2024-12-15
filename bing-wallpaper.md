@@ -1,4 +1,44 @@
 ## Bing Wallpaper
+2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](https://cn.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-14 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-13 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-12 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](https://cn.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-10 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-09 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-08 | [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](https://cn.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-07 | [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-06 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-05 | [Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-04 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-03 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-02 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-01 | [Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-30 | [Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-29 | [Wild turkeys, New York (© John Cancalosi/Alamy)](https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-28 | [Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-27 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-26 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-25 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-24 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](https://cn.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 

@@ -1,4 +1,46 @@
 ## Bing Wallpaper
+2024-12-15 | [米苏里纳湖，多洛米蒂山脉，意大利 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaLake_ZH-CN0744434715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-14 | [猛鸮，加拿大 (© pchoui/Getty Images)](https://cn.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-13 | [圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利 (© Calin Stan/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-12 | [一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-12 | [一品红或圣诞花 (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN9570708784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-11 | [拉瓦雷多三峰山,意大利 (© Daniel Maran/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-10 | [被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰 (© Josef FitzGerald-Patrick/Getty Images)](https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-09 | [两只原驼,托雷斯德尔帕恩国家公园 , 智利 (© Floris van Breugel/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-08 | [巴黎圣母院，巴黎，法国 (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_ZH-CN6512133762_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-07 | [里约热内卢州的阿拉亚尔多卡博，巴西 (© Derson Santana/Shutterstock)](https://cn.bing.com/th?id=OHR.ArraialdoCabo_ZH-CN6202620711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-06 | [鸟瞰冰封的大海和悬崖上的灯塔，大连泊霞湾公园，辽宁省，中国 (© zhengshun tang/Getty Images)](https://cn.bing.com/th?id=OHR.GreaterSnow2024_ZH-CN5929129591_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-05 | [莫诺湖的石灰华地层，加利福尼亚州，美国 (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-04 | [雄性白犀，纳库鲁湖，肯尼亚 (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-03 | [Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度 (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-02 | [雌性驼鹿，德纳里国家公园，阿拉斯加州，美国 (© Cavan Images/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-12-01 | [南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-30 | [基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-29 | [圣米歇尔山，诺曼底，法国 (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-28 | [日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大 (© Jeff Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-27 | [秋天的巨人之墓，布永市，比利时 (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
+2024-11-26 | [橄榄树林，伊特里亚山谷，普利亚，意大利 (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-25 | [马赛长颈鹿，安波塞利国家公园，肯尼亚 (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-24 | [州立公园，索诺玛海岸，美国加利福尼亚州 (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
