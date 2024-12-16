@@ -64,6 +64,9 @@
             color:#fff!important;background-color:#4CAF50!important;
             box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
         }
+        .darkmode--activated .w3-third p {
+            color:white;
+        }
     </style>
     <script>
     var _hmt = _hmt || [];
@@ -247,14 +250,13 @@
         本网站已经开源，采用 Apache License 2.0 许可协议，复制请注明来自 <a href="https://github.com/niumoo/bing-wallpaper">bing-wallpaper</a>！
     </p>
 </footer>
-<div style="position: fixed; bottom: 10px; right: 15px; padding: 10px;display:none" id="wenjuan">
-
+<div style="position: fixed; bottom: 70px; right: 21px; padding: 10px;display:none" id="wenjuan">
     <a href="/bing-love.html" target="_blank" title="我的收藏">
-        <svg style="background-color: whitesmoke;border-radius: 8px" t="1732533547175" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6028" width="45" height="45"><path d="M533.504 268.288q33.792-41.984 71.68-75.776 32.768-27.648 74.24-50.176t86.528-19.456q63.488 5.12 105.984 30.208t67.584 63.488 34.304 87.04 6.144 99.84-17.92 97.792-36.864 87.04-48.64 74.752-53.248 61.952q-40.96 41.984-85.504 78.336t-84.992 62.464-73.728 41.472-51.712 15.36q-20.48 1.024-52.224-14.336t-69.632-41.472-79.872-61.952-82.944-75.776q-26.624-25.6-57.344-59.392t-57.856-74.24-46.592-87.552-21.504-100.352 11.264-99.84 39.936-83.456 65.536-61.952 88.064-35.328q24.576-5.12 49.152-1.536t48.128 12.288 45.056 22.016 40.96 27.648q45.056 33.792 86.016 80.896z" p-id="6029" fill="#ff1111"></path></svg>
+        <svg style="background-color: whitesmoke;border-radius: 30px;padding: 3px" t="1732533547175" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6028" width="45" height="45"><path d="M533.504 268.288q33.792-41.984 71.68-75.776 32.768-27.648 74.24-50.176t86.528-19.456q63.488 5.12 105.984 30.208t67.584 63.488 34.304 87.04 6.144 99.84-17.92 97.792-36.864 87.04-48.64 74.752-53.248 61.952q-40.96 41.984-85.504 78.336t-84.992 62.464-73.728 41.472-51.712 15.36q-20.48 1.024-52.224-14.336t-69.632-41.472-79.872-61.952-82.944-75.776q-26.624-25.6-57.344-59.392t-57.856-74.24-46.592-87.552-21.504-100.352 11.264-99.84 39.936-83.456 65.536-61.952 88.064-35.328q24.576-5.12 49.152-1.536t48.128 12.288 45.056 22.016 40.96 27.648q45.056 33.792 86.016 80.896z" p-id="6029" fill="#ff1111"></path></svg>
     </a>
     <br/>
     <a href="https://wj.qq.com/s2/15064293/69e0/" target="_blank" title="问卷调查">
-        <svg t="1722943125534" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2057" width="45" height="45">
+        <svg style="border-radius: 30px" t="1722943125534" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2057" width="45" height="45">
             <path d="M849.170732 0c97.404878 0 174.829268 77.42439 174.829268 174.829268v674.341464c0 97.404878-77.42439 174.829268-174.829268 174.829268H174.829268c-97.404878 0-174.829268-77.42439-174.829268-174.829268V174.829268c0-97.404878 77.42439-174.829268 174.829268-174.829268h674.341464z m-44.956098 694.321951H219.785366v64.936586h584.429268v-64.936586z m-444.565854-237.268292h-94.907317v197.307317h94.907317v-197.307317z m132.370732-199.804879h-94.907317v399.609757h94.907317v-399.609757z m134.868293 119.882927h-94.907317v277.229269h94.907317V377.131707z m132.370732 177.32683h-94.907317v99.902439h94.907317v-99.902439z" fill="#38c059" p-id="2058">
             </path>
         </svg>
@@ -281,6 +283,16 @@
             wenjuan.style.display = 'none'; // 否则隐藏
         }
     });
+</script>
+<script src="https://jsdelivr.wdbyte.com/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+    function addDarkmodeWidget() {
+        const options = {
+            label: '🌓'
+        }
+        new Darkmode(options).showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
 </script>
 </body>
 </html>
