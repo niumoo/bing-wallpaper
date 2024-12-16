@@ -13,6 +13,16 @@ function checkLogin() {
     return token ? token : null;
 }
 
+function logout() {
+    // 清除本地存储中的用户ticket
+    localStorage.removeItem('userTicket');
+    // 提示用户登出成功
+    alertMessage('你已经退出登录');
+    // 可选择重定向用户到登录页面或主页
+    window.location.href = '/index.html';
+    console.log('User has been logged out successfully.');
+}
+
 // 处理请求
 async function handleRequest(method, body) {
     const token = checkLogin();
@@ -64,6 +74,7 @@ async function deleteLove(region, date) {
     const result = await handleRequest('DELETE', body);
     if (result != null) {
         alertMessage('已移除喜欢');
+        window.location.reload();
     }
 }
 
