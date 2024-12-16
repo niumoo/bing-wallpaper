@@ -64,6 +64,9 @@
             color:#fff!important;background-color:#4CAF50!important;
             box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
         }
+        .darkmode--activated .w3-third p {
+            color:white;
+        }
     </style>
     <script>
         var _hmt = _hmt || [];
@@ -160,12 +163,12 @@
         本网站已经开源，采用 Apache License 2.0 许可协议，复制请注明来自 <a href="https://github.com/niumoo/bing-wallpaper">bing-wallpaper</a>！
     </p>
 </footer>
-<div style="position: fixed; bottom: 10px; right: 15px; padding: 10px;display:none" id="wenjuan">
-
+<div style="position: fixed; bottom: 70px; right: 21px; padding: 10px;display:none" id="wenjuan">
     <a href="#" onclick="logout()" target="_blank" title="退出登录" alt="退出登录">
         <svg t="1734273092266" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4275" width="45" height="45" style="
     background: #3dc15c;
-    border-radius: 10px;
+    border-radius: 30px;
+    padding: 5px;
 "><path d="M948.7 492.6L811.5 321.2c-5.7-5.7-17.1-11.4-28.6-11.4h-11.4c-11.4 5.7-22.9 17.1-22.9 34.3V447H474.2c-40 0-68.6 28.6-68.6 68.6s28.6 68.6 68.6 68.6h274.4V687c0 17.1 11.4 28.6 22.9 34.3h11.4c11.4 0 22.9-5.7 28.6-11.4l137.2-171.5c5.7-11.5 5.7-28.6 0-45.8zM611.4 789.9H337c-40 0-68.6-28.6-68.6-68.6V304c0-40 28.6-68.6 68.6-68.6h274.4c40 0 68.6-28.6 68.6-68.6s-28.6-68.6-68.6-68.6h-343c-74.3 0-137.2 62.9-137.2 137.2v554.5c0 74.3 62.9 137.2 137.2 137.2h343c40 0 68.6-28.6 68.6-68.6 0-34.3-34.3-68.6-68.6-68.6z" fill="white" p-id="4276"></path></svg>
     </a>
     <br/>
@@ -192,6 +195,16 @@
         }
     });
     getLoveList();
+</script>
+<script src="https://jsdelivr.wdbyte.com/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+    function addDarkmodeWidget() {
+        const options = {
+            label: '🌓'
+        }
+        new Darkmode(options).showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
 </script>
 </body>
 </html>
