@@ -43,6 +43,13 @@ async function handleRequest(method, body) {
         if (response.ok && data.code === 200) {
             console.log('Success:', data);
             return data.data;
+        } else if (response.ok && data.code === 1002) {
+            // jwt token expired
+            console.log('Token is expired. Handle accordingly.');
+            alertMessage('你的登录状态已过期');
+            // 休眠1s
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            logout();
         } else {
             console.log(`Request failed with status ${response.status}: ${data.message}`);
             // throw new Error(`Request failed with status ${response.status}: ${data.message}`);
