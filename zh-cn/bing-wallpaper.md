@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-27 | [布莱德湖，斯洛文尼亚 (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-26 | [莫斯霍��港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)](https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-26 | [莫斯霍尔港的圣诞灯饰，康沃尔，英格兰 (© ianwool/Getty Images)](https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
