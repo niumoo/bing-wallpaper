@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-30 | [Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-29 | [A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-28 | [Lake Bled, Slovenia (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 

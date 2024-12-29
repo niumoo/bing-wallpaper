@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-30 | [多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚 (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-29 | [婆罗浮屠大佛寺，爪哇岛，印度尼西亚 (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-28 | [一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚 (© Damsea/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
