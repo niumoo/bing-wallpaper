@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-01 | [在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-31 | [国会山上空的烟��，渥太华，加拿大 (© naibank/Getty Images)](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-31 | [国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)](https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
