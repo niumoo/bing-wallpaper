@@ -42,9 +42,14 @@ public class WebSiteGenerator {
         bingImages = bingImages.stream().filter(img -> img.getUrl() != null).collect(Collectors.toList());
         Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
         htmlGeneratorIndex(bingImages, monthMap);
+        htmlGeneratorToday(bingImages);
         htmlGeneratorMonth(monthMap);
         htmlGeneratorImgDetail(bingImages);
         htmlGeneratorImgJson(bingImages);
+    }
+
+    private void htmlGeneratorToday(List<Images> bingImages) throws IOException {
+        HtmlFileUtils.writeToday(bingImages.get(0).getUrl());
     }
 
     public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {

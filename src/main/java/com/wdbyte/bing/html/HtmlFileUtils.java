@@ -43,6 +43,11 @@ public class HtmlFileUtils {
         write(path, html);
     }
 
+    public static void writeToday(String html) throws IOException {
+        Path path = BING_HTML_ROOT.resolve("today");
+        write(path, html);
+    }
+
     public static void writeDetailHtml(String html, String urlPath) throws IOException {
         Path path = BING_HTML_ROOT.resolve(urlPath);
         write(path, html);
