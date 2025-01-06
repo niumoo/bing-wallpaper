@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-07 | [Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-06 | [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-05 | [Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
