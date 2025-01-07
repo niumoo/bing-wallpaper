@@ -49,7 +49,9 @@ public class WebSiteGenerator {
     }
 
     private void htmlGeneratorToday(List<Images> bingImages) throws IOException {
-        HtmlFileUtils.writeToday(bingImages.get(0).getUrl());
+        String url = bingImages.get(0).getUrl();
+        String fileName = String.format("%s-%s.jpg", Wallpaper.CURRENT_REGION, bingImages.get(0).getDate());
+        HtmlFileUtils.writeToday(fileName + ":" + url);
     }
 
     public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
