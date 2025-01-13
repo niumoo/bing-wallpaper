@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-14 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-13 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](https://cn.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-12 | [Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)](https://cn.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
