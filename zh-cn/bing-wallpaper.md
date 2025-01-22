@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-23 | [黄昏时的鹿谷，帕克城，犹他州，美国 (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-22 | [代尔修道院，佩特拉，约旦 (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-21 | [俯瞰那不勒斯湾和维苏威火山，意大利 (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
