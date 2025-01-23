@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-24 | [Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-23 | [Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-22 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
