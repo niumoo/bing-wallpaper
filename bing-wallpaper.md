@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-01 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](https://cn.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-31 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-30 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](https://cn.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
