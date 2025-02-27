@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-28 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-27 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-26 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
