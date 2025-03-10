@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-11 | [A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)](https://cn.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-03-10 | [St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-03-09 | [Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
