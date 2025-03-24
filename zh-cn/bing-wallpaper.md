@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-25 | [向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy)](https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-03-24 | [沙漠象与小象在高高的草丛中觅食，纳米比亚 (© Christophe Courteau/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-03-23 | [鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国 (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.NebraskaStorm_ZH-CN6944682381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
