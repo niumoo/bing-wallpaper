@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-05 | [The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-04 | [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-03 | [Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
