@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-08 | [春天的水仙花在清晨绽放 (© LedyX/Shutterstock)](https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-07 | [美洲海狸, Moran, 怀俄明州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-06 | [碎片大厦，伦敦 (© Dennis Fischer Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
