@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-09 | [Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-08 | [North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-07 | [George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
