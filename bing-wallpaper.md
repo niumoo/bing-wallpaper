@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-12 | [Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)](https://cn.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-11 | [Red fox cubs near their den (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-10 | [Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
