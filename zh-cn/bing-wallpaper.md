@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-17 | [安第斯动冠伞鸟，厄瓜多尔 (© Kit Day/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-16 | [卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-15 | [卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo)](https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
