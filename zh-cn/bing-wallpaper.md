@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-20 | [春天里的野生小兔子 (© Fiona McAllister Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-19 | [锡安国家公园，犹他州，美国 (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-18 | [卡帕多西亚格雷梅国家公园上空的热气球，土耳其 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
