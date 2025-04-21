@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-22 | [大棱镜彩泉，黄石国家公园，怀俄明州，美国 (© Ajith Kumar/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-21 | [银河下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-21 | [银���下的约书亚树，加利福尼亚州，美国 (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
