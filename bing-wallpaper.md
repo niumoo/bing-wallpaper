@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-26 | [Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)](https://cn.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-25 | [Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-24 | [Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)](https://cn.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
