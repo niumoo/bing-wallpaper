@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-28 | [Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-27 | [Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-26 | [Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)](https://cn.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
