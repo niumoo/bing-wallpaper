@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-05 | [Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-04 | [The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-03 | [Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
