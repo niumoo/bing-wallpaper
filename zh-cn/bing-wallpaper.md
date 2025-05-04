@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-05 | [日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林 (© zhaojiankang/Getty Images)](https://cn.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-04 | [西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-03 | [拱门国家公园双拱门映衬下的银河，犹他州，美国 (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
