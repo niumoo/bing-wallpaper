@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-18 | [加龙河对面的圣皮埃尔桥，图卢兹，法国 (© Image Professionals GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-17 | [威尼斯潟湖中的三角洲, 意大利 (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-16 | [大绿金刚鹦鹉, 墨西哥 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
