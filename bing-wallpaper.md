@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-24 | [A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](https://cn.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
