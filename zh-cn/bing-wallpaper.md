@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-04 | [卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-03 | [乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-02 | [一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)](https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
