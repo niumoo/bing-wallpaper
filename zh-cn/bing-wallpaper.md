@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-06 | [诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_ZH-CN9312381737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-05 | [福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)](https://cn.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-04 | [卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
