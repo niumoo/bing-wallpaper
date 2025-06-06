@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-07 | [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-06 | [Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-05 | [The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
