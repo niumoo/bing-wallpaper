@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-07 | [松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-07 | [松山顶峰, ���杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-06 | [诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_ZH-CN9312381737_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
