@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-13 | [维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-12 | [奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-11 | [大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
