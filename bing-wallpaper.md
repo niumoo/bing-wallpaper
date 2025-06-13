@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-14 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-13 | [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-12 | [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
