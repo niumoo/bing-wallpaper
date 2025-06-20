@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-21 | [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-20 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
