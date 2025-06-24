@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-25 | [Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-24 | [The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-23 | [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
