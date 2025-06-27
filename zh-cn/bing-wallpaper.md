@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-28 | [曼海姆水塔, 德国 (© no limit pictures/Getty Images)](https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-27 | [Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_ZH-CN9963744170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-26 | [马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
