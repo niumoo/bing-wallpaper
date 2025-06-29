@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-30 | [沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-29 | [Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-28 | [曼海姆水塔, 德国 (© no limit pictures/Getty Images)](https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
