@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-30 | [Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-29 | [Rainbow flags at New York Pride (© Alan Schein/Getty Images)](https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-28 | [Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
