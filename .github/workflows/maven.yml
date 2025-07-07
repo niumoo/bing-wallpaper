@@ -30,6 +30,17 @@ jobs:
       run: mvn -B package --file pom.xml
     - name: Run Java Application
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+
+    - name: upload files to OSS
+      uses: fangbinwei/aliyun-oss-website-action@v1
+      with:
+          accessKeyId: ${{ secrets.OSS_ACCESS_KEY_ID }}
+          accessKeySecret: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
+          bucket: bing-hk
+          # use your own endpoint
+          endpoint: oss-cn-hongkong.aliyuncs.com
+          folder: docs
+          
     - name: Commit files
       run: |
          git config --local user.email "niumoo@126.com"
@@ -46,13 +57,4 @@ jobs:
       with:
          github_token: ${{ secrets.MY_GIT_TOKEN }}
          branch: main
-    - name: upload files to OSS
-      uses: fangbinwei/aliyun-oss-website-action@v1
-      with:
-          accessKeyId: ${{ secrets.OSS_ACCESS_KEY_ID }}
-          accessKeySecret: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
-          bucket: bing-hk
-          # use your own endpoint
-          endpoint: oss-cn-hongkong.aliyuncs.com
-          folder: docs
     
