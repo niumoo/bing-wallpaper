@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-09 | [宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)](https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-07-09 | [宪法火��站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)](https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-07-08 | [塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)](https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
