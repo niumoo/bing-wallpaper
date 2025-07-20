@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-21 | [浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)](https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-07-20 | [望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)](https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-07-19 | [幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
