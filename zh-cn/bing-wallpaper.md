@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-23 | [梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-07-22 | [夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-07-21 | [浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)](https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
