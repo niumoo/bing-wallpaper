@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-27 | [Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](https://cn.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-07-26 | [Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-07-25 | [Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
