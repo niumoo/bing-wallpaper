@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-01 | [皇家英里大道, 爱丁堡, 苏格兰 (© MEDITERRANEAN/Getty Images)](https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-07-31 | [纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-07-30 | [里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)](https://cn.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
