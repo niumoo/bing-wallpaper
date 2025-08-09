@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-10 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](https://cn.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-08-09 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-08-08 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](https://cn.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
