@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-17 | [灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-08-16 | [色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)](https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-08-15 | [斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
