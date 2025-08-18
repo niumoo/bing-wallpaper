@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-19 | [祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-08-18 | [雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-08-17 | [灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
