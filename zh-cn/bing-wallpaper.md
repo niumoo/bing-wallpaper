@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-09 | [一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-08 | [乌节图书馆，新加坡 (© Darwin Fan/Getty Images)](https://cn.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-07 | [位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
