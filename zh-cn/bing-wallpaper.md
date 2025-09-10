@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-11 | [蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)](https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-10 | [干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-09 | [一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
