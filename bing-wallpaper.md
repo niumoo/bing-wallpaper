@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-12 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-11 | [Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-10 | [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
