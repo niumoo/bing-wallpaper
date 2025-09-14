@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-15 | [黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)](https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-14 | [奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-13 | [烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
