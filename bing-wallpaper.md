@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-16 | [Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)](https://cn.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-15 | [A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-14 | [Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
