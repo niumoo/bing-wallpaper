@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-26 | [最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国 (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-25 | [奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)](https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-24 | [魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)](https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
