@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-29 | [豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-09-28 | [托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-27 | [坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
