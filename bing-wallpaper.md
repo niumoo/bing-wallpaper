@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-02 | [Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-10-01 | [Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-09-30 | [The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
