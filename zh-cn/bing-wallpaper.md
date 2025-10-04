@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-05 | [中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-10-04 | [从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)](https://cn.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-10-03 | [布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰 (© Adam Mowery/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.SkyeHeather_ZH-CN2820283990_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
