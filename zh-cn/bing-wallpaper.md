@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-18 | [西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)](https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-10-17 | [罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-10-16 | [欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)](https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
