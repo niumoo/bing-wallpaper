@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-22 | [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-10-21 | [A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-10-20 | [Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
