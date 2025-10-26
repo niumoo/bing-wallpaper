@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-27 | [Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)](https://cn.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-10-26 | [Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)](https://cn.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-10-25 | [Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
