@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-09 | [礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-11-08 | [班登海滩的海蚀柱，俄勒冈州，美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-11-07 | [丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)](https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
