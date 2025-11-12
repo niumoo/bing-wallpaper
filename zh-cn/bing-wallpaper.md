@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-13 | [夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)](https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-11-12 | [斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-11-11 | [条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)](https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
