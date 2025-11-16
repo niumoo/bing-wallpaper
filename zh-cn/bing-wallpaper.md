@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-17 | [谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-11-16 | [里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国](https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-11-15 | [秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
