@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-28 | [Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-11-27 | [Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-11-26 | [The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
