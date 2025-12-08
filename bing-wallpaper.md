@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-09 | [Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-12-08 | [USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)](https://cn.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
