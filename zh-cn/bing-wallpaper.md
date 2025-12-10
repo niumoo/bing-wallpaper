@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-11 | [从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)](https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-12-10 | [科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-12-09 | [原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
