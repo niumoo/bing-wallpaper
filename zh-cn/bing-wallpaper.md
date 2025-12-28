@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-29 | [阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-12-28 | [马达加斯加的黑白���尾狐猴 (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-12-28 | [马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
