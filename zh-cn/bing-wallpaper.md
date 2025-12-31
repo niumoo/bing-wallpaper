@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-01 | [正在睡觉的北极狐 (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-12-31 | [除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)](https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-12-30 | [晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)](https://cn.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
