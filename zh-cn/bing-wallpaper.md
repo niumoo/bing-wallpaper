@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-13 | [克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-01-12 | [欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-01-11 | [舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images)](https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
