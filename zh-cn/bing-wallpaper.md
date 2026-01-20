@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-20 | [栖息在树枝上的北长尾山雀，大庆市，中��黑龙江省 (© Visual China Group/Getty Images)](https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-01-20 | [栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)](https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-01-19 | [亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)](https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
