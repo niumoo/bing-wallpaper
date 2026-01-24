@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-24 | [阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-01-23 | [绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-01-22 | [卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
