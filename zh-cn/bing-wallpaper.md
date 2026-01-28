@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-29 | [密尔沃基市政厅的八层开放式中庭，威��康星州，美国 (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-01-28 | [旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-01-27 | [卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)](https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
