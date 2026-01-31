@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>必应壁纸 | Bing Wallpaper</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="每日必应超清壁纸（4K）">
+    <meta name="keywords" content="bing wallpaper, 必应壁纸, 必应4k壁纸, 必应超清壁纸, 壁纸">
+    <link rel="stylesheet" href="/css/w3.css">
+    <link rel="icon" href="/img/fav.jpg">
+    <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/fuse.js/6.5.3/fuse.min.js" async></script>
+    <script src="/js/w3.js" async></script>
+    <style>
+        body,
+        html {
+            height: 100%;
+            margin: 0;
+        }
+        .bgimg-header {
+            background-image: url("https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=2000");
+            height: 103%;
+            position: relative;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: none; /* 最初隐藏大图 */
+        }
+        .smallImg-header {
+            background-image: url("https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=480"); /* 使用小图 */
+            filter: blur(15px);
+            -webkit-filter: blur(15px);
+            position: relative;
+            height: 103%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            transition: opacity 5s; /* 平滑过渡效果 */
+        }
+        .bigImg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            border-radius: 10px;
+        }
+        .smallImg{
+            filter: blur(15px);
+            -webkit-filter: blur(15px);
+        }
+        .w3-tag{
+            border-radius: 8px;
+        }
+        .img-btn{
+            background: rgba(255, 255, 255, 0.43);
+            border: none;
+            cursor: pointer;
+            display: none;
+            position: absolute;
+            right: 30px;
+            top: 10px;
+            border-radius: 8px;
+        }
+        .img-btn:hover{
+            color:#fff!important;background-color:#4CAF50!important;
+            box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+        }
+        .darkmode--activated .w3-third p {
+            color:white;
+        }
+    </style>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?b59b4b29843942e412b704c39cc7363a";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
+</head>
+<script>
+    function headerImgloading() {
+        var bgImg = document.querySelector('.bgimg-header');
+        var smallImg = document.querySelector('.smallImg-header');
+        // 创建一个新的图片对象以监控加载状态
+        var img = new Image();
+        img.src = 'https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=2000'; // 从背景图中提取URL
+        // 小图逐渐变透明
+        smallImg.style.opacity = 0.3;
+        img.onload = function() {
+            // 当大图加载完成时，首先显示大图
+            bgImg.style.display = "block";
+            smallImg.style.display = "none";
+        };
+    }
+    window.onload = headerImgloading; // 页面加载时执行
+    function imgloading(oImg) {
+        var n = 0;
+        var timer = setInterval(function () {
+            n++;
+            oImg.style.opacity = n * n / 50;
+            if (n * n >= 50) {
+                clearInterval(timer);
+            }
+            ;
+        }, 50);
+    };
+</script>
+<body>
+<div class="smallImg-header"></div> <!-- 模糊的小图 -->
+<div class="bgimg-header">
+    <div class="w3-display-middle w3-padding-large w3-wide w3-text-light-grey w3-center">
+        <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Bing Wallpaper(2026-02)</h1>
+        <div class=" w3-padding-large w3-text-light-grey" style="max-width: 800px">
+            <p>奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)</p>
+        </div>
+        <h5 class="w3-hide-large" style="white-space:nowrap">Bing Wallpaper</h5>
+    </div>
+</div>
+<menu class="w3-display-container w3-content w3-center" style="max-width:100%; height: 10px">
+    <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-card  w3-round-xlarge">
+        <a href="/" class="w3-bar-item w3-button w3-hover-green">首页</a>
+        <a href="#portfolio" class="w3-bar-item w3-button w3-hover-green"  onclick="w3_open()">归档</a>
+        <a href="/zh-cn/" class="w3-bar-item w3-button w3-hover-green">中国</a>
+        <a href="https://github.com/niumoo/bing-wallpaper" target="_blank" class="w3-bar-item w3-button w3-hover-green  w3-hide-small">GitHub</a>
+        <a href="https://wdbyte.com/bing-wallpaper-400" target="_blank" class="w3-bar-item w3-button w3-hover-green w3-hide-small">关于</a>
+        <a href="/download.html" class="w3-bar-item w3-button w3-hover-green">客户端</a>
+        <input id="search" type="text" class="w3-bar-item w3-input w3-round-xlarge w3-hide-small" placeholder="找壁纸" style="width: 150px">
+    </div>
+</menu>
+
+<!-- Sidebar (hidden by default) -->
+<sidebar class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;max-width:200px;min-width:100px" id="mySidebar">
+    <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">收起</a>
+    <a href="2026-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-green w3-large">2026-02</a><a href="2026-01.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2026-01</a><a href="2025-12.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-12</a><a href="2025-11.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-11</a><a href="2025-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-10</a><a href="2025-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-09</a><a href="2025-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-08</a><a href="2025-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-07</a><a href="2025-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-06</a><a href="2025-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-05</a><a href="2025-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-04</a><a href="2025-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-03</a><a href="2025-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-02</a><a href="2025-01.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2025-01</a><a href="2024-12.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-12</a><a href="2024-11.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-11</a><a href="2024-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-10</a><a href="2024-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-09</a><a href="2024-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-08</a><a href="2024-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-07</a><a href="2024-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-06</a><a href="2024-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-05</a><a href="2024-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-04</a><a href="2024-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-03</a><a href="2024-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-02</a><a href="2024-01.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2024-01</a><a href="2023-12.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-12</a><a href="2023-11.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-11</a><a href="2023-10.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-10</a><a href="2023-09.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-09</a><a href="2023-08.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-08</a><a href="2023-07.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-07</a><a href="2023-06.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-06</a><a href="2023-05.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-05</a><a href="2023-04.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-04</a><a href="2023-03.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-03</a><a href="2023-02.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-green w3-large">2023-02</a>
+</sidebar>
+
+
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;">
+
+    <!-- First Photo Grid-->
+    <div class="w3-row-padding w3-padding-16 w3-center" id="img_list">
+        <div class="w3-third " style="position: relative;height:249px">
+  <img class="smallImg" src="https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=50"  style="width:95%;" /><a href="day/202602/01.html"  target="_blank"> <img class="bigImg w3-hover-shadow" src="https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)"></a>
+ <p>2026-02-01 <a href="https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4" target="_blank">Download 4k</a> <button class="like-button img-btn" onclick="updateLove('zh-cn','2026-02-01')">喜欢</button></p>
+</div>
+    </div>
+    <div class=" w3-margin">
+        <div class="w3-container">
+            <h4>按月份查看</h4>
+        </div>
+        <div class="w3-container w3-white">
+            <p>
+                <a class="w3-tag w3-button w3-hover-green w3-green w3-margin-bottom" href="2026-02.html">2026-02</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2026-01.html">2026-01</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-12.html">2025-12</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-11.html">2025-11</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-10.html">2025-10</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-09.html">2025-09</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-08.html">2025-08</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-07.html">2025-07</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-06.html">2025-06</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-05.html">2025-05</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-04.html">2025-04</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-03.html">2025-03</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-02.html">2025-02</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2025-01.html">2025-01</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-12.html">2024-12</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-11.html">2024-11</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-10.html">2024-10</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-09.html">2024-09</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-08.html">2024-08</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-07.html">2024-07</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-06.html">2024-06</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-05.html">2024-05</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-04.html">2024-04</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-03.html">2024-03</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-02.html">2024-02</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2024-01.html">2024-01</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-12.html">2023-12</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-11.html">2023-11</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-10.html">2023-10</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-09.html">2023-09</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-08.html">2023-08</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-07.html">2023-07</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-06.html">2023-06</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-05.html">2023-05</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-04.html">2023-04</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-03.html">2023-03</a> <a class="w3-tag w3-button w3-hover-green w3-light-grey w3-margin-bottom" href="2023-02.html">2023-02</a> 
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+    <p>本站所有图片均来源于必应搜索
+        <br/>
+        Powered by <a href="https://github.com/niumoo/bing-wallpaper" title="W3.CSS" target="_blank" class="w3-hover-text-green">Github.com/niumoo</a>
+        <br/>
+        本网站已经开源，采用 Apache License 2.0 许可协议，复制请注明来自 <a href="https://github.com/niumoo/bing-wallpaper">bing-wallpaper</a>！
+    </p>
+</footer>
+<div style="position: fixed; bottom: 70px; right: 21px; padding: 10px;display:none" id="wenjuan">
+    <a href="/bing-love.html" target="_blank" title="我的收藏">
+        <svg style="background-color: whitesmoke;border-radius: 30px;padding: 3px" t="1732533547175" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6028" width="45" height="45"><path d="M533.504 268.288q33.792-41.984 71.68-75.776 32.768-27.648 74.24-50.176t86.528-19.456q63.488 5.12 105.984 30.208t67.584 63.488 34.304 87.04 6.144 99.84-17.92 97.792-36.864 87.04-48.64 74.752-53.248 61.952q-40.96 41.984-85.504 78.336t-84.992 62.464-73.728 41.472-51.712 15.36q-20.48 1.024-52.224-14.336t-69.632-41.472-79.872-61.952-82.944-75.776q-26.624-25.6-57.344-59.392t-57.856-74.24-46.592-87.552-21.504-100.352 11.264-99.84 39.936-83.456 65.536-61.952 88.064-35.328q24.576-5.12 49.152-1.536t48.128 12.288 45.056 22.016 40.96 27.648q45.056 33.792 86.016 80.896z" p-id="6029" fill="#ff1111"></path></svg>
+    </a>
+    <br/>
+    <a href="https://wj.qq.com/s2/15064293/69e0/" target="_blank" title="问卷调查">
+        <svg style="border-radius: 30px" t="1722943125534" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2057" width="45" height="45">
+            <path d="M849.170732 0c97.404878 0 174.829268 77.42439 174.829268 174.829268v674.341464c0 97.404878-77.42439 174.829268-174.829268 174.829268H174.829268c-97.404878 0-174.829268-77.42439-174.829268-174.829268V174.829268c0-97.404878 77.42439-174.829268 174.829268-174.829268h674.341464z m-44.956098 694.321951H219.785366v64.936586h584.429268v-64.936586z m-444.565854-237.268292h-94.907317v197.307317h94.907317v-197.307317z m132.370732-199.804879h-94.907317v399.609757h94.907317v-399.609757z m134.868293 119.882927h-94.907317v277.229269h94.907317V377.131707z m132.370732 177.32683h-94.907317v99.902439h94.907317v-99.902439z" fill="#38c059" p-id="2058">
+            </path>
+        </svg>
+    </a>
+</div>
+<script src="/js/love.js"></script>
+<script src="/js/search.js"></script>
+<script src="https://api.debug.group/js/weixin-code-login.js"></script>
+<script>
+    // Script to open and close sidebar
+    function w3_open() {
+        document.getElementById("mySidebar").style.display = "block";
+    }
+
+    function w3_close() {
+        document.getElementById("mySidebar").style.display = "none";
+    }
+    // 监听滚动事件
+    window.addEventListener('scroll', function () {
+        var wenjuan = document.getElementById('wenjuan');
+        if (window.scrollY > 400) { // 如果向下滚动超过100px
+            wenjuan.style.display = 'block'; // 显示该div
+        } else {
+            wenjuan.style.display = 'none'; // 否则隐藏
+        }
+    });
+</script>
+<script src="https://jsdelivr.wdbyte.com/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+    function addDarkmodeWidget() {
+        const options = {
+            label: '🌓'
+        }
+        new Darkmode(options).showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
+</script>
+</body>
+</html>
