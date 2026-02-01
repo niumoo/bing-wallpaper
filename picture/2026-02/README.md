@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2026-02)
-![](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&w=1000)Today: [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+![](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&w=1000)Today: [US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
+|![](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|

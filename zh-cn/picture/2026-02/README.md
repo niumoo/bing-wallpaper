@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2026-02)
-![](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&w=1000)Today: [奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+![](https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg&w=1000)Today: [阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
+|![](https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-02 [download 4k](https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
