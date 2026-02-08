@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-09 | [阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-02-08 | [科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-02-07 | [玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
