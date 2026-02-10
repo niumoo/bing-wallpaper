@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-11 | [死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-02-10 | [埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-02-09 | [阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
