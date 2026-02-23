@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-24 | [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-02-23 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-02-22 | [Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)](https://cn.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
