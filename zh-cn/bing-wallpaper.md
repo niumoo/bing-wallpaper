@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-03 | [元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)](https://cn.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-03-02 | [苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-03-01 | [伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)](https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
