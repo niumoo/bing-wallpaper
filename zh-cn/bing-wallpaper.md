@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-06 | [波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)](https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-03-05 | [格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-03-04 | [紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
