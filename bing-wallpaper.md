@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-13 | [Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-03-12 | [Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-03-11 | [Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
