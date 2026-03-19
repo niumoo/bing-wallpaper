@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-19 | [澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)](https://cn.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-03-18 | [汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-03-17 | [艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
