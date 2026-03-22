@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-23 | [Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-03-22 | [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-03-21 | [Snowdrops in spring (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
