@@ -36,6 +36,30 @@ public class Images {
         return String.format("![](%s)Today: [%s](%s)", smallUrl, desc, url);
     }
 
+    /**
+     * Generate a descriptive filename from the image description.
+     * Extracts the main subject from the copyright text.
+     * Example: "Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)"
+     * Returns: "2026-03-19-Short-beaked-echidna.jpg"
+     */
+    public String getFilename() {
+        String filename = date;
+        if (desc != null && !desc.isEmpty()) {
+            // Extract the main subject (before the first comma or parenthesis)
+            String subject = desc.split("[,(]")[0].trim();
+            // Make filename-safe by replacing special chars
+            subject = subject.replaceAll("[^a-zA-Z0-9\\s]", "")
+                           .replaceAll("\\s+", "-")
+                           .toLowerCase();
+            // Limit length to 50 chars
+            if (subject.length() > 50) {
+                subject = subject.substring(0, 50);
+            }
+            filename = date + "-" + subject;
+        }
+        return filename + ".jpg";
+    }
+
     public String getDesc() {
         return desc;
     }
