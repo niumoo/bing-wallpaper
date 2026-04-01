@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-02 | [Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-04-01 | [Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-03-31 | [Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
