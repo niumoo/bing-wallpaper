@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-18 | [摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-04-17 | [灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-04-16 | [斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
