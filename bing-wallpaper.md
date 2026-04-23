@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-24 | [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-04-23 | [Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-04-22 | [European hedgehog, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
