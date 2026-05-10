@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2026-05)
-![](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&w=1000)Today: [北极熊妈妈和幼崽在瓦普���克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+![](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&w=1000)Today: [北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-05-10 [download 4k](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-05-10 [download 4k](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-05-09 [download 4k](https://cn.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
