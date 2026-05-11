@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-12 | [北极海鹦, 威尔士 (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-05-11 | [从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-05-10 | [北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)](https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
