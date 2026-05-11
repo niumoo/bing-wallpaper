@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-12 | [Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-05-11 | [Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)](https://cn.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-05-10 | [Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
