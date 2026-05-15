@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-16 | [史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)](https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-05-15 | [一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-05-15 | [���群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
