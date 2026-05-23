@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-24 | [三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-05-23 | [与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-05-22 | [埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
