@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-15 | [大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-06-14 | [绿头鸭 (© Philippe Paternolli/Getty Images)](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-06-13 | [落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
