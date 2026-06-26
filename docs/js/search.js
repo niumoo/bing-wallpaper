@@ -21,6 +21,7 @@ function search(){
         // console.log(generateHTML(limitedResults));
         document.getElementById('img_list').innerHTML = generateHTML(limitedResults);
         addImgBtn();
+        if (window.bingDownloadEnhance) window.bingDownloadEnhance();
     }
 }
 
@@ -46,7 +47,7 @@ function generateHTML(data) {
                     <a href="${region}day/${formattedDate}/${day}.html" target="_blank">
                         <img class="bigImg w3-hover-shadow" src="${imgSrc}&pid=hp&w=384&h=216&rs=1&c=4" style="width:95%" onload="imgloading(this)">
                     </a>
-                    <p>${date} <a href="${imgSrc}&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4" target="_blank">Download 4k</a>
+                    <p>${date} <a href="${imgSrc}&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4" class="bing-download" data-region="${entry.item.region}" data-date="${date}" data-desc="${entry.item.desc}" target="_blank">Download 4k</a>
                     <button class="like-button img-btn" onclick="updateLove('${entry.item.region}','${date}')">喜欢</button></p>
                 </div>
             `;

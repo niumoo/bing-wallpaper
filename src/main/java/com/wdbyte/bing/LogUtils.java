@@ -13,4 +13,12 @@ public class LogUtils {
             System.out.println(msg);
         }
     }
+
+    public static void warn(String msg, Object... args) {
+        if (args != null) {
+            System.err.println(String.format(msg, args));
+        } else {
+            System.err.println(msg);
+        }
+    }
 }
