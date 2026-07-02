@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-03 | [小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-07-02 | [埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-07-01 | [地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)](https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
