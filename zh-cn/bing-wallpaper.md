@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-04 | [凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)](https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-07-03 | [小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-07-02 | [埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
