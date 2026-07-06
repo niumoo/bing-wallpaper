@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-07 | [板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-07-06 | [锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-07-05 | [瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
