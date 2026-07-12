@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-![](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&w=1000)Today: [��塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+![](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&w=1000)Today: [卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-12 [download 4k](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-12 [download 4k](https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-07-11 [download 4k](https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
