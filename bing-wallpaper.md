@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-23 | [Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-07-21 | [Moon and Earth captured by the Artemis II crew (© NASA)](https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
