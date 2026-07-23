@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-24 | [美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-07-23 | [粉红色大丽花 (© Harald Biebel/Getty Images)](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-07-22 | [珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
