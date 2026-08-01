@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-02 | [马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-08-01 | [大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)](https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-07-31 | [鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)](https://cn.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
