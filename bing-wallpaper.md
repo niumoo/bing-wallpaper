@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-08-24 | [Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-08-23 | [Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
