@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
