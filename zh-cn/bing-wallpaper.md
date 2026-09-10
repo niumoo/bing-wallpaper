@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-11 | [滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-09-10 | [奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-09-09 | [安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
