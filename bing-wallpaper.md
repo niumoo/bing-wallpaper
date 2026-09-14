@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-15 | [Field of kochia plants, China (© lingqi xie/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-09-14 | [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-09-13 | [California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
