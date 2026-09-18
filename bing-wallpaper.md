@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-19 | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-09-17 | [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
