@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-05 | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-10-04 | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-10-03 | [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
