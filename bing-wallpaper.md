@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-29 | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-10-28 | [A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](https://cn.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-10-27 | [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
