@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-03 | [布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-02 | [北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-01 | [黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)](https://cn.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
