@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-07 | [草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-06 | [竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-05 | [石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
