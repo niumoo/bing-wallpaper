@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-11 | [大西洋森林，巴西 (© FG Trade/Getty Images)](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-10 | [玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-09 | [特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
