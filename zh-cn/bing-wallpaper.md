@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-12 | [北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-11 | [大西洋森林，巴西 (© FG Trade/Getty Images)](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-10 | [玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
