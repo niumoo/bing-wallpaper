@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-13 | [North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-12 | [American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-11 | [Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
