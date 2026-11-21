@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-22 | [Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-21 | [Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-20 | [The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
