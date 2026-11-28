@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-29 | [俯瞰挪威特罗姆瑟的索马若伊大桥 (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.SommaroyBridge_ZH-CN0060105443_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2026-11-28 | [捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)](https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2026-11-27 | [夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)](https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
